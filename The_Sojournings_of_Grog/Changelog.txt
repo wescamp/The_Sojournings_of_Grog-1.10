@@ -1,0 +1,810 @@
+From version 2.10.20 to 3.0.0:
+* Added Daravel's dialogue revisions.
+* A0: a message about the Mudcrawler is spoken by Arcamenel, if the player has her.
+* B7: converted a message to floating_text.
+* B4: replaced three store/unstore blocks with [hide_unit] and [move_unit].
+* A1: assigned to the player the five villages near the starting keep.
+* A2-2: converted random experience code to Lua.
+* B5: fixed a bug that prevented the whip from being taken. 
+* B6: added labels below signposts.
+* B6: fixed share_view not working.
+* B7: removed a village from the border of the map.
+* A2-2: scenario rebalanced following Jabie's suggestions.
+
+From version 2.10.19 to 2.10.20:
+* Added [get_unit_defense] from Wesnoth Lua Pack.
+* Replaced a part of multihex attack code with [get_unit_defense].
+* Used [harm_unit], [modify_unit] and [floating_text] in the multihex attack code.
+* B7: the Dragon must be killed twice.
+* B7: raised Elves' and Mermen's gold after users' feedback.
+* Added Giant Worm and Cerberus Worm, sprites by battlestar.
+* Fixed a bug in Kaleh's advancement, spotted by Aleph (missing AMLA_DEFAULT).
+* Updated the Dragon's portrait with the one in TRoW.
+* B3: added a side of worms.
+* A0: used [item_dialog].
+* A6: used [item_dialog].
+* Re-ran wmllint, wmlscope and wmlindent.
+* A0: removed a duplicated [endlevel] tag.
+* C1-Jaash: Esanoo is recreated if he cannot be unstored.
+
+From version 2.10.18 to 2.10.19:
+* A3: the Elf is no longer recalled, instead another Troll (usually a Whelp) is recalled.
+* A3: Grog cannot recruit or recall here.
+* Fixed a bug that lowered Elyssa's resistance if she was near a Warbanner.
+* B7: the Sea Staff does no longer appear on Hard.
+* A3, B5, B7: the experience mod code is now converted to Lua.
+* B1: the Arcanister does no longer kill the other Dwarves.
+* B7: the Elves can recruit both L2 and L3 units. Zhul and Nym have ai_special=guardian. Also placed them in villages.
+* B6: fixed player not being listed as Grog in status table, due to a canrecruit=yes.
+* items.cfg: used [item_dialog] for the items in A7, B5, B7
+* A5: heavily reworked code for healing glyphs.
+* B6: added and wired a Sea Serpent portrait, made by Tissia. Updated credits.
+* tsog-deaths: fixed a bug (event=death instead of event=die) that allowed Ormron to speak from the grave in End of a Chapter!
+
+From version 2.10.17 to 2.10.18:
+* A3: made use of $this_unit in [harm_unit]. For this reason, campaign works only on 1.9.10 onwards.
+* A3: fixed a missing side=1 not noticed by wmllint.
+* Modified XP requirements, according to the latest mainline changes, for Wose Shaman, Naga Jackla, Naga Assassin, Gold Mage, Dragon Lord, Desert Star, Cactose, Brazier Imp, Bone Knight, Ant, Dust Devil.
+* Added Khalifate faction inside the campaign, after its removal from core.
+* Removed unused Dwarvish Rune Lord unit.
+* Removed AMLA from Dust Devil unit, to simplify things.
+* Updated Yeti portrait by Crow_T.
+* B7: made use of IS_LAST_SCENARIO macro.
+* Ran wmlindent.
+
+From version 2.10.16 to 2.10.17:
+* Added side=1 to [allow_recruit] in A6 and hack start.
+* A6: removed a block of duplicated code for victory event.
+* Added a new unit, Desert Vanquisher, as alternate advancement for Desert Hero. May need balancing. Unit made by Thand, credits updated.
+* Prologue: removed now unuseful note about difficult levels being made.
+* Prologue: added note about Desert Heroes' new advancement.
+* Used synchronized version of [item_dialog], taken from the Wesnoth Lua Pack.
+* Fixed references to doug_kaufman-music_score.ogg, and removed this track that now is in core with the name battle-epic.ogg.
+* Prologue, hack start: made use of #ifver to check the Wesnoth version and warn the player if needed.
+
+From version 2.10.15 to 2.10.16:
+* Removed Pango markup from credits, as per boru's report.
+* Gave to Rock Golem {AMLA_DEFAULT}.
+* Removed references to {ALLOW_UNDO}.
+* Experimentally replaced the standard message for getting the Holy Water in Prologue with a custom Lua dialog.
+* Removed [unslow] and [unpoison] (used only in B7), since their functions are now covered by [heal_unit].
+* Removed no longer used [nearest_hex].
+
+From version 2.10.14 to 2.10.15:
+* A2-1: added Daravel's dialogue corrections. Added wmllint control comments where appropriate.
+* A2-1: converted bridge destroy event to [filter_condition].
+* A2-1: converted a store/FOREACH/unstore cycle for setting ai_special to [modify_unit].
+* A2-1: converted victory event to [filter_condition].
+* A2-1: allowed undo when moving south (43,29).
+* A6: added and wired Crow_T's Yeti portrait.
+* A0: since now [recall] checks for terrain passabilty by default, removed RECAL_NEAR_SHIP macro.
+* A2-1: removed [nearest_hex] no longer necessary, due to use of [move_unit] and FormulaAI notation.
+* A1: replaced Bandits with Khalifate. To rebalance, Elyssa can summon Dust Devils.
+* Added Dust Devil from UtBS.
+* Removed Daravel's RTF file.
+* A6: converted four events to [filter_condition].
+
+From version 2.10.13 to 2.10.14:
+* Corrected an error in Cactose.cfg pointed by wmllint.
+* S1: now PICKUPPABLE_ITEM has 10 arguments, this means that the campaign works only on Wesnoth 1.9.5.
+* A2-1 and unit-create: removed [nearest_hex] and added placement=map_passable in several [unit] tags.
+* A3: Removed [nearest_hex] and replaced with check_passability=yes in unstore_unit.
+* Removed desert castle terrain now in core.
+* Fixed shadow of the new Cactose attack frame.
+* A2-1: the Naga is now spawned in a deep water hex.
+* A0: moved a water village elsewhere to avoid unstoring/recalling units surrounded by deep water.
+* A0: used check_passability=yes in Grog unstoring.
+* Gave to the Desert Shyde and Star units 30% defense on void.
+* S1, B7: the Elves use the new core Elvish flag.
+
+From version 2.10.12 to 2.10.13:
+* C1-Zurg: added difficult levels. Increased player's and computer's units.
+* C1-Jaash: now Drakes show up on different turn number depending on difficult level.
+* C2: due to all ships having multihex attack, raised enemies amount.
+* B7: removed grouping and changed aggression and caution for all AI controlled allies.
+* B6, B7: added code to remove and re-add the loyalty overlay to Jaash, if needed.
+* C1-Zurg: fixed [delay] using delay= instead of time=.
+* C1-Zurg: reworked code for spawning Cactose.
+* Added and wired Cactose N attack frame, by Phyreprooph. Credits updated, thanks!
+* C1-Zurg: added some more tropical forest and two more oasi.
+* A7: fixed a small stderr error caused by the prisoners code. Used {ID}.length to check if arrays are empty or not.
+* B7: added Naga Jackla to recruitment list.
+
+From version 2.10.11 to 2.10.12:
+* A3: converted the HP calculation for units wounded by Elyssa at start to Lua.
+* C1-Jaash: added difficult levels.
+* C2: added difficult levels.
+* C2: gave multihex attack to all the ships.
+* wml-tags.lua: created [unslow] and [unpoison] tags.
+* B7: used the tags above in start event to fix unit unstored poisoned or slowed.
+* B7: fixed invalid [set_variable] caused by sea staff.
+* B7: moved side 6 castle to avoid having it killed too easily by the surviving Gryphons.
+* B7: gave Nym, Zhul and Esanoo loyal trait and overlay.
+* B7: added difficult levels.
+* Naga Sentinel: corrected XP required for AMLA from 32 to 150.
+* Naga Assassin: removed unsupported key hit_sound.
+* Synchronized recruitment cost of Desert Elves with core wood Elves (with IftU for Hunter line).
+* B7: made allied AI less suicidal.
+* abilities: added affect_enemies=no to ABILITY_SHIELDS, as per Tet's suggestion.
+* A7, S2, hack start: Ormron, Jaash and I-Gruk have the loyalty overlay (bronze ring).
+* C2: fixed multihex attack code displaying floating point numbers.
+* S1: fixed a filter in PICKUPPABLE_ITEM that caused wmlxgettext to crash (apparently I managed to run it on Linux).
+
+From version 2.10.10 to 2.10.11:
+* B3: added difficult levels.
+* B4: removed a little remnant of old status 3.
+* B4: added difficult levels.
+* B5: added difficult levels. Also, changed one [event] [if] to [event] [filter_condition].
+* B6: added difficult levels. Also, changed one [event] [if] to [event] [filter_condition].
+* E-kills: stone bridges become water.
+* B5: altered [ai] settings for allies, this should mean having them less suicidal.
+* Fixed reference to mainline portraits for Great Ogre and some Villager units pointed out by wmlscope.
+
+From version 2.10.9 to 2.10.10:
+* Added back Naga Assassin unit (level up from Naga Hunter) with new baseframe made by Elvish_Hunter (it's me!).
+* A7: added difficult levels.
+* S2: used GOLD_CARRYOVER 100 to not lose gold between A7 and B1.
+* A5: added Naga Assassin unit.
+* A7: fixed attack lich message being shown in the wrong moment.
+* A7: fixed Drake potion warden not being guardian.
+* B7: added back Naga Assassin unit.
+* A2-1: added Drunk trait to the two Dwarvish guards at the scenario start, as per Daravel's suggestion.
+* A0: added Daravel's dialogue corrections.
+* A1: assigned roles to the first group of bandits by adding a ROLE_GROUP_1 macro.
+* A1: the second part of Elyssa's dialogue happens after killing all bandits with role=group_1.
+* A1: added Daravel's dialogue corrections.
+* New description for the Gold Mage unit.
+* B1, B2: the Dwarvish boss is now a mainline Arcanister with an object that gives him also lightning bolts. Ugh.
+* B1: added difficult levels.
+* B1: you cannot longer kill the Dwarvish Boss due to FORCE_CHANCE_TO_HIT (it was almost impossible also before, anyway, so I decided to add it back).
+* B1, B2: Zurg's remaining gold in B1 is stored and given to Grog in B2 when Zurg arrives.
+* B2: added difficult levels.
+* Great Ogre: added miss attack sound. Also, slowed down baseframe animation a bit.
+* B2: fixed one Orcish portrait not shown.
+* B2: Jaash, Zurg, I-gruk, Elyssa (on the map) and all surviving units from B1 (to recall list) are unstored with full HP and moves.
+* Moved some macros from tsog-deaths to anim-utils.
+* Rewrote and heavily shortened MOVE_UNIT_IN macro.
+* A2, B3, B6: fixed Grog's starting positions to allow use of new MOVE_UNIT_IN version. Grog will simply use [move_unit].
+* Used [flash_screen] Lua tag in THUNDER_AND_LIGHTNING macros.
+* Removed deprecated NEAREST_HEX and NEAREST_UNIT macros. Now the code relies only on the Lua versions.
+
+From version 2.10.8 to 2.10.9:
+* A4: added difficult levels.
+* Added new Naga Jackla unit, sprites made by Vendanna. Credits updated.
+* Prologue: added Daravel's dialogue corrections.
+* A5. converted some events with [if] to [filter_condition].
+* A5: added difficult levels. Use higher leveled units.
+* A3, A5, A7: added custom [flash_screen] Lua tag.
+* A3: fixed variable random not cleared.
+* A7: got rid of a [set_variable] wml error, and of a double prestart event.
+* Animated Rock, Rock Golem: added attack miss sound.
+* A6: added difficult levels.
+* A2-2: decreased turn limit by 1 turn on Medium and by 2 turns on Hard.
+* Added new Lua custom tags [nearest_hex] and [nearest_unit], to replace the macro versions.
+* A5: added new 1.8 AI syntax for side 2 and 3.
+* A5, B6, C1-Jaash: replaced macro {NEAREST_UNIT} with Lua tag [nearest_unit].
+* A0, A2-1, A3: replaced macro {NEAREST_HEX} with Lua tag [nearest_hex].
+* A0: on Medium, only one Mermen is L2; no L2 Mermen on Hard.
+* A6: on Medium and Hard, the speed ring gives +1 MP instead of 2.
+* Added missing {MAGENTA_IS_THE_TEAM_COLOR} to Naga Hunter.
+* A2-1: fixed collapsing hex using gold.ogg instead of rumble.ogg as sound.
+
+From version 2.10.7 to 2.10.8:
+* A0: converted several [if] tags inside [event] to [filter_condition] to fix a bug reported by shadowblack.
+* A0: fixed a bug reported by Daravel that made enemy units speaking about the bottle. Modified by creating two events.
+* A2-1: now all Spiders and Ants are killed on victory, to avoid having Grog, Elyssa or Zurg moving through them... (reported by shadowblack).
+
+From version 2.10.6 to 2.10.7:
+* Started adding difficult levels.
+* S1: The Desert Druid ia a Desert Shaman on Medium and Hard, the Desert Captain is a Fighter on Hard, the Holy Water is given only on Easy and Medium.
+* S1: The Desert Elves start on side 2 and are changed to side 1 at the dialogue end.
+* S1: all side 1 units are hidden for final leaving sequence.
+* A0: added difficult levels.
+* A1: added difficult levels.
+* A2-1: added difficult levels, and fixed a small dialogue bug.
+* A2-2, A1: fixed event=sighted,moveto not correctly working: it was due to [filter_second], that in 1.8 seemed to allow firing the event anyway, but in 1.9 no longer does. Someone should fix this in Love to Death as well...
+* A1: added scroll_to_unit delay to allow seeing where the Cactose is.
+* A2-2: added difficult levels.
+* Removed [floating_text] custom tag, that now is in core. Campaign will work only on Wesnoth 1.9.3.
+* A3: removed deprecated REDRAW macro.
+* A3: added difficult levels.
+* E-kills: added three more changes from dry villages to their ruined counterparts.
+* wml-tags: added new [flash_screen] custom Lua tag. It's meant as a replacement for the FLASH macro series.
+* _main.cfg: added Lua code to allow use of custom tags without using preload events in each scenario.
+* A3: corrected a bug that caused recruited enemy units to have always the same bonus XP points on recruitment.
+* A3: corrected also another bug by adding round operations, otherwise floating point numbers were passed to rand, and awarding bonus XP didn't worked for some units.
+* A2-2, B5, B7: fixed exactly the same bug above.
+
+From version 2.10.5 to 2.10.6:
+* All scenarios: added wmlscope ignoring directives for UMC Music tracks. Wmlscope output is clean.
+* Added and wired, the new White Troll sprites by me and Eros. I won't remove, at least for now, the old White Whelp sprites: these may still be useful.
+* Prologue and A part: added Eros' dialogue corrections.
+* A0: changed ship dialogue event from turn 2 to moveto.
+* A0: changed dialogue for move near temple or to swamp events, in case that the moving unit is the ship.
+* A3: rebalanced scenario for Easy by removing Wraith on Easy, replacing generic Wraiths with Ghosts, Lotin cannot longer recruit Ghosts and is a Death Baron (L2).
+* A2-2: gold is now given after the dialogue with the Undead instead of before.
+* A4: deleted unuseful turn 16 event. Reverted role from fun to hot.
+* A7: removed one no longer useful CLEAR_VARIABLE.
+* All scenarios: added [gold_carryover] to [objectives].
+* C2: used [show_if] to get rid of the second objectives set.
+* S2: removed unuseful FLAG macro, because we never see the map.
+* flags: renamed Orcish flags images for compatibility with mainline FLAG_VARIANT.
+* Converted all FLAG macros to mainline FLAG_VARIANT macros (except for TROLL_FLAG, that uses 6 frames).
+	List of conversions:
+	ORC_FLAG		{FLAG_VARIANT northerner}
+	ELF_FLAG		{FLAG_VARIANT long}
+	MERMAN_FLAG		{FLAG_VARIANT long}
+	HUMAN_FLAG		{FLAG_VARIANT loyalist}
+	OGRE_FLAG		{FLAG_VARIANT long}
+	GRYPHON_FLAG		{FLAG_VARIANT long}
+	DWARF_FLAG		{FLAG_VARIANT knalgan}
+	UNDEAD_FLAG		{FLAG_VARIANT undead}
+	DRAKE_FLAG		{FLAG_VARIANT drake}
+* Removal of unused stuff:
+	- all the FLAG macros above
+	- zhaytee-tragedy.ogg, because with the new A1 dialogue is too long. Used mainline sad.ogg instead. Credits updated.
+* Renamed white_whelp.cfg to White_Troll.cfg; made also a backup of the old white_whelp.cfg.
+* Removed HP increase AMLA option from White Troll: now its HP are increased a bit with each AMLA. It now requires 376 XP to fully develop.
+* abilities, E-kills, unit-create: gave Elyssa the terrain change special.
+* A1: added a note about the special above.
+
+From version 2.10.4 to 2.10.5:
+* All scenarios and unit-create: modified GROG macro and placed type= in every [side] tag to fix a wmllint error.
+* Wmllint output is now clean, except for spellchecker.
+* S2, S3: added CAPTION macro to have the speaker's name in story screens.
+* Added wmllint spellchecker directives in several places.
+* Wired UMC Music Pack tracks, making use of #ifhave directives to avoid problems to those players that don't have it installed. Added a note about this in _server.pbl, and a message if the player doesn't have it in S1.
+* _main.cfg: moved [binary_path] inside campaign #ifdef, and corrected image links to use full paths.
+* A0: commented out the tentacle code.
+* A0: despite Eros' opinion, changed Cactoses to Scorpions. Fixed locations.
+* A1: added a missing first_time_only=no in moveto signpost event to avoid blocking the player on that scenario.
+* A1: avoided spawning Cactoses in the last five rows, to avoid having them near the signpost.
+* A2-1: changed hint about White Troll. Changed also map a bit and location of this unit.
+* A2-1: fixed ID of one Dwarf leader.
+* Added "full heal" or "no full heal" to all White Troll AMLA descriptions.
+* Added removing of poisoning and slowing to all AMLAs that fully heal the White Troll and the Mudcrawler.
+* Fire Wisp: changed attack icons to match those of mainline Fire Guardian.
+* A4, A2-2, A1, A5, A2-1: modified sighted event + moveto event + fire event to event=sighted,moveto (A4 bats event, sighted undead, sighted bone shooter, sighted dwarfboss in A2-2, sighted_bandits_no_elyssa in A1, this one now uses also filter_condition, sighted rats, sighted nagas, sighted bats, sighted serpents in A5, sighted side 3 in A2-1).
+* B7, both C1, C2: removed now unsupported full_heal=yes key from [unstore_unit], replaced with variable settings.
+* All scenarios: replaced every occurrence of {MOVE_UNIT} with [move_unit].
+* All scenarios: replaced every occurrence of {MODIFY_UNIT} with [modify_unit].
+* A4: reduced tunnel length by 4 hexes. Fixed locations. Added missing tunnel at 19,20.
+* Copied new terrain.cfg and terrain_graphics.cfg from UtBS, copied also the new Ruined Sand Castle images. Added this terrain in A1.
+* A4: commented out undead swimmers spawning code, will be used only on Hard.
+* A4: spawn undead also from fourth tunnel.
+* Added missing first_time_only=no to preload events.
+* Updated music playlist, making also use of #ifhave directives to allow using tracks from UMC Music Pack.
+* New AMLA icon for white whelp and mudcrawler: heart-amla.png. Added OpenClipArt to credits.
+
+From version 2.10.3 to 2.10.4:
+* A3: removed an unuseful PUT_TO_RECALL_LIST event.
+* A3: commented out a non working message.
+* Ran wmllint and wmlscope, campaign will now work only on Wesnoth 1.9.2 or higher.
+* Removed now mainlined Fire Guardian.
+* Removed now unuseful custom Elyssa unit line from A1, items and unit-create, due to fixed [advancefrom] behaviour. Removed also its cfg file.
+* B7: map modified to make use of new Volcano (Mv) terrain.
+* Added and wired recoloured portrait for Elyssa's advancement as Gold Mage.
+* wmllint: replaced all [removeitem] with [remove_item] tags in all files.
+* tsog-deaths: modified variable name in MOVE_UNIT_IN to avoid wmllint complaining about variable with translation mark.
+* B6, A7, C2, A6, B7: added # wmlscope: start ignoring to some macro callings to avoid wmlscope marking them as mismatched references.
+* A2-1, tsog-deaths: moved sound name inside QUAKE macro to fix wmlscope complaining about mismatched reference.
+* Wmlscope output is now clean.
+* B7: removed a little remaining of old Status 3.
+* Now the loyal Mudcrawler that you can find in A0 has 4 MP also at level 0.
+* A5: fixed a [scroll_to] that caused a small stderr error.
+* A6, B2, B4, B5: replaced some wooden bridges with the new stone bridges.
+* A2-2: replaced some Dwarvish Guardsmen with Fighters and Thunderers, as per shadowblack's feedback. Avoided Bersekers because they will unbalance the scenario and Scouts because they're weaker.
+* A4: a bit modified objectives to make more clear that the tunnel won't open on turn 14.
+* A4: removed an ~RC too much that caused a small stderr error.
+* _main.cfg: added ENABLE_DWARVISH_RUNESMITH.
+* A1: replaced {MOVE_UNIT} with [move_unit].
+* A1: experimentally replaced my combined sighted + moveto + [filter_vision] with event name=sighted,moveto like in Love to Death.
+* A2-1, A2-2, A4: removed mine rails.
+* A0: now the loyal Mudcrawler starts as level 1.
+* The Mudcrawler can now hide also on mushrooms terrain (even on mushroom farms and stones).
+* Mudcrawler: now some AMLAs are required to gain access to some other AMLAs. For example, mud hiding can be gained only after having a movement AMLA.
+* A1: message about Elyssa's upgrades now appears after the dialogue.
+* White Troll: now some AMLAs are required to gain access to some other AMLAs.
+* A2-1: White Troll moved back here. Added also an hint by Elyssa.
+* A6: removed message about Ogre upgrades, that now we have in A7.
+* A6, A7, B2, B3, B4, B5, B6: commented out autorecalls of White Troll and Mudcrawler.
+* A6: modified I-Gruk message to avoid speaking about "mountains with legs".
+* A3: fixed a missing [store_unit] that caused an stderr error.
+* A0: added some Cactoses to the Bandit branch. Added also a variable control to check if the message about them in A1 should appear.
+* White Troll: added Obscure ability as AMLA.
+* Increased White Troll base mud storm attacks to 6 to make things simpler with AMLAs.
+* Reworked White Troll and Mudcrawler AMLA system following Eros' suggestions.
+* All scenarios, tsog-deaths: swapped Gong's and Krunk's names. Now the White Troll is called Krunk. Ah, the good old times...
+* A2-1, A3, A7, B1: removed runic halo, but not its local ToD.
+* A3: added a # wmllint: ignore to the line variable="stored_"+$unit.id
+* Re-ran wmllint on special-notes and dialog-macros.
+* Changed heal_full=yes to heal_full=no in several AMLAs of the White Troll.
+* A2-2: added autorecall of White Troll.
+* Now the White Troll and the Mudcrawler raise their level upon choosing certain upgrades.
+* Lowered experience requirements for mudcrawler: after reworking its AMLA, now it requires 194 XP (in the best situation) to be fully developed, that is enough for a Level 2 with some more speed an an extra ability.
+* Committed my first Lua tag, [floating_text].
+* A0, A3, A7: made use of [floating_text] instead of {FLOATING_TEXT}.
+* Lowered experience requirements for White Troll: after reworking its AMLA, now it requires 608 XP (in the best situation) to be fully developed. Still too much for a L3 with four attacks, regeneration and obscures?
+* A4: modified map, that now has a longer river, also fixed locations for SCATTER_UNITS macro and changed Bats' side.
+* A1: made it so that Cactoses aren't spawned in the first nine rows.
+* Mudcrawler: removed [defense] tag, because mainline Mudcrawlers already have 40% defense on cave and sand.
+* B1: Changed type of two Dwarvish leaders to Runemasters.
+* Please note that [floating_text] will be removed for 1.9.3 because it was just committed in core.
+
+From version 2.10.2 to 2.10.3:
+* Removed some unused images pointed out by Anonymissimus and wmlscope.
+* Removed unused macros:
+	- from tsog-deaths: HUMANS_BIG, OGRE_ROLE, GRYPHON_ROLE
+	- from B4: OBJECTIVE_STATUS_3
+	- from B6: OBJECTIVES_HUMANS_DIE
+	- from inspire: ABILITY_INSPIRE_LEVEL_1
+	- from special-notes: SPECIAL_NOTES_CAMOUFLAGE
+* B2: assigned one message to Jaash to remove otherwise unused GRYPHON_ROLE macro.
+* Ant: removed a now unuseful note about their resistances.
+* A1: temporarily fixed Elyssa not using her special unit line in one event.
+* A1: made it so Grog speaks instead of the mudcrawler in events.
+* A2-1: made it so Grog or Elyssa speak instead of the mudcrawler in events.
+* NOTE: No need to do these mudcrawler modifications for A2-2, A3, A4, B1, B2, B3, B4, B5, both C1, C2, B7.
+* A5: made it so that, if the player still has him, Gong instead of Zurg collapses the tunnel at start.
+* dialog-macros: modified MESSAGE_FIRST_UNIT, MESSAGE_SECOND_UNIT and MESSAGE_FIRST_ENEMY so that Elyssa always speak instead of the mudcrawler.
+* A5: inserted a variable check to ensure that Grog doesn't speak to himself if the mudcrawler fires the "lost" event.
+* A5: fixed death of lava monsters event to take in account the new units that we have here.
+* A5: inserted some variable checks to avoid having the mudcrawler speak in some messages, or Elyssa talking to herself.
+* B7: gave the mudcrawler his battle cry!
+* tsog-deaths: gave a death message for the mudcrawler. And Elyssa will miss it.
+* dialog-macros: removed CHECK_UNIT and CHECK_SECOND_UNIT macros, because I did the mudcrawler check without those.
+* A3: fixed a [sound] tag with a wrong parameter that broke the victory event.
+* A3: fixed captors' overlay not placed.
+* A3: fixed prisoner code not working correctly. Also, made use of [switch] [case].
+* A3: removed storing units and variable checks in start failsafe code, replaced with [have_unit] count= search_recall_list=yes.
+* tsog-deaths: fixed THUNDER_AND_LIGHTINING and THUNDER_AND_LIGHTNING_WEAK to make use of [switch] [case].
+* A2-2: made use of MOVE_UNIT_IN as Eros requested.
+* A3: added a message where Elyssa states that it's better to stay on the main road.
+* A3: lowered income and gold of enemy sides. Removed Chocobones from Lotin's recruit list.
+* tsog-deaths: fixed MOVE_UNIT_IN to make use of [have_unit] search_recall_list=yes.
+* tsog-deaths: added death dialogue for Gong.
+* Fixed a bug that ruined animations of Gold Mage's attack staff.
+* Brazier_Imp: wired recruit animation.
+* B6: added a variable check in sighted serpent event to avoid Elyssa panicking! And also to avoid the mudcrawler to speak, of course.
+* B3: used [filter_adjacent] to get rid of unuseful NEAREST_UNIT calling.
+* A3: made use of a single macro to restore half HPs to captured units. Also, fixed "unit captured" not showed in red.
+* A5: added a variable check to avoid having Elyssa talking about insects and then correcting herself.
+* A3: fixed a message that should appear if the player hasn't freed all the captured units.
+* A3: removed an unneeded terraing change event.
+* A2-1: fixed an xy= instead of x,y= that caused a Lua error.
+* A2-1: fixed complaining Dwarf having a wrong side.
+* A2-1: when the Naga is killed by a player's unit, the player finds 10 gold pieces, as shadowblack suggested.
+* A2-1: called NEAREST_HEX for every unit spawning event in Grog's home.
+* A2-1: fixed locations for Elyssa's message about Grog's home being ahead. Also added a variable check to fire only one of these two messages.
+* Mudcrawler: fixed two advancements not fully healing it while indicated.
+* A0: added three more hexes of deep water to have NEAREST_HEX macro working correctly on bandit branch. Fixed locations accordingly.
+* A3: got rid of cave path terrain and replaced with earthy-toned cave (Uue), as per Anonymissimus' suggestion.
+* A5: replaced cave with earthy-toned cave (Uu->Uue) and cave wall with earthy-toned cave wall (Xu->Xuce) in the lava pool.
+
+From version 2.10.1 to 2.10.2:
+* Campaign moved on the 1.9 series.
+* Ran wmllint and wmlscope
+* Removed now mainlined new Drakes and Giant Rat. Fixed Drakes' recruit lists and units.
+* Removed non-animated Lava Monsters.
+* Added a deprecation warning in comments of Fire Guardian: being moved to core in trunk, will be deleted for 1.9.2.
+* Imported new terrain-graphics.cfg from UtBS.
+* Removed long flag and ragged flag images, because they're now mainlined.
+* A3, A5, A7: replaced "Ryd" (dark tiles) terrain with mainlined "Urb" terrain. Removed Dark Tile images as well. No gameplay changes.
+* Removed old unused A2, A4 and S2 maps.
+* Removed backup files created by wmllint, of course.
+* Renamed two files to Mage_Silver_and_Red_TSoG.cfg and Troll_Shaman_TSoG.cfg.
+* Renamed Ooze unit line to Mudcrawler TSoG line. Changed A0 and hack start accordingly.
+* Reduced Mudcrawler defense on cave and sand by 10%.
+* Nuked Naga Assassin as per Eros' request.
+* B7: removed Naga Assassin from Nagas' recruit list. Increased number of recruitable Naga Hunters.
+* Replaced Desert Sentinel and Prowler with the latest versions from UtBS. Smote old animations as happened in mainline.
+* Deleted Flesh Golem unit. Deleted also its sprites.
+* Replaced Flesh Golems in A5 with two Brazier Creations and one Rock Golem.
+* Replaced skeleton-big-hit.ogg with {SOUND_LIST:DRAKE_HIT} in Animated Rock and Rock Golem. Removed old sound and corrected _main.cfg as well.
+* Smote 35 unused images.
+* B7: Ssssmote Naga Abominationsss and replacedsss withsss Naga Myrmidon unitsss assss per Erosss' requesssst. Hsss. (I wasn't able to resist writing this :-P)
+* A3: made it so that, when an undead killers a player's unit, the undead tries to return to the Lich's castle.
+* B7, S4: finished removing unused code for status 3 (humans were enemies).
+* A2-1, A6, A7, S1, hack start, Grog Great, Grog Hero, items: changed some strings that used nested quotes to use Pango markup, or removed quotes, for wmllint reasons.
+* items.cfg: removed cannot_use_message from healing glyph macro for wmllint reasons.
+* Mudcrawler.cfg: added a new AMLAs, that increases defense in caves and sand by 10%.
+* Info folder: added new Eros' info files, removed old characters folder.
+* E-kills.cfg: updated to alter new terrains, even those that aren't yet in the maps
+* E-kills.cfg: added [filter_second_attack] to make terraing changes happen only on Elyssa's ranged attack.
+* B7: added updated map by Eros.
+* Removed unused Desert Scout unit line.
+* Deleted desert.jpg for unknown source.
+* Removed utbs-macros that contain only unused stuff.
+* Maps modifications: added mine rails to A2-1, A2-2 and A4, desert castle to A1, snowy castles and keeps, and replaced old grass with flowers with floreal embellishment in A6, floreal embellishment in B2, replaced crops with dry leaves and dry land in B3.
+* A0: moved message about Grog's inspire from A1 to disembarkation event in A0.
+* A2-2: made loyal mudcrawler autorecalled.
+* A5, A6, A7, B2, B3, B4, B5, B6, B7: the loyal mudcrawler and the loyal White Troll are now autorecalled.
+* B4, B5: removed L3 Orcs from recruit lists as shadowblack suggested some time ago.
+* Committed new story screens: Fortress2, Gate2, sunsetintheswamp, Shore, waterfall, desertnight, Guardtower, cloudsinthedesert, greenhills, coldmountain, all by JAP, and Castle-Tirigaz by vonHalenbach.
+* All scenarios: wired the new story screens. Changed credits accordingly.
+* _main.cfg: added rank=251 and rank=252 to keep closer the two parts of the campaign, and to show it immediatly after UtBS.
+* A2-1: removed the lava pool.
+* A2-1: removed the Fire Wisps and replaced with Giant Ants. Removed sighted Fire Wisp event.
+* Added and wired also a story screen made by me (E_H), book_9, for use in Prologue, B1 and Conclusion. With this, I think that the story art is now complete.
+* The Giant Mudcrawler now has an AMLA option that allows hiding on swamp, quagmire, dry roads, dirt and caves.
+* Removed now unuseful CHANGES.txt, HISTORY.txt and WALKTHROUGH.txt from INFO directory.
+
+From version 2.10.0 to 2.10.1:
+* Added shadowblack to credits, for playtesting and feedback.
+* B4: now the scenario starts directly with 40 turns, without any further turn raising.
+* B4: added a note about how many turns to resist to open the tunnels.
+* B4: from turn 10 onwards, some undead swimmers are spawned each turn randomly.
+* B4, B5: added a bridge from the main island to the temple, to make more evident that the temple is human land.
+* B6: added a message for the Sea Serpent when sighted.
+* B2, B7: removed duplicated victory_when_enemies_defeated=no.
+* Added new A2-1 and A2-2 by Eros, under the names Homecoming and A Doubtful Alliance.
+* C1-Jaash: scenario rebalanced by decreasing Cactose number, increasing Gryphons and Young Gryphons number, increasing Mermen's gold, placing some villages near Mermen's castle, making Esanoo invulnerable for that scenario, lowered amount of spawned Drakes, and adding a message when Drakes appear.
+* C1-Jaash, C1-Zurg, C2: merged modifications by Eros.
+* B2: fixed first_time_only=yes in Grog and Elyssa moveto signpost events spotted by bayesian.
+* Imported Fire Wisp unit for use in new version of A2-1 and A5.
+* A7: added event that shows a message on first recruiting or selection of Young Ogres and Young Gryphons about their upgrades.
+
+* Incinerated unused Spider Lich unit.
+* Gived to Giant Ant the same stats that it has in UtBS.
+* Renamed C1-Jaash as Flying above the Sands.
+* B7: removed or commented some variable settings, replaced by keys in unstore_unit tags.
+* A0: corrected Esanoo death message.
+* Removed some old backup files.
+* Added and wired new Naga Hunter baseframe by Zerovirus.
+* Added Zerovirus to credits.
+* Imported and wired Fire Wisp sprites from Elementals Sandbox on wesnoth-umc-dev.
+* Backported Fire Guardian from trunk.
+* Removed unused old Troll flag.
+* A1: now units are recalled on dry land.
+* B4, B5: added a label to the human temple, as shadowblack suggested.
+* B4, B5: added one more hex to each human castle, as shadowblack suggested. When difficult level will be added, this hex will be kept only on Easy.
+* Tweaked Fire Wisp animations.
+* Imported Brazier Creation unit from Elementals Sandbox on wesnoth-umc-dev. Tweaked attacks and animations.
+* A5: replaced non-animated lava monsters with Brazier Creations and Fire Guardians, and added some Fire Wisps in the lava pool.
+* A4: fixed a bug that didn't allowed undead swimmers spawning.
+* Imported two icons and some projectiles images from RPG Creation Kit and RPG Sample Resources for use by the White Troll.
+* Added new time of day for the runes. Added also an appropriate time of day image and halo.
+* A2-1, A3, A7, B1: added the new runic ToD.
+* Heavily reworked White Troll AMLA system.
+* A4: replaced map with a new one. Fixed locations in scenario as needed.
+* A2-2: White Troll moved here as per Eros' suggestion.
+
+From version 2.9.1 to 2.10.0:
+* Added (and bugfixed) new A0 scenario by Eros. Nice work, Eros!
+* Commited new Young Gryphon sprites made by Elvish_Hunter (me again).
+* Added new Giant Mudcrawler unit with AMLA, named Giant Ooze after the Ooze Mini Campaign...
+* A2: fixed sighted skeleton event to have only unit with arrows speak (Bone Shooter, Death Baron)
+* Added Ship unit by Eros for use in A0.
+* Added Akhenku's portrait as story screen in B7.
+* A1: reverted to the old scenario.
+* A1, A2: if you have it, the loyal mudcrawler is recalled.
+* B1: moved setting variable dwarvish_boss_killed=no to prestart event to fix an error pointed by wmllint.
+* All scenarios: added # wmllint: recognize comments to fix wmllint complaining about unknown characters
+* A7: fixed a bug in invoking NAMED_LOYAL_UNIT macro that made wmlscope crash. Assigned name to those units for Mal-Apophis' side.
+* Removed cave-entrace-1.jpg due to unknown license.
+* Added new A2-1 and A2-2 maps in maps folder, so if we need them they're already here.
+* Merged prisoner units and Town Guard inside villagers.cfg.
+* Raised resistances to cold and fire of Cactose to 50%.
+* Increased both melee and ranged damage of Cactose by 1.
+* Removed Elder Cactose unit.
+* Removed Dwarvish Runesmith and Runemaster units, and removed them from recruit list in A2 and B2.
+* Both C1: replaced all villages with oasi terrain, that heals +8 anyway. Added a note in the objectives.
+* hack start, S4: removed variable startup_flag, because it doesn't serves any purpose for the whole campaign.
+* A3: changed capture messages according to Eros' request, converted such events from die to last breath
+* Removed Troll Sorcerer and Fire Shaman as per Eros' request. Kept Warbanner as level-up. Changed scenarios and items.cfg accordingly.
+* Added Troll Shaman TSoG, that is the mainline Shaman with also a cold attack.
+* Changed type of hidden Shaman in A7 to Shaman TSoG. To compensate for this, removed the L1 Shaman from B2.
+* Team coloured caged images of Troll Shaman and White Mage in A7 and White Whelp in A2.
+* Gived fly movement to arrow unit (used for multihex attack) for wmllint reasons.
+* Added JustinOperable to credits, for Zurg's portait.
+* Changed White Troll attack from faerie fire to mud glob. Fixed description accordingly.
+* A1: using SCATTER_UNITS, 5 Cactoses are randomly placed on the map.
+* A0, hack start: Esanoo is stored for use in C part.
+* Both C1: Esanoo is now unstored from his variable, and stored again upon victory.
+* C2: Esanoo is unstored in prestart.
+* B3: new scenario and map by Eros.
+* Rebalanced Young Gryphon unit: 7 MP, cost 18, advances to mainline Gryphon, 7-3 melee attack, 29 HP, 34 XP.
+* Removed special Gryphon TSoG unit. Changed tsog-deaths and scenarios A6, hack start, S2 and C1-Jaash.
+* A6: added a message that notify the player the availability of Young Ogres and Young Gryphons as recruits.
+* A7: fixed a bug that gived the Bats less gold if the player has Gryphons.
+* A7: as per shadowblack suggestion, if you managed to keep alive Jaash and I-Gruk in A6, you get a free Young Ogre and a free Young Gryphon. If only one of them survived, you get only one unit of the corresponding type.
+* Added Fire Guardian unit from UtBS.
+* Replaced lava-beast.png with a version from Era of Myths that doesn't have that pink shadow...
+* Fixed non transparent shadow under some Cactose sprites.
+* Added Giant Ooze in hack start.
+* A6, B1, B2: cave villages are now gived to the player from the start.
+* B1: changed initial objective to "Try to survive for at least 12 turns".
+
+From version 2.9.0 to 2.9.1:
+* B2: added Daravel's dialogue revision.
+
+* B3: added Daravel's dialogue revision.
+* Backported from trunk ragged flag (wired as Troll flag) and long flag (wired as Elf, Merman, Ogre and Gryphon flag).
+* B4: added more river ford to increase the player's winning chances in case that Ormron is missing. Added in B5 also for consistence.
+* B4: added Daravel's dialogue revision, only if Ormron is alive (for now).
+* S3: added Daravel's dialogue revision. Gived a name to the Major (Carraent) and to the city (Newtal). Both were taken from the random name list, and the city name is made with two base names combined.
+* A6, B2: fixed inconsistencies between these two maps.
+* Added updated Great Ogre baseframe by Monroid.
+* Committed new Gold Mage unit made by SomeOneNamedMe: this means that Elyssa can now advance to Level 4 also if the player chooses the Silver Mage advancement. Due to the way that I had to use to implement this (adding a new unit line, since [advancefrom] don't work for high experience), it takes effect only after restarting the campaign.
+* Modified Elyssa creator, ELYSSA_SWORD and OBJ_STAFF_OF_THE_RAGING_SEA macros for managing the new Elyssa upgrade.
+* Fixed a bug in Elyssa creator that replaced Elyssa's resistances instead of increasing them.  Now her resistances are increased by +10% to fire and cold.
+* Added SomeOneNamedMe to credits.
+* Removed ENABLE_ARMAGEDDON_DRAKE,ENABLE_ANCIENT_LICH from hack start and placed in _main.cfg as extra_defines.
+* hack start: added a menu to allow the player choosing if Elyssa should be a Great or Gold Mage.
+* S1: added a description for the Holy Water item, copied from UtBS.
+* unit-create.cfg: now the Desert Druid is resilient, quick and healthy. Removing quick will create problems in caves, removing resilient will make her too weak, so now she has three traits.
+* B4: if the player lost Ormron, the Drakes have less gold to make it easier to reach the signpost.
+* B3: removed Orcs, now the scenario is Grog vs two Saurians vs two Saurians. The plan is to have a war agains these Saurians, and the dialogue still needs to be written.
+* Fixed Elyssa's staff being showed after her fireballs, as Battlecruiser_Venca suggested. It takes effect upon restarting the campaign, or using hack start as usual.
+* Added a sort-of shadow to the Great Ogre sprite.
+* A2: called NEAREST_HEX macro to avoid creating Og the Clever in cave wall.
+* A2: fixed location for Elyssa destroying wall event.
+* A2: fixed Death Knight not referring to his Master's domain.
+* A3: the prisoners' HPs are set to half their max HPs, as Eros requested.
+* A3: on their last breath, both Mal-Apophis and the Drake Ambassador are full healed by an healing potion.
+* A1: corrected Cactoses being on Bandits' side, now they are on their own - but still allied, for now.
+* A1: fixed some spelling mistakes spotted by Eros.
+* A1: removed old Undead side spotted by shadowblack.
+* A7, items: renamed Poisonous Talons to Poison Potion.
+* A7: removed the Power Orbs, that are no longer needed since Mal-Apophis is no longer invulnerable in A3. Still kept the flashes sequence, to make his death more impressive.
+* Removed Power Orb units and their halos.
+* Removed breaking  glass sound (that was used only by Power Orbs) and changed credits according to this.
+* A7: removed the "hammer" word from the Lich death message, to make it compatible also for non-Trolls units, as Eros pointed.
+
+From version 2.8.4 to 2.9.0:
+* Fixed Lava Beasts and Lava Monsters defense in lava: now they have 40% instead of 0%.
+* B6: modified the sighted serpent event: one is sighted, the other is now moveto+[filter_vision], and to create a second_unit the NEAREST_UNIT macro is used.
+* S4: added in two story screens the image of the Sceptre of Fire, from SoF campaign before that it was mainlined.
+* A3: added a new prisoner overlay. This is the ruby overlay from SoF, before its mainlining.
+* A2: fixed NOT_THAT_WAY events, that now are not longer nested, hoping that these aren't confusing.
+* A7: fixed location of [removeitem] for gold chest.
+* A5: added Daravel's dialogue rewriting.
+
+* A6: added Daravel's dialogue rewriting.
+* C2: committed this new scenario, under the name "A Powerful Ballista". It features a multihex attack, credits for this go to SkyOne and mich.
+* Added mich to credits for the multihex attack code.
+* Fixed a bug that prevented the new Troll Shamans to take the sea staff in B7.
+* C1-Jaash: fixed a location outside the Mermen castle that allowed Jaash to win the scenario.
+* A3: added the NEAREST_HEX macro to unstore units only in hexes without impassable terrains and without any unit.
+* Backported new mainline Armageddon Drake sprites from 1.9. Used for the Drake Ambassador and for every other Drake that may level up.
+* Added new Young Gryphon unit: basically, it's an unmounted Gryphon rider. Recolouring of Gryphon unit made by Elvish_Hunter (me!).
+* Added also Gryphon TSoG unit: base unit is mainline Gryphon, with hitpoints and movement of mainline Gryphon Master.
+* Added Elder Cactose sprite (baseframe only) made by Phyreprooph. Check out his Wose faction, he really deserves it ;-)
+* A7: added Daravel's dialogue rewriting, also implemented a workaround to show the prisoner image instead of unknow unit (using variables), replaced *swish* with a floating tag.
+* S2: added Daravel's dialogue rewriting and added back the code for storing the human portraits and show them as story screens, because [store_unit] filters also in the recall list, if needed. I hope that everything works.
+* A2/A4: copied the map of the river zone from A2, pasted in A4 and a bit modified in both scenarios to have the same map in that zone as Daravel suggested.
+* A7: copied the lower part of the map from First Contact and pasted here, as suggested by Daravel. Also, a bit modified to allow freeing all prisoners even without Gryphons.
+* A3: copied and pasted here the upper part of the Lich's castle from Nemesis.
+* Committed new Elder Cactose unit.
+* Decreased the number of Cactose in Long Way Home, used also Elder Cactose and placed them randomly with SCATTER_UNITS macro.
+* Updated Cactose sighted/moveto events by adding also Elder Cactose in filter.
+* Committed new Prisoner unit, based on the only unarmed mainline Peasant sprite, for use in A5. Included several variants of this unit, for use with TRANSFORM_UNIT and ADVANCE_UNIT macros.
+* A2: added two Dwarvish Guardsmen on the rune hexes, as Daravel suggested.
+* Committed new White Troll unit, originally created by the Wesnoth Italian Forum, with some modifications (arcane attack, decreased XP).
+* Wired the new Prisoner units in scenario A5. When winning, they're transformed using ADVANCE_UNIT (hence the different prisoner types).
+* Added Phyreprooph to credits, for the Elder Cactose sprite.
+* A2: added a special loyal White Troll inside a cage. Name: Gong.
+* Committed Power Orb unit, with halos. Based on ball items.
+* A7: added three Power Orbs, with their halo (recoloured by me). These needs to be destroyed before killing Mal Apophis. May move them in future. Added also the code to manage their destruction and to make Mal-Apophis invulnerable before destroying them.
+* Added breaking glass sound from Worldforge, as Power Orb death sound.
+* Committed new Great Ogre baseframe, made by Monroid, and added him to credits.
+* B2: reworked the victory event to allow winning by placing Grog and Elyssa near the signpost, using [have_unit] and removed variables.
+* B2: moved HIGHLIGHT_IMAGE for signpost before the objective change.
+* Converted cave-entrace-1, desert and sceptre-of-fire from png to jpg format to save space, as suggested by boru.
+* Bitrate lowered Wesnoth Score from 160 to 64 kb/s to save space.
+* A7: fixed a bug that gave only 15 gold to the Death Knight instead of the Bats.
+* A6, B1, C1, hack start, tsog-deaths: changed references to Gryphon Rider to Young Gryphon.
+* A6, C1, hack start, S2, tsog-deaths: changed references to Gryphon and Gryphon Master to Gryphon TSoG.
+* A2: added an hint that the Dwarves were buiding a treasury in the south - where the player can find the White Troll.
+* special-notes.cfg: deleted a commented out special note
+* B4: added mixed fighter to recruitment_pattern of both Human sides.
+* flags.cfg: added start and stop ignoring to shut wmlscope about the flags not found.
+* A6, B2, B3, B4, B5: gived again to the Orcish leaders their portraits.
+* B1: now, if the player manages to survive long enough, the Runemaster kills those that he retains the most incompetent Dwarves in a lightning storm!
+* Created a new macro, THUNDER_AND_LIGHTNING_WEAK, that doesn't include the earthquake, for use by the Runemaster in B1.
+* B1: removed three unuseful MOODIFY_UNIT. Also fixed a MOVE_UNIT_FAKE that used a Dwarvish Lord instead of a Dragonguard.
+* B1: added Daravel's dialogue revision.
+* B1: modified event for Dwarvish gold from side turn to side 1 turn, and removed a variable check, to avoid the player being attacked by green and blue Dwarves before the thunderstorm, as Daravel suggested.
+* Added Dibs, mich and the Wesnoth Italian Forum to the credits, for the White Troll unit.
+* C1-Jaash: changed to make use of SCATTER_UNITS macro, with 30 Cactose and 10 Elder Cactose.
+* C1-Zurg: changed to make use of SCATTER_UNITS macro.
+* Added a White Troll to the hack start.
+* Added Tet to credits, for teaching me how to scale unit sprites.
+* Decreased Great Ogre melee attack from 16 to 15, as Tet suggested.
+* A4: removed turn number bump, as Daravel suggested. Now the turn number of the tunnel opening is controlled using variables. Also, made it so that the sighted_undead event is triggered even by an undead attacking one of Zurg's Trolls.
+* Added flying movement animation for Dragon Lord unit.
+* Committed new Town Guard unit, ad Daravel suggested, and wired it in tsog-deaths, A5, hack start, B4, B5, B6, B7.
+* Committed animation for Elder Cactose unit made by Phyreprooph.
+* The surviving mermen in C2 are gived to Melusand in B7.
+* TSoG-multihex-shoot.cfg: added start and stop ignoring to shut wmlscope about missing-image.png not found.
+* Removed some old backup files.
+
+From version 2.8.3 to 2.8.4:
+* Fixed the code in A3, so if an AI unit kills two or more player unit, and the player then kills it, now all these units are unstored. For now, I'll keep a copy of the old scenario, just in case that something went wrong.
+* Imported NEAREST_HEX macro from Dead Water, but not yet used.
+* Prologue: added new Daravel's dialogue corrections.
+* A1: added new Daravel's dialogue corrections.
+* A2: fixed tunnel leading nowhere by adding a cave hex at 35,53. 
+* A2: fixed naga spawned in cave wall by changing the naga location to 80,27 and making that hex deep water, because the player hasn't any unit that can go in deep water (not even the Desert Shyde/Star).
+* A2: commented out the hurry line that an elf said entering the tunnels. Not removed yet, because probably I'll change it to another type of event.
+* Ported new fangs-ant.png (Giant Ant fangs attack icon) from UtBS.
+* A2: added new Daravel's dialogue corrections.
+* A2: Now Elyssa no longer teleports to destroy the walls, but just walks and then goes back to her original hex. Also Grog does no longer teleport when meeting the Death Knight, but just walks. And yes, the MOVE_UNIT macro allows Elyssa and Grog to walk through enemy units, if necessary.
+* A1: Now the Bandits pop out in the middle of Elyssa and Grog dialogue.
+* A5: Added partial Daravel's dialogue rewriting.
+* A3: Fixed a bug that allowed collapsing the bridge multiple times.
+* A1: Fixed a bug that allowed collapsing the bridge multiple times.
+* Added a modified version of NEAREST_HEX called NEAREST_UNIT, useful for moveto+[filter_vision] events.
+* A5: modified the sighted spider event: one is sighted, the other is now moveto+[filter_vision], and to create a second_unit the NEAREST_UNIT macro is used.
+* B6: modified the sighted wose event: one is sighted, the other is now moveto+[filter_vision], and to create a second_unit the NEAREST_UNIT macro is used.
+
+From version 2.8.2 to 2.8.3:
+* A3: Added Daravel's dialogues, again with some use of Pango markup.
+* Fixed macro THUNDER_AND_LIGHTNING: made the code simpler and now the lightning bolt points correctly to the hexes that Elyssa destroys. Downsides: the code is longer and now there are 12 more images in images/halo. This because there isn't an offset key for [item] tag, and this forced me to copy and resize mainline halos.
+* Fixed location of one THUNDER_AND_LIGHTNING in A2
+* A4: added Daravel's dialogue. Changed also one Troll role, from "hot" to "fun".
+* Updated E-kills.cfg: I read the changelog, and there is written that there are three new terrains from 1.6 to 1.8: drake village, orcish fort and keep, orcish village. This is what I decided:
+	- Drake village (Rr^Vd) will not change.
+	- Orcish fort and keep (Co, Ko) will not change.
+	- Orcish snow villages (Ha^Voa, Aa^Voa) will become orcish villages (Hh^Vo, Gg^Vo).
+* Removed unused oldprisoner.png overlay.
+* Fixed a bug that avoided Jaash to speak in his last breath event.
+* A6: fixed location of one Yeti that was created in water
+
+From version 2.8.1 to 2.8.2:
+* Committed ZhayTee's Wesnoth Tragedy music track (64 Kbps version) and wired in A1 scenario
+* Added ZhayTee to credits
+* A2: fixed a bug that caused, if you killed the third Dwarf leader (id dwarfboss3) before finding Zurg, Zurg to be a mainline Troll Shaman, instead of a Fire Wizard.
+* A2: Added Daravel's dialogues. For undertone dialogues I used Pango markup to have small and italic text.
+* A1: As suggested by Daravel, now bandits advance a bit towards Elyssa, and she flees after dialogue.
+* Backported from trunk new Drake Flare and Flameheart cfg and animations.
+
+From version 2.8.0 to 2.8.1:
+* Removed old Troll Wizard unit and its four images
+* Imported content of role.cfg and macros.cfg into tsog-deaths.cfg
+* Prologue: added Daravel's dialogues and uncommented two story screens (text only).
+* A1: added Daravel's dialogues and removed ghost spawning code (that was already commented out anyway).
+* A7: fixed a bug in macro ORMRON_TALK: if not having a spokesman and a sidekick, such units are recalled, and this crashes Wesnoth. To me, this seems an engine bug. As a failsafe code, if the player doesn't have such units, their messages are said by Elyssa and Zurg.
+* A7 and S2: due to fix above, commented [store_unit] for spokesman and sidekick. Also, temporary fixed S2, using spearman and bowman portraits as portraits for spokesman and sidekick respectively.
+* Changed icon for second part of the campaign to Troll Warbanner
+* Added file fist-golem.png to images/attacks
+
+From version 2.7.5 to 2.8.0:
+* Implemented this changelog file
+* Removed folder from_SoF and moved its content into images/units and units
+* Removed binary_path for INCLUDE/from_SoF from _main.cfg
+* Removed folder from_HoT and moved its content into images/units, images/halo, units, renamed abilities.cfg to inspire.cfg and moved into utils
+* Removed binary_path for INCLUDE/from_HoT from _main.cfg
+* Removed camouflage for Cactose unit and modified unit description
+* Removed folders images/attacks, images/projectiles, images/units/orcs from INCLUDE/from_UTBS
+* Removed folder from_UTBS and moved content in appropriate directories
+* Removed binary_path for INCLUDE/from_UTBS from _main.cfg
+* Removed INCLUDE folder, this means that there is no longer an INCLUDE policy
+* Removed references to INCLUDE from _main.cfg
+* Removed cave-entrance-2.jpg
+* Renamed krunk.png to zurg.png in portraits
+* Renamed Krunk to Zurg in all scenarios
+* Replaced id=K with id=Z, equals=K with equals=Z, speaker=K with speaker=Z in all scenarios, except S1 where this refers to Kaleh
+* A2: fixed "Trolls to smart..." message, replaced with "Trolls too smart..."
+* A2: Gived +6 income to side 1
+* Changed Wose Shaman textdomain to wesnoth-dm to use DM's translations
+* Replaced non-existant macro {REDRAW} with [redraw] [/redraw] in items.cfg, B2, A5, A4.
+* A2: added side=1 to [redraw] to remove shroud around units
+* Added a [redraw] side=7 [/redraw] in A5 to let the player share view with prisoners immediatly
+* A2: removed {ENABLE_SEND_TO_RECALL} and relative message
+* A3: fixed position for talk about runes. For now, I just altered the location of moveto to 16,31
+* A4: now the undead talk happens if an undead attacks or views side 1 or 2. Hopefully.
+* A6: fixed attack event for human units
+* B7: added Pixelmind's Dragon sprites and portraits and the Dragon Lord, unit code from A Rough Life (Jacques_Fol), a bit modified to add the bite attack (I recycled some fire attack frames, after all both attacks use mouth..)
+* A7: Bat leader is level 1 (was L2), has 30 gold, only 15 if player has no gryphons (was 60 / 30) and can recruit L0 (was L0 and L1)
+* A7: replaced Drake Clasher with Glider as talon guard
+* A5: bats should no longer enter lava, added [avoid] x=1-24 y=19-34
+* A7: added a path made of cave, illuminated and cave road for poison talon
+* B7: added mountains between trolls and drakes
+* A7: added message by Elyssa about items in scenario
+* A7/items.cfg: added replace=false to Eye of Krawg and made value negatives (so the unit has positive resistances)
+* A7: since modifying the WML to avoid having units recalled in chasm would require creating a specific RECALL SPOKESMAN and RECALL SIDEKICK macros, I moved Grog's keep 1 hex away from chasm and cave wall
+* B2: same change for chasm as A7
+* B1: removed runesmiths from recruit list for sides 4, 5 and 6
+* B5: added {RECALL_SPOKESMAN} and {RECALL_SIDEKICK} to start event.
+* S1: cutted a small part of the map, used it as new map, placed a few ships, Kaleh, Nym, Zhul, Grog, the 6 loyal elves and Esanoo. Kept a copy of original map and scenario, just in case that I made something wrong.
+* B4: village where there is the whip is now a temple, and when the whip is taken, an human leader says an unfriendly message
+* C1-Jaash: added this scenario, with name "No Fly ZOne"
+* B3: removed village at 9,35
+* B4, B5: removed village at 50,12: it will be a temple
+* A7: fixed bug about placement of two Chocobones that caused two Revenants to appear in chasm
+* A7: added signpost and message near Ormron's cell
+* S2: completely reworked in NR style (only story screens with portraits, used NO_MAP_DATA), also added background=$variable_name.portrait.image: this displays automatically the right portrait for every stored unit. For Elyssa, I had to use background=$stored_E.profile
+* A7: added store_unit for spokesman and sidekick in lich die event: these variables are required for talk in S2
+* A1: Cactose now appears in start event
+* A1: used filter_vision for Cactose event
+* A1: fixed Elyssa appearance, that now happens only on side=1 moveto
+* A7: added hero crown to Ormron
+* C1: now Cactose and drakes are randomly placed
+* B7: now hero's army is recalled near hero
+* A3: it is no longer possible to destroy the bridge if the player still has a unit on it, using a NON_SAFE_LOCATIONS macro defined in the scenario. I limited the check to the four tiles to be destroyed, because there are some side passages where the player's units can escape...
+* B2: raised player gold to 335 and player income to 10, also added terrain transformation on easy, but commented out for now (will uncomment in 4.0.0, where we will have difficult and dwarvish option)
+* B5: added temple and whip gale
+* B6: the Ancient Wose has hero crown. To do this, I had to replace GENERIC_UNIT_WITH_NAME with NAMED_GENERIC_UNIT
+* B6: added macro C1_NEXT_LEVEL to make simpler moving to C1-Jaash or C1-Zurg
+* A1: reworked sighted events, integrating them with a [moveto] + [filter_vision]
+* A1: fixed moveto event that creates Elyssa and sighted event for boss2 (now messages are said by second_unit)
+* A2: integrated Elyssa/skeleton sighted event with moveto+filter_vision+primary_unit. Also, fixed one message said by side=E...
+* A4: integrated sighted bats event with moveto+filter_vision, ORDERS is now in bold
+* A4: added a variable that, if the player gets too close, creates some more undead defenders, but only once per turn
+* A5: corrected "I shouldn't recruit to much here Gro...." to "You shouldn't recruit too much here Gro...."
+* A5: removed 4 commented out variables and 4 commented out clear_variables for sighted events
+* A5: integrated sighted events for nagas, bats, water serpents with moveto+filter_vision. Unfortunately, this din't worked for spiders.
+* Added Giant Rat for use in A5
+* A5: added three Lava Beasts, three Lava Monsters, two Rock Golems and three Flesh Golems. Also added new Flesh Golem animations from UtBS.
+* A5: added some Giant Rats and a sighted event.
+* B6: integrated sighted event for Sea Serpent and Wose leader with an attack event.
+* B6: added a message when Wose leader dies.
+* Removed unnecessary COPYING.TXT file
+* Deleted defunct Orcish flag (was from SotBE)
+* Deleted file recalls.cfg, that contained send to recall macro, since now is unused
+* Deleted unused BUGS.txt file in INFO folder
+* Modified Cactose stats: level 1, melee is impact, melee is 4-2, ranged is 5-2, cost 20, moves 4
+* A5: added sand next to water and some blind tunnels.
+* Deleted unused files crystal-glyph-invincibility.png and crystal-glyph-message.png from images/items.
+* B1,B2: changed variable name from stored_K to stored_Zurg
+* B1: removed three FORCE_CHANCE_TO_HIT macros, so dwarvish leaders can be killed
+* B1: added "Try to survive for at least 12 turns or to move one unit near one of the three southern castles." as win codition in prestart event
+* B1: removed one duplicated victory_when_enemies_defeated=no
+* B1: added "Optional: kill the Dwarvish Rune Lord (bonus in next scenario)" in boss_arrives event
+* B1: added last breath event for dwarfboss5 (Rune Lord): defeating them allows the player to not being chased by dwarves in B2 (with dwarvish_boss_killed variable)
+* B2: made it so, if was killed, Dwarvish Rune Lord doesn't show
+* B2: lowered dwarves' gold to 1000
+* B2: added "Resist the orcs for 15 turns" in prestart objectives (Zurg arrives on 16th turn)
+* B2: reworked talk for zurg_arrives event
+* B3: when killing an orc leader, a message telling that the remaining leader gains some gold is diplayed. Also, gold is awarded only if the other orcish leader is alive.
+* B3: now the player has +6 income.
+* B1: fixed a bug in moveto - side turn that avoided firing correctly event boss_arrives. Also made code for side turn - fire event simpler, replaced with side 4 turn 12, avoiding a double variable check
+* hack start: if the player uses it, variables human_prisoners_alive, human_prisoners_helpful, isalive_drakeambassador are set to yes
+* Raised experience required for advancement Ogre -> Great Ogre to 80.
+* B4/B5: altered side numbers and order, so the playing order now is: player, orc 1, human 1, orc 2, human 2, drake 1, human 3, drake 2. and changed starting positions on the map according to this
+* B5: when the whip is taken, a human leader says a friendly message (unlike in B4, because here you're helping them)
+* B5: player's gold raised to 300
+* B4: Elyssa is stored in a variable at the end of the scenario to show her right portrait in S3
+* S3: added the same modification as in S2 to automatically show the correct Elyssa's portrait
+* C1-Zurg: added this scenario, with name "Shipwreck"
+* B7: removed conditional [story] [part], that was showed only if hero was Jaash. If the hero was Zurg, the game crashed. I removed this, because now we have the needed C1-Jaash (No Fly Zone).
+* B7: Esanoo is now on same side of Melusand, before was on side 1
+* B7: player's income raised to 60 (side 1)
+* B7: limited contemporaneous recruits of Naga hunters and Naga Assassins to 1 each type
+* B7: if he wasn't killed in Nemesis, or if used hack start, the Drake Ambassadors reappears here
+* B7: added die event for drake ambassador. Killing him is not mandatory to win.
+* B7: Raised Elves' gold to 800 when playing with AI and to 700 plus 15 income when playing as human player.
+* B7: now all Akhenku's messages are big, red and bold and some of these play a drake sound
+* A1: expanded map and changed locations as needed
+* A1: removed single Cactose that was added for testing
+* A1: added Naga and Cactose sides
+* A1: added more Cactose
+* A1: now Elyssa starts with 40 XP
+* A1: fixed story text for new map
+* A1: due to new map and enemies, turn limit raised to 55
+* Committed the new Troll Sorcerer line, taken from Era of Magic, and modified their stats. For now I didn't removed the old Troll Wizard.
+* Added inferno8 to the credits for the Troll Sorcerer line
+* Added pixelmind to credits, for the Dragon Lord sprites
+* Moved macro SPECIAL_NOTES_CAMOUFLAGE from abilities.cfg to special-notes.cfg
+* Added Daravel to credits, for dialogue rewriting (I will start adding his corrections after this release)
+* Changed Troll Shaman in B2 to Fire Wizard and added one Troll Sorcerer.
+* Changed Zurg and the other Shaman in A2 to Fire Wizard
+* Added one Troll Sorcerer in A7, recycling the good old name Krunk!
+* hack start: Zurg and the other Troll Wizard are now Troll Warbanners, while the new Krunk is a Fire Wizard
+* Fixed giving stored_hero maximum moves in B6 and B7, in B7 also to hero's army
+* Committed Drake Flare line animations from Brave Wings and Children of Dragons ;-) Credit for this goes to SkyOne.
+* Changed recruitment list for drakes factions in A7, A3, B7, B4, B5, B6, and leader drakeboss1 in B4 and B5 replacing mainline Drake Burner/Flare/Flameheart with custom drakes from BW and CoD to use the animations.
+* Added SkyOne to credits
+* Added Animated Rock unit from Era of Myths (known as Earth Elemental), and used as L1 Rock Golem in A5, to make the scenario easier, after adding the Lava monsters and Flesh Golems.
+* Added Jacques_Fol to credits, for the WML of Dragon Lord unit, as used in A Rough Life
+* messages for whip_taken now use roles in B4 and B5
+* ID change: replaced id=G with id=Grog, equals=G with equals=Grog, speaker=G with speaker=Grog
+* ID change: replaced id=E with id=Elyssa, equals=E with equals=Elyssa, speaker=E with speaker=Elyssa
+* ID change: replaced id=Z with id=Zurg, speaker=Z with speaker=Zurg
+* ID change: replaced elves' IDs with their names
+* A1: now Cacti are (silently) allied with Bandits, because otherwise the cacti will destroy them.
+* A4: after the sighted undead event, now both Grog and Zurg are leaders and can recruit for that scenario.
+* A4: now you can choose if the last unit to enter the tunnels will be Grog or Zurg. Elyssa must enter before one of them.
+* items.cfg: commented a [removeitem] tag that otherwise removed the temple for whip gale.
+* B4, B6: as Eros requested, now humans could be friendly or unfriendly, but cannot longer become aggressive. This means that you cannot longer go to status 3.

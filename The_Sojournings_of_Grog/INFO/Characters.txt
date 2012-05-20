@@ -1,0 +1,165 @@
+ELYSSA
+------
+
+Elyssa is cool, self-confident, and powerful. Though in this campaign she is in search of knowledge she has grown older, wiser, and has a love for the trollish race.
+
+>>Speach
+
+Upper class english. Large extensive volcabulary. Uses the first person a lot.
+
+
+
+GROG
+----
+
+Grog is strong, clever(for a troll), and brave. He also feels his dedication to the "great chief". (NB: In earlier versions of TSoG the "great chief" was Grog's father this is no longer the case) Grog has a clash of loyalties between Kaleh and the trolls in which the trolls win.
+
+>>Speach
+
+More intelligent than most trolls. Speaks in the third person as do most trolls. Terse, pithy statements. Tends to drop plurals.
+
+ZURG
+----
+
+Zurg is intelligent, and most human like of the trolls. A more conservative troll than Grog he is the brake on any new adventure.
+
+>>Speach
+
+Most "normal" of all the trolls.
+
+ORMRON
+------
+
+A typical TSoG human. 
+
+
+----------------------------------------------- UTBS >> Elyssa ---------------------------------------------
+
+02 
+
+"Back, you fiends! Or I'll kill you a second time!"
+"Stupid undead, they never listen. Then have a taste of my flame!"
+"Thanks for the help! That was a little too close for comfort."
+"I accidentally managed to anger a powerful necromancer a while ago...it's a long story. But who are you? You almost look like elves."
+"I am, I'm a fire mage. I've been traveling for quite a while now, exploring and learning. But these sands seem particularly inhospitable! I've been meaning to check out the northern mountains; mind if I join you for a while in your travels?"
+"I've been searching for secrets from the past. Did you know that this entire land used to be a huge empire? Apparently this used to all be great plains and farmland, before the sands came."
+"Before the Great Fall, there were huge cities, with great schools of magery, libraries of books, vast repositories of knowledge. Most of it was destroyed in the ensuing chaos and years of decay, but I'm searching for the little fragments that are left. For example, have you ever heard of The Scepter of Fire?"
+"I'm not sure. I've read various references to it, but nothing specific. I've been searching for it for a long time. All I know is that it was a very powerful magical wand and that it was some sort of symbol of royalty in the old empire, but I have no idea where it might be. So I scour the land, learning all I can about the olden days. I'm sure it must be somewhere."
+
+03
+
+"Like I haven't killed enough undead recently. Why can't these guys just stay dead?"
+"Then we shall have to give them a proper cremation."
+"He was as brave and valiant a fighter as I have ever seen in my travels."
+
+04
+
+"Other creatures besides orcs dig tunnels in the earth. Long ago dwarves mined mountains such as these, and huge trolls like to hide in the deep dark places under the earth. If your god is as omniscient as you seem to think, Kaleh, I wouldn't be surprised if there were a way to cross under these mountains. I fear no darkness, and you won't be lacking a source of fire or light."
+"Also, any time you find a particularly tough orc blocking a passage, my fireballs can blast him quick enough."
+"This is no natural passage, and the walls are too well carved and smooth to be made by orcs. I wouldn't be surprised if this was once carved out by dwarves. I wonder if there are any still left in these mountains..."
+
+05
+
+"No I haven't, I don't often explore underground unless I have to. There are lots of nasty things that lurk far away from the light of the suns. But I've read a bit about them, and have even met a few people who had dealings with Dwarves."
+"They're a proud people, and some would say greedy. They love their gold and fine metals, and forge many beautiful things. I should warn you, they have little liking for Elves. There was some betrayal many years ago, though I don't know what happened."
+"Trolls and Dwarves are natural enemies, living so close together. And many would say trolls are little more than brutes and savages. Trolls are huge and very strong, with skin as hard as stone, and can be fearsome foes. But I knew one man long ago who traded with a group of trolls and said they were quite honorable, as long as you didn't try to cheat them."
+"Spiders aren't insects."
+"That's a dwarf, but it looks like he's been beaten to a pulp."
+"Their knowledge of these tunnels is uncanny. I could have sworn a minute ago that that wall was solid rock."
+
+07
+
+"I'm afraid, Kaleh, that the time has come for our paths to separate."
+"I have learned a lot about the dwarves in my time here, and yet there's so much more to learn. Have you seen their forges? They really know how to work fire and use it in amazing ways. They have some interesting ideas about how they might improve their smithing with my magical fire. And have you seen their records? They have kept records of their dealings that go back generations upon generations. They even know of the dwarven clan who helped craft the scepter of fire. Imagine if I could find the dwarves who helped build such an artifact!"
+"With the help of the dwarves, I think you will do just fine. I don't know what home your god has planned for you, Kaleh, but I believe in you, and I know that you will find a place for your people. My place is here, with the dwarves. And you don't really need me, you have each other."
+"Thank you. And I owe you so much for helping me meet the dwarves. I never would have come down here myself. With some help from the dwarves I have enchanted this fire blade for you. May its flames always light your path, and strike down your enemies. I give this to all of you as a token of my gratitude."
+"I will let you decide; use it in the best way that you see fit."
+
+
+----------------------------------------------- UTBS >> Grog -----------------------------------------------------
+
+06
+
+"Thank you. Grog got lost and there were so many smelly dwarves. If you hadn't come Grog would have been killed. Grog owes you his life."
+
+07
+
+"You saved Grog's life. Grog still owe you a debt of thanks. In return Grog will protect little elves and show them the way back to lighted lands. "
+"You did trolls big service. Grog like to wander in tunnels, and chief say that he knows the upper tunnels the best. Grog want to help elves so even though he not want to leave battle, he agrees to show elves way back to lighted lands."
+
+08
+
+"Deep and dark are the waters that flow in our caves. Sometimes raging waters flood tunnels without warning. A stream can sustain a village, a sudden flood can destroy it."
+"Quick, the southern passage!"
+"Curses, the water is rising too fast. That tunnel those humans were fleeing down was the fastest way out of here, but it's already flooding."
+"There might be, but I don't--"
+"Fine. Just keep going west, but be careful."
+"Behold, we come now to an ancient fortress. Who lived here I do not know, but it has been long since abandoned."
+"Yes, but I didn't explore very far. This foul place is still protected by wards and guards. It reeks of dark magic."
+"Wait. The chamber in front of us is probably trapped and well guarded. There is another way. When I explored here before, I found a secret passage that bypassed the main gate. Search along the southern wall of this cave and you should find it. The only problem is that the passage is long and windy, and it will cost us precious minutes. With the water rising that may be time we don't have to spend. I leave the final decision up to you, Kaleh."
+"Good, that should be the entrance to the secret tunnel. Now just push hard inwards."
+"You didn't expect the other end to be left wide open did you? There should be another secret door hidden right in front of you."
+"I don't know. When I last came this way I got scared by all the runes and things moving in the shadows, and I explored no further."
+"I don't like the smell of this place."
+"I never explored this deep into the complex. But every lair has to have a back door somewhere."
+"We're in luck, a fissure has opened up a crack in the northern wall. We may be able to escape that way."
+"grog proud of little elves too. He would not have made it this far without all your help. grog is surprised by your bravery and strength."
+"Truth is that grog not know much of sunlight lands. Sun and stars are scary, everything is open, exposed, no safe places to hide. But grog cannot go back through all that water. And grog doesn't know where to find other tunnels back to his home. He is as lost as elves are."
+"But grog not afraid. Great leader told grog to guide and protect elves, and grog will keep his oath. grog will follow elves wherever they may go and protect them from danger as best he can. Maybe later, grog will find another way back down to the caves of his people. But for now, grog will continue to serve and protect you."
+"Kaleh, a quick question-"
+"Well, actually they were fleeing from--"
+"grog no like humans either. They mean. But they sound great when they go squish."
+"He looks like a half-man half-fish."
+"We've come far and we're almost to the surface. But first we should stop and rest here for a while."
+
+09
+
+"Trees look big and strong, like trolls. Dark, too. grog tired of walking under hot sun."
+"Great Leader told grog to serve you, and so grog will still follow your command. But other elves must be out on a separate island. How will we cross deep water?"
+"grog scared of big water and bright sun, but grog will not dishonor Great Leader. Great Leader say follow Kaleh, and grog will do so."
+
+10
+
+"grog says thank you."
+"grog not sure if he trust fish lady. What if she just want you elves to fight her war for her?"
+"Do not give up yet, little one. The battle is not yet lost while we still fight."
+"Even in deepest tunnels my people could not escape Yechnagoth's power forever if she is not stopped. Against such evil I am sure the Great Leader would give you whole army of trolls, but I am afraid you only have grog|. Still, grog will do what he can to see her destroyed."
+
+11
+
+"grog not going to just sit here while Kaleh does all the fighting. Kaleh will need strong fighter like grog|. Other elves may be scared, but grog fear no dark place. grog just hope there still something to smash when he gets there."
+
+12
+
+"The little one is not dead yet. But where is evil lady that did this to him?"
+"Ugh. grog is covered in blood and guts and nasty blue goo. Whatever creature was, she doesn't smell any better dead than she did alive."
+
+
+----------------------------------------------- UTBS >> Zurg ------------------------------------------------------
+
+5
+
+"Congratulations! Some of trolls didn't think you strong enough to beat dwarves."
+"There many secret tunnels that you sun dwellers not know of. Only troll know. We smarter than you think. Zurg would have killed dwarves himself, but he was just sent back from where real fighting is."
+"While you fighting, another clan of dwarves sneak around and flank us. They tricksy like that. We must leave you and run back to defend women and little trolls. Dwarves never give up, many trolls die today, very hard fighting. But dwarves make mistake, you stronger than dwarf or troll thought. You trolls' secret weapon."
+"Right before battle, we find secret passage just to the north leading straight to big dwarf stronghold. Hiding in stronghold is big important dwarf, directing the battle. Dwarves always think they best fighters around so they leave only a few dwarves guarding their stronghold. If you elves can break through dwarf defenses and kill dwarf chieftain, then it will do much damage to dwarves, make them afraid and confused, easy prey for trolls. You do this and we can drive them back. Then troll leader can help show you how to return to surface. You come with Zurg, he show you way to secret passage."
+
+6a
+
+"They have broken through the outer guard-line. Destroy the bridge, they must not pass!"
+"Arise! Arise and engulf the intruders in your holy fire!"
+"Arise, hallowed guardians, and destroy them!"
+"Arise and attack them now, while they are vulnerable!"
+"They must not be allowed to cross to the other side! Kill them!"
+
+6b
+
+"This amazing tunnel, it leads very close to dwarves' main lair. You can hear their tiny footsteps just on other side of wall. All that separates us from the dwarves is a thin wall of stone. When you move a unit adjacent to the final wall, on your order Zurg will destroy it with fire magic. Dwarf chieftain is only lightly guarded, he send best warriors to hunt trolls. Heh, we give you easy task. You know dwarf chieftain when you see him, he shorter and uglier than most."
+"No, most are tiny dwarf tunnels. We like natural tunnels, big and tall enough for mighty trolls. When the world was young, Griknagh cut many tunnels and caverns into the rock far below us. We traveled deep deep down, following the trickle of ancient streams, far deeper than the puny dwarves. But now we come back up, great leader say there bad things now deep below. Bad for trolls. We come back up to reclaim ancient lands. But we find them filled with many many little stinky dwarves. All the beautiful stones are gone, greedy dwarves take them all. So we fight to reclaim our lands. But Zurg talk too much. We have job to do. Find dwarven leader and kill him and we will reward you well."
+"Once you done moving into position, Zurg will destroy wall."
+"Fist and fire, crumble stone!"
+"My work here is done. Zurg must report back to Great Leader. Many things to do and dwarves to kill before rest. Zurg return later to see how little elves are doing. Fight well!"
+"Little elves fight good. Zurg impressed. With dwarf chieftain dead, cowardly dwarves flee before us. Our struggle not over, still much more fighting, but elf and troll have won this battle. We thank you. Great Leader has allowed you to come speak with him. Great honor, never has one of your kind been allowed in his presence. But he wishes to talk with you and reward you. Please come with me."
+"Hmmmm, yes, yes we can help. We have a few big caves you little people can stay in, and I get some big trolls to help escort you there. The Great Leader wouldn't want any unpleasant surprises. Show me where your people are hiding and we will help you move them to our caves."
+
+

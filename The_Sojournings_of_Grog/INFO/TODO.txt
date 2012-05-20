@@ -1,0 +1,45 @@
+Many things in the currently released stuff 
+
+General
+ * TALK TALK TALK all talk needs revision - being done by Daravel
+ * not much continuity between scenarios
+ * have conversations based on race 
+ * remove map previews
+ * sort out map colours
+ * rename Akhenku
+ * animatee human deaths
+ * make recruits of drakes etc be according to macros
+
+A3 
+ * too much to say!
+ * make bridge destroy other side?
+ * make killed by bridge not show stuff
+
+A4
+ * Elyssa is to open the door with a counter from when she gets to a trigger point like thursagan's sceptre
+ * sort out unit xp
+ * Bone knight doesnt fire events properly
+
+A5
+ * after the nagas doesn't "gel" especially the lava beasts
+
+A6
+ * ai stuff otherwise complete
+
+A7
+ * make talons fire with sound as well
+ * sort out talk bits
+ * add hidden bonus undead leader
+
+B1
+ * grog reappears lets unstore him in B2 instead
+
+S3
+ * add a map
+
+B6
+ * add monsters lurking around the place
+ * sort out share view with humans
+
+B7
+ * ? add a second wave of enemies
