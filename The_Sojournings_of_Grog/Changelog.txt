@@ -1,3 +1,8 @@
+From version 3.0.0 to 3.0.1:
+* Fixed textdomains
+* Made empty strings untranslatable
+* Deleted now unuseful DEVEL_NO_GOLD_CARRYOVER_NOTE macro
+
 From version 2.10.20 to 3.0.0:
 * Added Daravel's dialogue revisions.
 * A0: a message about the Mudcrawler is spoken by Arcamenel, if the player has her.

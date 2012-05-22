@@ -1,4 +1,4 @@
-#textdomain wesnoth-tsog
+#textdomain wesnoth-The_Sojournings_of_Grog
 #this unit was taken from the White Troll campaign, made by the Wesnoth Italian Forum.
 #Modified to suit the needs of TSoG. E_H.
 

@@ -1,7 +1,6 @@
 Many things in the currently released stuff 
 
 General
- * TALK TALK TALK all talk needs revision - being done by Daravel
  * not much continuity between scenarios
  * have conversations based on race 
  * remove map previews
@@ -39,7 +38,6 @@ S3
 
 B6
  * add monsters lurking around the place
- * sort out share view with humans
 
 B7
  * ? add a second wave of enemies

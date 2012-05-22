@@ -57,8 +57,8 @@ end
 local T = helper.set_wml_tag_metatable {}
 
 -- support for translatable strings, custom textdomain
-local _ = wesnoth.textdomain "wesnoth-Wesnoth_Lua_Pack"
--- #textdomain wesnoth-tsog
+local _ = wesnoth.textdomain "wesnoth-The_Sojournings_of_Grog"
+-- #textdomain wesnoth-The_Sojournings_of_Grog
 
 -- [item_dialog]
 -- an alternative interface to pick items

@@ -1,4 +1,4 @@
-#textdomain wesnoth-tsog
+#textdomain wesnoth-The_Sojournings_of_Grog
 #file taken from Fate of a Princess, for the multihex attack
 
 #define TSOG_MULTIHEX_SHOOT ID RANGE MISSILE
