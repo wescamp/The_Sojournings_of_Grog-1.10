@@ -1,3 +1,14 @@
+From version 3.0.1 to 3.0.2:
+* Gave special ellipsis to Grog, Elyssa and Zurg
+* Removed Kaleh's secondary sword attack, and added Stun special to the main sword attack.
+* Gave Kaleh camouflage and sustenance. Also corrected his attacks.
+* Used wildcard characters in camouflage terrain list.
+* Used Stun code from 1.10 UtBS and DW.
+* B7: Fixed Stun not working.
+* Added a QR Code in the epilogue, allowing direct access to the campaign's forum topic.
+  If you're curious, I created it with Zint Barcode Studio (open source, available at SourceForge).
+* Removed two duplicated macros from utils/movetypes.cfg.
+
 From version 3.0.0 to 3.0.1:
 * Fixed textdomains
 * Made empty strings untranslatable
