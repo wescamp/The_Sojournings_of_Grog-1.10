@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-22 08:36-0400\n"
+"POT-Creation-Date: 2012-09-04 21:05-0400\n"
 "PO-Revision-Date: 2012-05-22 08:36-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -327,10 +327,10 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B5-Defense.cfg:367
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:294
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:318
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:209
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:230
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:328
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:385
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:212
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:233
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:331
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:388
 #: The_Sojournings_of_Grog/scenarios/C1-Flying_Above_the_Sands.cfg:35
 #: The_Sojournings_of_Grog/scenarios/C1-Flying_Above_the_Sands.cfg:91
 #: The_Sojournings_of_Grog/scenarios/C1-Shipwreck.cfg:40
@@ -373,10 +373,10 @@ msgstr ""
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:289
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:204
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:572
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:712
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:936
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:962
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:571
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:711
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:935
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:961
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:325
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1905
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2035
@@ -406,10 +406,10 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:192
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:231
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:267
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:50
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:90
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:130
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:170
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:53
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:93
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:133
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:173
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:76
 msgid "Death of Grog"
 msgstr ""
@@ -428,10 +428,10 @@ msgstr ""
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:302
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:208
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:580
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:716
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:944
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:966
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:579
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:715
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:943
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:965
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:333
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1913
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2047
@@ -456,10 +456,10 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:209
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:244
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:280
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:74
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:114
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:154
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:194
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:77
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:117
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:157
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:197
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:157
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:80
 msgid "Time runs out"
@@ -467,7 +467,7 @@ msgstr ""
 
 #. [unit]: type=Merman Entangler, id=Esanoo
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:349
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:339
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:342
 #: The_Sojournings_of_Grog/scenarios/C1-Flying_Above_the_Sands.cfg:152
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:281
 #: The_Sojournings_of_Grog/scenarios/hack_start.cfg:269
@@ -798,10 +798,10 @@ msgstr ""
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:200
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:568
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:708
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:932
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:958
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:567
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:707
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:931
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:957
 msgid "Grog must reach the signpost at the bottom of the pass"
 msgstr ""
 
@@ -811,18 +811,18 @@ msgid "Summon Dust Devil"
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:401
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:400
 msgid "Grog see Human. That Human look like Grog's mage friend."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:407
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:406
 msgid "Hey! Who is that? She looks familiar... wait... is that you Elyssa?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:413
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1058
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:412
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1057
 msgid ""
 "Indeed, I am. I have spent many days awaiting you after I heard of your "
 "arrival in the desert; I had hoped you were the friends I once traveled "
@@ -831,14 +831,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:417
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1062
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:416
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1061
 msgid "Grog ask what wrong? Mage need Grog?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:421
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1066
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:420
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1065
 msgid ""
 "Yes I do need you, and if you are traveling home then you shall need me "
 "also. As you know, I stayed with your people to learn the secrets of your "
@@ -847,14 +847,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:425
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1070
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:424
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1069
 msgid "Nasty Dwarves!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:429
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1074
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:428
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1073
 msgid ""
 "Quite... finally the Dwarves grew tired of the peace and their blood lust "
 "won out, they attacked without warning and stormed the village, burning and "
@@ -862,36 +862,36 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=boss1
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:492
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:491
 msgid "This watering hole is not open to travelers, prepare to die!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:497
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:496
 msgid ""
 "Perhaps I should open it then. Let us pass or I shall fry you, plunderer!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:502
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:501
 msgid ""
 "Damn these desert plunderers, I shall finish my tale once they are dead."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:516
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:515
 msgid ""
 "<span size='small' style='italic'>Luckily I managed to <u>borrow</u> some "
 "scrolls from them. I reckon I ought to use... this one...</span>"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:541
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:540
 msgid "Such a wonderful conjuration, a pity it will only last a few days."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:546
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:545
 msgid ""
 "For the course of this campaign Elyssa can upgrade as Arch Mage or Silver "
 "Mage. If you choose to advance her as Arch Mage, she can upgrade to a Great "
@@ -900,8 +900,8 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:551
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1121
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:550
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1120
 msgid ""
 "Elyssa has also the ability to change the terrain where her enemies stood "
 "when killing them. To find out what happens, just try frying enemies with "
@@ -909,7 +909,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:557
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:556
 msgid ""
 "Finally, for this scenario only, Elyssa can summon Dust Devils, but only one "
 "per turn, on an empty hex near her, and only if there are less than three on "
@@ -919,14 +919,14 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:564
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:704
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:563
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:703
 msgid "Defeat the plunderers' leader and"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:576
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:940
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:575
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:939
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:329
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1909
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2039
@@ -955,20 +955,20 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:200
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:239
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:275
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:58
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:98
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:138
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:178
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:61
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:101
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:141
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:181
 msgid "Death of Elyssa"
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:616
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:615
 msgid "Mage said Dwarves killed. What they killed?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:620
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:619
 msgid ""
 "The battles were terrible, great waves of Dwarves streamed into the tunnels "
 "and swarmed about us. The Trolls fought valiantly, taking out whole platoons "
@@ -976,14 +976,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:624
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1086
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:623
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1085
 msgid "Trolls... defeated?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:630
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1091
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:629
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1090
 msgid ""
 "Many were slain, but so were hundred of Dwarves. The battle raged for days "
 "until finally we were barely holding the village and the Great Chief entered "
@@ -993,38 +993,38 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:634
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1095
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:633
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1094
 msgid "Great Chief... dead?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:638
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1099
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:637
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1098
 msgid "I'm afraid it is so."
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:643
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:642
 msgid ""
 "Great Chief be avenged. This <b>Rrrobblnuth.</b> Grog squash all Dwarves."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:647
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1107
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:646
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1106
 msgid ""
 "I would gladly accompany you back, for vengeance. I can help you locate the "
 "survivors."
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:669
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:668
 msgid "Grog ask what spiky thing?"
 msgstr ""
 
 #. [message]: speaker=Bedet
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:674
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:673
 msgid ""
 "Those are Cactoses. They live in great colonies in the deepest parts of the "
 "desert, I have never seen one venture so far from their forests before; be "
@@ -1032,94 +1032,94 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Bedet
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:698
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:697
 msgid "Plunderers ahead, we'll have to clear them out."
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:753
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:752
 msgid "More humans!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:759
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:758
 msgid "There are more of them to the south!"
 msgstr ""
 
 #. [message]: speaker=al_basil # bill
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:795
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:794
 msgid "Death... means nothing... Our cause lives on!"
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:824
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:823
 msgid "Grog sees sword."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:830
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:829
 msgid "Look at his sword, it emanates power. Shall we take it?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:858
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:857
 msgid "A powerful magical force repels everyone away."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:865
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:864
 msgid "A powerful magical force repels $second_unit.name away."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:874
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:873
 msgid "Perhaps my magical ability will be able to master it."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:882
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:881
 msgid "Ohh, this is a powerful sword... I'm going to enjoy this!"
 msgstr ""
 
 #. [animate_unit]
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:897
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:896
 msgid " *swish*"
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:998
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:997
 msgid "Don't forget the humans."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1018
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1017
 msgid ""
 "This is taking far too long... There are even more bandits coming; surely we "
 "are defeated."
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1023
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1022
 msgid "Too many humans! Grog is defeated."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1049
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1048
 msgid "I am glad to find you! I have spent many weeks searching."
 msgstr ""
 
 #. [message]: role=what
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1054
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1053
 msgid "Hey! Who is that? She looks familiar... wait... is that you Elyssa? "
 msgstr ""
 
 #. [message]: role=what
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1078
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1077
 msgid "Who? Who did they kill?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1082
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1081
 msgid ""
 "Slow down! I am coming to that. The battles were terrible, great waves of "
 "Dwarves streamed into the tunnels and swarmed about us. The Trolls fought "
@@ -1128,19 +1128,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1103
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1102
 msgid "Great Chief be avenged. This Rrrobblnuth. Grog squash all Dwarves."
 msgstr ""
 
 #. [message]: role=lucky
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1112
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1149
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1111
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1148
 msgid ""
 "It was indeed a blessing from Eloh that we met you when we needed it most."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1116
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1115
 msgid ""
 "For the course of this campaign Elyssa can upgrade as Arch Mage or Silver "
 "Mage. If you choose to advance her as Arch Mage, she can upgrade as Great "
@@ -1149,12 +1149,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1129
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1128
 msgid "Mage, you there when Dwarves attack?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1133
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1132
 msgid ""
 "Yes, I was there. I fought as best as I could but they were too many. I was "
 "captured and brought deep into their tunnels; I believe they wanted to "
@@ -1163,12 +1163,12 @@ msgid ""
 msgstr ""
 
 #. [message]: role=lucky
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1137
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1136
 msgid "You escaped?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1141
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1140
 msgid ""
 "Oh yes, I fried a few Dwarves on my way out too! I then thought I would seek "
 "out the company of the Elves I had traveled with years before. Now, what of "
@@ -1176,7 +1176,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1145
+#: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1144
 msgid ""
 "Grog go home. Grog know Trolls need help, then Mage say bad things. Grog go "
 "home and help."
@@ -1718,10 +1718,10 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:196
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:235
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:271
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:54
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:94
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:134
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:174
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:57
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:97
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:137
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:177
 #: The_Sojournings_of_Grog/scenarios/C1-Shipwreck.cfg:91
 #: The_Sojournings_of_Grog/scenarios/C1-Shipwreck.cfg:271
 msgid "Death of Zurg"
@@ -3539,7 +3539,7 @@ msgstr ""
 #. [side]: type=Armageddon Drake, id=drakeambassador
 #. [unit]: type=Armageddon Drake, id=drakeambassador
 #: The_Sojournings_of_Grog/scenarios/A7-Nemesis.cfg:286
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:604
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:607
 msgid "Drake Ambassador"
 msgstr ""
 
@@ -4514,7 +4514,7 @@ msgstr ""
 #. [side]: type=General, id=humanboss1
 #: The_Sojournings_of_Grog/scenarios/B4-Waves_and_Waves.cfg:116
 #: The_Sojournings_of_Grog/scenarios/B5-Defense.cfg:226
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:376
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:379
 msgid "Hannibal"
 msgstr ""
 
@@ -4530,7 +4530,7 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B4-Waves_and_Waves.cfg:179
 #: The_Sojournings_of_Grog/scenarios/B5-Defense.cfg:296
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:614
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:652
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:655
 msgid "Hamilcar"
 msgstr ""
 
@@ -4999,7 +4999,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/B5-Defense.cfg:497
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:664
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:667
 msgid ""
 "In this scenario you have the option of controlling your allies. Would you "
 "like to do this?"
@@ -5007,13 +5007,13 @@ msgstr ""
 
 #. [option]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/B5-Defense.cfg:500
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:667
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:670
 msgid "Let the ai play for me."
 msgstr ""
 
 #. [option]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/B5-Defense.cfg:533
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:729
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:732
 msgid "I will take command."
 msgstr ""
 
@@ -5606,7 +5606,7 @@ msgstr ""
 
 #. [message]: speaker=humanguide
 #: The_Sojournings_of_Grog/scenarios/B6-The_Back_Door.cfg:1475
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1203
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1206
 msgid "Ackk."
 msgstr ""
 
@@ -5666,7 +5666,7 @@ msgid "Dragonbane"
 msgstr ""
 
 #. [part]
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:34
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:37
 msgid ""
 "After years of oppression and months of fighting and preparation, the "
 "combined armies of Trolls, Humans, Elves, Mermen, Ogres and Gryphons stood "
@@ -5674,55 +5674,55 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:46
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:86
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:126
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:166
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:49
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:89
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:129
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:169
 msgid "Defeat the dragon."
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:62
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:102
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:142
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:182
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:65
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:105
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:145
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:185
 msgid "Death of Kaleh"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:66
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:106
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:146
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:186
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:69
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:109
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:149
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:189
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:145
 msgid "Death of Melusand"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:70
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:110
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:150
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:190
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:73
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:113
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:153
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:193
 msgid "Death of Human Leader"
 msgstr ""
 
 #. [side]: type=Kaleh, id=Kaleh
 #. [unit_type]: id=Kaleh, race=elf
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:226
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:229
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:233
 #: The_Sojournings_of_Grog/units/Kaleh.cfg:6
 msgid "Kaleh of the Quenoth Elves"
 msgstr ""
 
 #. [unit]: type=Desert Star, id=Zhul
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:253
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:256
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:249
 msgid "Zhul"
 msgstr ""
 
 #. [message]: speaker=Quenoth ship
 #. [unit]: type=Nym Prowler, id=Nym
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:272
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:275
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:595
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:266
 msgid "Nym"
@@ -5730,7 +5730,7 @@ msgstr ""
 
 #. [side]: id=Melusand, type=Mermaid Diviner
 #. [unit]: id=Melusand, type=Mermaid Diviner
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:317
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:320
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:171
 msgid "Melusand"
 msgstr ""
@@ -5740,41 +5740,41 @@ msgstr ""
 #. [side]: type=Drake Enforcer, id=drakeboss2
 #. [side]: type=Drake Warden, id=drakeboss3
 #. [side]: type=Naga Myrmidon, id=nagaboss
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:425
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:452
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:479
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:505
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:539
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:428
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:455
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:482
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:508
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:542
 msgid "Dragon"
 msgstr ""
 
 #. [message]: speaker=humanguide
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:870
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:873
 msgid "This is the domain of Akhenku."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:875
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:878
 msgid "The quest was a success! The Elves are landing now."
 msgstr ""
 
 #. [message]: speaker=Zhul
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:880
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:883
 msgid "It was foretold that we would meet again, Grog."
 msgstr ""
 
 #. [message]: speaker=Nym
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:885
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:888
 msgid "Let us strike fear into the hearts of these drakes."
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:890
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:893
 msgid "Grog like squash flying things."
 msgstr ""
 
 #. [message]: speaker=humanboss
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:904
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:907
 msgid ""
 "The northern garrison told us of how you helped them. The council has "
 "decided to offer you an alliance and grant you this land in perpetuity if "
@@ -5782,216 +5782,216 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Melusand
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:911
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:914
 msgid "We will hold the seas for you."
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:916
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:919
 msgid "Giant flying thing got choice. Run or Grog smash you."
 msgstr ""
 
 #. [message]: speaker=drakeambassador
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:927
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:930
 msgid "GRRRRAAAARRRGGHHH."
 msgstr ""
 
 #. [message]: speaker=dragon
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:935
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:938
 msgid ""
 "<span color='red' size='xx-large' weight='heavy'>RRRRAAAAUUUURRRRGGGGGHHHHH."
 "</span>"
 msgstr ""
 
 #. [message]: speaker=humanboss
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:941
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:944
 msgid "For freedom!"
 msgstr ""
 
 #. [message]: speaker=Kaleh
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:946
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:949
 msgid "For the Quenoth!"
 msgstr ""
 
 #. [message]: speaker=Esanoo
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:951
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:954
 msgid "For the freedom of the seas!"
 msgstr ""
 
 #. [message]: speaker=gryphonboss
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:956
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:959
 msgid "Ooorrrr friennnnndsss!"
 msgstr ""
 
 #. [message]: speaker=ogreboss
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:961
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:964
 msgid "For little people!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:966
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:969
 msgid "For knowledge!"
 msgstr ""
 
 #. [message]: speaker=mudcrawler
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:972
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:975
 msgid "Blurble! Glarb! Plopl!"
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:978
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:981
 msgid "Squash EVERYRTHING."
 msgstr ""
 
 #. [message]: speaker=drakeboss1
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:983
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1218
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:986
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1221
 msgid "GRRRGGHHH."
 msgstr ""
 
 #. [message]: speaker=drakeboss2
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:988
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1233
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:991
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1236
 msgid "RAAGGGHHHH."
 msgstr ""
 
 #. [message]: speaker=drakeboss3
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:993
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1248
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:996
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1251
 msgid "KKKKRRRUUGGGHHH."
 msgstr ""
 
 #. [message]: speaker=nagaboss
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:998
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1263
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1001
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1266
 msgid "HSSSSS."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1003
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1006
 msgid "Grog, be careful. I fear that killing him once won't be enough."
 msgstr ""
 
 #. [message]: speaker=drakeambassador
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1016
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1019
 msgid "I, I am an ambassador from his Majesty AKHENKU THE GREAT."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1020
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1023
 msgid "Your embassy has come to a fiery end, fool."
 msgstr ""
 
 #. [message]: speaker=dragon
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1029
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1032
 msgid ""
 "<span color='red' size='xx-large' weight='heavy'>RRRRUUUUAAAARRRRGGGGG!!!</"
 "span>"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1034
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1037
 msgid "And for you, Akhenku, your kingdom of terror is over. Prepare to die!"
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1038
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1041
 msgid "Grog says we crush dragon."
 msgstr ""
 
 #. [message]: speaker=Zurg
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1043
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1046
 msgid "Fist and cold, we will destroy you!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1061
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1064
 msgid "To die on the cusp of victory. Oh the irony!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1082
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1085
 msgid "Save me, Kaleh, I'm dying..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1098
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1101
 msgid "Eloh protect us, I have fallen."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1115
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1118
 msgid "In killing me you kill a legend."
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1120
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1123
 msgid "Merfolk good, we doomed now."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1146
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1149
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:590
 msgid "Farewell Nym, I go to the sea god. You must go on without me."
 msgstr ""
 
 #. [message]: speaker=Nym
 #. [message]: speaker=Quenoth ship
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1151
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1154
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:597
 msgid "Farewell Esanoo. You were my favorite of the merfolk."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1158
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1161
 msgid "Farewell, I go to the sea god. You must go on without me."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1177
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1180
 msgid "Ughh."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1182
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1185
 msgid "He was important to our success."
 msgstr ""
 
 #. [message]: speaker=dragon
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1301
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1304
 msgid ""
 "<span color='red' size='xx-large' weight='heavy'>Fools! Do you really think "
 "that you can kill Akhenku the Great?</span>"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1305
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1308
 msgid "Uh oh... I don't like what's about to happen..."
 msgstr ""
 
 #. [message]: speaker=dragon
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1383
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1386
 msgid ""
 "<span color='red' size='xx-large' weight='heavy'>I lay this curse upon you "
 "that you may know much sorrow.</span>"
 msgstr ""
 
 #. [floating_text]
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1388
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1391
 msgid "<span color='white'>*thud*</span>"
 msgstr ""
 
 #. [message]: speaker=dragon
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1393
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1396
 msgid "<span color='red' size='xx-large' weight='heavy'>Argghhh.</span>"
 msgstr ""
 
 #. [message]: speaker=Grog
-#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1413
+#: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:1416
 msgid "Trolls win."
 msgstr ""
 
@@ -6514,7 +6514,7 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/S2-End_of_a_Chapter.cfg:388
 #: The_Sojournings_of_Grog/scenarios/S3-Council_of_War.cfg:32
 #: The_Sojournings_of_Grog/scenarios/S3-Council_of_War.cfg:49
-#: The_Sojournings_of_Grog/utils/unit-create.cfg:90
+#: The_Sojournings_of_Grog/utils/unit-create.cfg:92
 msgid "Elyssa"
 msgstr ""
 
@@ -6989,6 +6989,19 @@ msgid ""
 "carving a path in the darkness."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: The_Sojournings_of_Grog/scenarios/S4-Conclusion.cfg:87
+msgid ""
+"Did you like this campaign?\n"
+"Want to leave some feedback?\n"
+"Have a suggestion to improve it?\n"
+"Need to report a bug?\n"
+"Just go to forums.wesnoth.org, Scenario and Campaign Development forum, or "
+"click with your smartphone on the QR Code to the left.\n"
+" \n"
+"<big>Thank you for playing!</big>"
+msgstr ""
+
 #. [scenario]: id=hack_start
 #: The_Sojournings_of_Grog/scenarios/hack_start.cfg:8
 msgid "Chapter II"
@@ -7228,8 +7241,7 @@ msgstr ""
 #: The_Sojournings_of_Grog/units/Desert_Sentinel.cfg:38
 #: The_Sojournings_of_Grog/units/Desert_Sharpshooter.cfg:43
 #: The_Sojournings_of_Grog/units/Desert_Vanquisher.cfg:55
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:76
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:85
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:77
 #: The_Sojournings_of_Grog/units/Naga_Assassin.cfg:40
 #: The_Sojournings_of_Grog/units/Naga_Hunter.cfg:43
 #: The_Sojournings_of_Grog/units/Nym.cfg:30
@@ -7246,7 +7258,7 @@ msgstr ""
 #: The_Sojournings_of_Grog/units/Desert_Marshal.cfg:55
 #: The_Sojournings_of_Grog/units/Desert_Ranger.cfg:57
 #: The_Sojournings_of_Grog/units/Desert_Vanquisher.cfg:76
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:109
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:97
 #: The_Sojournings_of_Grog/units/Naga_Assassin.cfg:49
 #: The_Sojournings_of_Grog/units/Naga_Hunter.cfg:52
 #: The_Sojournings_of_Grog/units/khalifate/Hadaf.cfg:32
@@ -7375,7 +7387,7 @@ msgstr ""
 #: The_Sojournings_of_Grog/units/Desert_Hunter.cfg:46
 #: The_Sojournings_of_Grog/units/Desert_Prowler.cfg:48
 #: The_Sojournings_of_Grog/units/Desert_Sentinel.cfg:47
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:121
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:109
 #: The_Sojournings_of_Grog/units/Nym.cfg:39
 msgid "bolas"
 msgstr ""
@@ -7726,8 +7738,21 @@ msgstr ""
 msgid "club"
 msgstr ""
 
+#. [resistance]: id=sustenance
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:38
+msgid "sustenance"
+msgstr ""
+
+#. [resistance]: id=sustenance
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:39
+msgid ""
+"Sustenance:\n"
+"        This unit's resistances are increased by 20% in daylight, on defense "
+"and attack. Vulnerabilities are not affected."
+msgstr ""
+
 #. [unit_type]: id=Kaleh, race=elf
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:70
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:71
 msgid ""
 "Kaleh is still a young Elf of the Quenoth, on the verge of adulthood. He "
 "trained with his father with the bow and sword, joining him in lighter "
@@ -7737,20 +7762,19 @@ msgid ""
 "towards him for guidance in times to come."
 msgstr ""
 
-#. [chance_to_hit]: id=stun
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:95
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:98
+#. [dummy]: id=stun
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:86
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:89
 msgid "stun"
 msgstr ""
 
-#. [chance_to_hit]: id=stun
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:96
-#: The_Sojournings_of_Grog/units/Kaleh.cfg:99
+#. [dummy]: id=stun
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:87
+#: The_Sojournings_of_Grog/units/Kaleh.cfg:90
 msgid ""
 "Stun:\n"
 "This attack puts enormous pressure on the enemy, disrupting his ZOC if a hit "
-"is landed. The attacker is exposing himself to attack and will be slowed as "
-"a result of the effort. Not active on defense."
+"is landed. Not active on defense."
 msgstr ""
 
 #. [unit_type]: id=Gold Mage, race=human
@@ -8726,12 +8750,12 @@ msgid ""
 msgstr ""
 
 #. [resistance]: id=shields
-#: The_Sojournings_of_Grog/utils/abilities.cfg:41
+#: The_Sojournings_of_Grog/utils/abilities.cfg:42
 msgid "shields"
 msgstr ""
 
 #. [resistance]: id=shields
-#: The_Sojournings_of_Grog/utils/abilities.cfg:42
+#: The_Sojournings_of_Grog/utils/abilities.cfg:43
 msgid ""
 "Shields:\n"
 "Adjacent units receive a +20% bonus to all resistances on defense (up to a "
@@ -8739,24 +8763,24 @@ msgid ""
 msgstr ""
 
 #. [dummy]: id=terrain_change
-#: The_Sojournings_of_Grog/utils/abilities.cfg:58
+#: The_Sojournings_of_Grog/utils/abilities.cfg:59
 msgid "terrain change"
 msgstr ""
 
 #. [dummy]: id=terrain_change
-#: The_Sojournings_of_Grog/utils/abilities.cfg:59
+#: The_Sojournings_of_Grog/utils/abilities.cfg:60
 msgid ""
 "Terrain Change:\n"
 "When an enemy unit dies, the terrain where it was will be modified."
 msgstr ""
 
 #. [trait]: id=drunk
-#: The_Sojournings_of_Grog/utils/abilities.cfg:69
+#: The_Sojournings_of_Grog/utils/abilities.cfg:70
 msgid "drunk"
 msgstr ""
 
 #. [trait]: id=drunk
-#: The_Sojournings_of_Grog/utils/abilities.cfg:70
+#: The_Sojournings_of_Grog/utils/abilities.cfg:71
 msgid "female^drunk"
 msgstr ""
 
@@ -9052,7 +9076,17 @@ msgid ""
 "terrain."
 msgstr ""
 
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:36
+#. [set_variable]
+#: The_Sojournings_of_Grog/utils/kaleh-abilities.cfg:36
+msgid "female^stunned"
+msgstr ""
+
+#. [set_variable]
+#: The_Sojournings_of_Grog/utils/kaleh-abilities.cfg:43
+msgid "stunned"
+msgstr ""
+
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:4
 msgid ""
 "Aban,Abbas,Abbud,Abdul-ʿAdl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
 "Abdul-Aziz,Abdul-Badi,Abdul-Baʿith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
@@ -9131,37 +9165,37 @@ msgid ""
 msgstr ""
 
 #. [race]: id=khalifate
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:43
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:11
 msgid "race^Khalifate Human"
 msgstr ""
 
 #. [race]: id=khalifate
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:44
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:12
 msgid "race+female^Khalifate Human"
 msgstr ""
 
 #. [race]: id=khalifate
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:45
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:13
 msgid "race+plural^Khalifate"
 msgstr ""
 
 #. [race]: id=khalifate
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:46
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:14
 msgid "This race does not have a description yet."
 msgstr ""
 
 #. [race]: id=falcon, description=
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:55
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:23
 msgid "race^Falcon"
 msgstr ""
 
 #. [race]: id=falcon, description=
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:56
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:24
 msgid "race+female^Falcon"
 msgstr ""
 
 #. [race]: id=falcon, description=
-#: The_Sojournings_of_Grog/utils/movetypes.cfg:57
+#: The_Sojournings_of_Grog/utils/movetypes.cfg:25
 msgid "race^Falcons"
 msgstr ""
 
@@ -9452,7 +9486,7 @@ msgid "I wonder if there are some other White Trolls around the world..."
 msgstr ""
 
 #. [effect]
-#: The_Sojournings_of_Grog/utils/unit-create.cfg:185
+#: The_Sojournings_of_Grog/utils/unit-create.cfg:188
 msgid "staff of power"
 msgstr ""
 
