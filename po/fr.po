@@ -1,274 +1,354 @@
+# « »
+# Northerner  			: Habitants du nord
+# WarBanner   			: Porteur de Bannière ?
+# Dragon Lord 			: Seigneur Dragon
+# Great Ogre  			: Ogre Géant
+# White Troll 			: Troll Blanc
+# Gold Mage         	: Mage d'Or
+# Elvish Vanquisher 	: Vainqueur elfe
+# mainline 				: principale (ou encore branche principale)
+# "ile zoctanol" (l 574)
+# mudpies				: boules de boue
+# khalifa				: khalifa
+# plunderer				: pillard
+# Quand Grog parle "d'écrabouiller", on met "crabouiller" histoire de rendre son phrasé bancal
+# mudcrawler			:
+# Quand un troll par de "bones" (morts-vivants) on traduit par "sac d'os"
 msgid ""
 msgstr ""
 "Project-Id-Version: The_Sojournings_of_Grog-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 21:05-0400\n"
-"PO-Revision-Date: 2012-05-22 08:36-0400\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gari <gm_gari@hotmail.com>\n"
+"Language-Team: French <wesnoth@ml.free.fr>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:23
+#, fuzzy
 msgid "1: The Sojournings of Grog"
-msgstr ""
+msgstr "1: Les tribulations de Grog"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:27 The_Sojournings_of_Grog/_main.cfg:151
+#, fuzzy
 msgid "TSoG"
-msgstr ""
+msgstr "TSoG"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:31
+#, fuzzy
 msgid "Grog (as starring in 'Under the Burning Suns') goes home. PART 1"
 msgstr ""
+"Grog (Vedette de « Sous les Soleils Brûlants ») rentre chez lui. PARTIE 1"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:36 The_Sojournings_of_Grog/_main.cfg:159
+#, fuzzy
 msgid "Whelp"
-msgstr ""
+msgstr "Chiot"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:36 The_Sojournings_of_Grog/_main.cfg:159
+#, fuzzy
 msgid "(Easy)"
-msgstr ""
+msgstr "(Facile)"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:37 The_Sojournings_of_Grog/_main.cfg:160
+#, fuzzy
 msgid "(Medium)"
-msgstr ""
+msgstr "(Normal)"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:37 The_Sojournings_of_Grog/_main.cfg:160
+#, fuzzy
 msgid "Grunt"
-msgstr ""
+msgstr "Grunt"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:38 The_Sojournings_of_Grog/_main.cfg:161
+#, fuzzy
 msgid "(Hard)"
-msgstr ""
+msgstr "(Difficile)"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:38 The_Sojournings_of_Grog/_main.cfg:161
+#, fuzzy
 msgid "Warrior"
-msgstr ""
+msgstr "Guerrier"
 
 #. [about]
 #: The_Sojournings_of_Grog/_main.cfg:43 The_Sojournings_of_Grog/_main.cfg:166
+#, fuzzy
 msgid "Current maintainer"
-msgstr ""
+msgstr "Mainteneur actuel"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:45 The_Sojournings_of_Grog/_main.cfg:168
+#, fuzzy
 msgid "Elvish_Hunter"
-msgstr ""
+msgstr "Elvish_Hunter"
 
 #. [about]
 #: The_Sojournings_of_Grog/_main.cfg:49 The_Sojournings_of_Grog/_main.cfg:172
+#, fuzzy
 msgid "Very special thanks to:"
-msgstr ""
+msgstr "Tous mes remerciements à :"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:51 The_Sojournings_of_Grog/_main.cfg:174
+#, fuzzy
 msgid "Anonymissimus"
-msgstr ""
+msgstr "Anonymissimus"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:54 The_Sojournings_of_Grog/_main.cfg:177
+#, fuzzy
 msgid "Kerth, for the Cactose sprites"
-msgstr ""
+msgstr "Kerth, pour les sprites des cactus"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:57 The_Sojournings_of_Grog/_main.cfg:180
+#, fuzzy
 msgid "Doug Kaufman, for the Wesnoth Score track"
-msgstr ""
+msgstr "Doug Kaufman, pour la musique « Wesnoth Score »"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:60
+#, fuzzy
 msgid "JAP, for the drakes' and northerners' flags and the story screens"
 msgstr ""
+"JAP, pour les drapeaux drakes et des habitants du nord et pour les écrans de "
+"récit"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:63 The_Sojournings_of_Grog/_main.cfg:186
+#, fuzzy
 msgid "inferno8, for the Troll Warbanner sprites and unit from Era of Magic"
 msgstr ""
+"inferno8, pour les images et l'unité du porteur de bannière troll provenant "
+"de l'Ère de Magie"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:66 The_Sojournings_of_Grog/_main.cfg:189
+#, fuzzy
 msgid "pixelmind, for the Dragon Lord sprites and portrait"
-msgstr ""
+msgstr "pixelmind, pour le portrait et les sprites du Seigneur Dragon"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:69 The_Sojournings_of_Grog/_main.cfg:192
+#, fuzzy
 msgid "Daravel, for dialogue rewriting"
-msgstr ""
+msgstr "Darawel, pour la réécriture des dialogues"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:72 The_Sojournings_of_Grog/_main.cfg:195
+#, fuzzy
 msgid "SkyOne"
-msgstr ""
+msgstr "SkyOne"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:75 The_Sojournings_of_Grog/_main.cfg:198
+#, fuzzy
 msgid "Jacques_Fol, for the WML for Dragon Lord unit"
-msgstr ""
+msgstr "Jacques_Fol, pour le WML du Seigneur Dragon"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:78 The_Sojournings_of_Grog/_main.cfg:201
+#, fuzzy
 msgid "ZhayTee"
-msgstr ""
+msgstr "ZhayTee"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:81 The_Sojournings_of_Grog/_main.cfg:204
+#, fuzzy
 msgid "mich, for the multihex attack code"
-msgstr ""
+msgstr "mich, pour le code d'attaque multi-hex"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:84 The_Sojournings_of_Grog/_main.cfg:207
+#, fuzzy
 msgid "Phyreprooph, for NE and SE Cactose attack frames"
-msgstr ""
+msgstr "Phyreprooph, pour les images d'attaque NE et SE des cactus"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:87 The_Sojournings_of_Grog/_main.cfg:210
+#, fuzzy
 msgid "Monroid, for the Great Ogre sprite"
-msgstr ""
+msgstr "Monroid, pour l'image de l'ogre géant"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:90 The_Sojournings_of_Grog/_main.cfg:213
+#, fuzzy
 msgid "Dibs, mich and the Wesnoth Italian Forum, for the White Troll unit"
-msgstr ""
+msgstr "Dibs, mich et le forum Wesnoth Italien, pour l'unité du Troll Blanc"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:93 The_Sojournings_of_Grog/_main.cfg:216
+#, fuzzy
 msgid "Tet"
-msgstr ""
+msgstr "Tet"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:96 The_Sojournings_of_Grog/_main.cfg:219
+#, fuzzy
 msgid "SomeOneNamedMe, for the Gold Mage unit"
-msgstr ""
+msgstr "SomeOneNamedMe, pour l'unité du Mage d'Or"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:99 The_Sojournings_of_Grog/_main.cfg:222
+#, fuzzy
 msgid "JustinOperable, for the Troll Shaman (Zurg) portrait"
-msgstr ""
+msgstr "JustinOperable, pour le portrait du Shaman Troll (Zurg)"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:102 The_Sojournings_of_Grog/_main.cfg:225
+#, fuzzy
 msgid "shadowblack, for playtesting and feedback"
-msgstr ""
+msgstr "shadowblack, pour les tests et les retours de tests"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:105 The_Sojournings_of_Grog/_main.cfg:228
+#, fuzzy
 msgid "Zerovirus, for the Naga Hunter new sprite"
-msgstr ""
+msgstr "Zerovirus, pour le nouveau sprite du Chasseur Naga"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:108 The_Sojournings_of_Grog/_main.cfg:231
+#, fuzzy
 msgid "vonHalenbach, for one story screen"
-msgstr ""
+msgstr "vonHalenbach, pour un écran de récit"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:111 The_Sojournings_of_Grog/_main.cfg:234
+#, fuzzy
 msgid "OpenClipArt.org, for the heart AMLA image"
-msgstr ""
+msgstr "OpenClipArt.org, pour l'image du coeur AMLA"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:114 The_Sojournings_of_Grog/_main.cfg:237
+#, fuzzy
 msgid "Vendanna, for the Naga Jackla sprites"
-msgstr ""
+msgstr "Vendanna, pour le sprite du Naga Jackla"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:117 The_Sojournings_of_Grog/_main.cfg:240
+#, fuzzy
 msgid "Crow_T, for the Yeti portrait"
-msgstr ""
+msgstr "Crow_T, pour le portrait du Yéti"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:120 The_Sojournings_of_Grog/_main.cfg:243
+#, fuzzy
 msgid ""
 "Thand, for the Elvish Vanquisher sprites (recoloured by Elvish_Hunter for "
 "this campaign)"
 msgstr ""
+"Thand, pour les sprites du Vainqueur Elfe (recolorés ar Elvish_Hunter pour "
+"cette campagne)"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:123 The_Sojournings_of_Grog/_main.cfg:246
+#, fuzzy
 msgid "Tissia, for the Sea Serpent portrait"
-msgstr ""
+msgstr "Tissia, pour le portrait du Serpent de Mer"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:126 The_Sojournings_of_Grog/_main.cfg:249
+#, fuzzy
 msgid "battlestar, for the Giant Worms sprites"
-msgstr ""
+msgstr "battlestar, pour les sprites des Vers Géants"
 
 #. [about]
 #: The_Sojournings_of_Grog/_main.cfg:130 The_Sojournings_of_Grog/_main.cfg:253
+#, fuzzy
 msgid "Campaign Design/Maintenance"
-msgstr ""
+msgstr "Design et maintenance de la campagne"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:132 The_Sojournings_of_Grog/_main.cfg:255
+#, fuzzy
 msgid "Peter Christopher (Eros)"
-msgstr ""
+msgstr "Peter Christopher (Eros)"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:135 The_Sojournings_of_Grog/_main.cfg:258
+#, fuzzy
 msgid "Thomas Hockings (Mars)"
-msgstr ""
+msgstr "Thomas Hockings (Mars)"
 
 #. [about]
 #: The_Sojournings_of_Grog/_main.cfg:139 The_Sojournings_of_Grog/_main.cfg:262
+#, fuzzy
 msgid "Thanks to"
-msgstr ""
+msgstr "Merci à"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:141 The_Sojournings_of_Grog/_main.cfg:264
+#, fuzzy
 msgid ""
 "Campaigns mainline and otherwise, off of whom we have 'borrowed' much code"
 msgstr ""
+"Campagnes principales et autres, desquelles nous avons « emprunté » du code"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:147
+#, fuzzy
 msgid "2: The Sojournings of Grog"
-msgstr ""
+msgstr "2: Les Tribulations de Grog"
 
 #. [campaign]: id=The_Sojournings_of_Grog
 #: The_Sojournings_of_Grog/_main.cfg:154
+#, fuzzy
 msgid "Grog (as starring in 'Under the Burning Suns') goes home. PART 2"
 msgstr ""
+"Grog (Vedette de « Sous les Soleils Brûlants ») rentre chez lui. PARTIE 2"
 
 #. [entry]
 #: The_Sojournings_of_Grog/_main.cfg:183
+#, fuzzy
 msgid "JAP, for the drakes' and northerners' flags and several story screens"
 msgstr ""
+"JAP, pour les drapeaux drakes et des habitants du nord et pour de nombreux "
+"écrans de récit"
 
 #. [lua]: item_preshow
 #: The_Sojournings_of_Grog/lua/wml-tags.lua:111
+#, fuzzy
 msgid "Take it"
-msgstr ""
+msgstr "Le prendre"
 
 #. [lua]: item_preshow
 #: The_Sojournings_of_Grog/lua/wml-tags.lua:112
+#, fuzzy
 msgid "Leave it"
-msgstr ""
+msgstr "Le laisser"
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:46
+#, fuzzy
 msgid "Those Sand Strewn Beaches"
-msgstr ""
+msgstr "Les Plages de Sable"
 
 #. [part]
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:71
+#, fuzzy
 msgid ""
 "Grog and his companions set sail under the expert guidance of the Merfolk. "
 "Their luck held and they reached the mainland within a few days and without "
 "incident."
 msgstr ""
+"Grog et ses compagnons prirent la mer, guidés de main de maitre par les "
+"ondins. Naviguant sous des vents favorables et profitant de leur bonne "
+"étoile, ils atteignirent la côte en quelques jours et sans incidents."
 
 #. [part]
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:75
+#, fuzzy
 msgid ""
 "After Yechnagoth's empire collapsed the entire region feel into anarchy; "
 "tribal leaders and viscous brigands claimed the land and instilled their own "
@@ -278,13 +358,23 @@ msgid ""
 "were populated by the Mermen who strove to gain control of the vital "
 "waterways."
 msgstr ""
+"Après l'effondrement de l'empire de Yechnagoth, la région entière était "
+"tombée dans l'anarchie : des chefs de tribus et autres brigands visqueux "
+"avaient réclamé le territoire et avaient instauré leurs propres règnes de "
+"terreur. Les communités pacifiques avaient été repoussées dans les terres "
+"les plus désolées. Les Nagas avaient infesté les eaux et les marais côtiers, "
+"interrompant le commerce et pillant les villages construit autours d'eux."
 
 #. [part]
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:79
+#, fuzzy
 msgid ""
 "The arrival of an Elven ship guarded by Mermen was considered an invasion by "
 "the Nagas who seek to control all traffic around the mainland..."
 msgstr ""
+"L'arrivée d'un bateau elfe gardé par des ondins fut considérée comme une "
+"invasion par les Nagas, qui visaient à contrôler l'intégralité du traffic "
+"maritime..."
 
 #. [side]
 #. [side]: id=Melusand, type=Mermaid Diviner
@@ -341,34 +431,40 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/S3-Council_of_War.cfg:67
 #: The_Sojournings_of_Grog/scenarios/S4-Conclusion.cfg:45
 #: The_Sojournings_of_Grog/scenarios/hack_start.cfg:36
+#, fuzzy
 msgid "Goodies"
-msgstr ""
+msgstr "Gentils"
 
 #. [side]: type=Naga Warrior, id=nagaboss
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:113
+#, fuzzy
 msgid "Nagas"
-msgstr ""
+msgstr "Nagas"
 
 #. [side]
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:167
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:198
+#, fuzzy
 msgid "Monsters"
-msgstr ""
+msgstr "Monstres"
 
 #. [side]
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:191
+#, fuzzy
 msgid "Villagers"
-msgstr ""
+msgstr "Villageois"
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:280
+#, fuzzy
 msgid "Grog must reach the signpost"
-msgstr ""
+msgstr "Grog doit atteindre le panneau indicateur"
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:285
+#, fuzzy
 msgid "<span foreground='white'>Kill Naga leader (Bonus)</span>"
-msgstr ""
+msgstr "<span foreground='white'>Tuer le chef des Naga (Bonus)</span>"
 
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:289
@@ -411,19 +507,22 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:133
 #: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:173
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:76
+#, fuzzy
 msgid "Death of Grog"
-msgstr ""
+msgstr "Mort de Grog"
 
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:294
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:149
+#, fuzzy
 msgid "Death of Esanoo"
-msgstr ""
+msgstr "Mort d'Esanoo"
 
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:298
+#, fuzzy
 msgid "The ship is sunk before it lands its troops."
-msgstr ""
+msgstr "Le bateau est coulé avant d'avoir débarqué ses troupes."
 
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:302
@@ -462,8 +561,9 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:197
 #: The_Sojournings_of_Grog/scenarios/C2-A_Powerful_Ballista.cfg:157
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:80
+#, fuzzy
 msgid "Time runs out"
-msgstr ""
+msgstr "Fin des tours atteinte"
 
 #. [unit]: type=Merman Entangler, id=Esanoo
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:349
@@ -471,18 +571,21 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/C1-Flying_Above_the_Sands.cfg:152
 #: The_Sojournings_of_Grog/scenarios/S1-Prologue.cfg:281
 #: The_Sojournings_of_Grog/scenarios/hack_start.cfg:269
+#, fuzzy
 msgid "Esanoo"
-msgstr ""
+msgstr "Esanoo"
 
 #. [message]: speaker=naga1
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:387
+#, fuzzy
 msgid "Hsss. Who goess there."
-msgstr ""
+msgstr "Hsss. Qui vient là."
 
 #. [message]: speaker=naga2
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:392
+#, fuzzy
 msgid "Itss those stinkingsss elvesss and the fishesss."
-msgstr ""
+msgstr "Cce ssont ces elfes puants et les poissssons."
 
 #. [message]: speaker=ship
 #. [part]
@@ -496,280 +599,366 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/S3-Council_of_War.cfg:28
 #: The_Sojournings_of_Grog/scenarios/S3-Council_of_War.cfg:53
 #: The_Sojournings_of_Grog/utils/unit-create.cfg:23
+#, fuzzy
 msgid "Grog"
-msgstr ""
+msgstr "Grog"
 
 #. [message]: speaker=ship
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:399
+#, fuzzy
 msgid "Grog and little Elves wan' to land..."
-msgstr ""
+msgstr "Grog et les petits elves veulent débarquer..."
 
 #. [message]: speaker=naga1
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:405
+#, fuzzy
 msgid "Soundss the alarmssses."
-msgstr ""
+msgstr "Ssonnez l'alarme."
 
 #. [message]: speaker=Esanoo
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:411
+#, fuzzy
 msgid ""
 "Grog, Nagas only understand diplomacy when it is accompanied by the point of "
 "a spear."
 msgstr ""
+"Grog, les nagas ne comprennent la diplomacie que lorsqu'elle est accompagnée "
+"de la pointe d'une lance."
 
 #. [message]: speaker=Esanoo
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:429
+#, fuzzy
 msgid ""
 "This ship has a large draught. We will not be able to sail it into the "
 "shallows."
 msgstr ""
+"Ce bateau a un fort tirant d'eau. Nous ne pourrons pas naviguer dans les "
+"eaux peu profondes."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:434
+#, fuzzy
 msgid ""
 "The ship is consigned to deep water. To land your troops bring it to the "
 "edge of the shallows and your troops will be disembarked automatically. "
 "Alternatively land your troops near the piers to the south-east."
 msgstr ""
+"Le bateau est consigné aux hauts-fonds. Pour débarquer vos troupes amenez-le "
+"aussi près que possible des eaux peu profondes ; elles débarqueront "
+"automatiquement. En guise d'alternative vous pouvez aussi débarquer vos "
+"troupes au niveau des pontons au sud-est."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:485
+#, fuzzy
 msgid "Hsss! Thissss issss Naga sseeaaasss. Keep outssss."
-msgstr ""
+msgstr "Hsss ! Cce ssont les eaux des Nagas. Partez."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:566
+#, fuzzy
 msgid ""
 "A living legend of the trek to defeat Yechnagoth at Zocthanol Isle, Grog has "
 "traveled so much of the known and unknown world he is now able to 'inspire' "
 "other units to fight better in combat."
 msgstr ""
+"Devenu une légende vivante suite à l'épopée ayant mené Yechnagoth à sa perte "
+"à l'île Zocthanotl, Grog a tellement voyagé qu'il est à présent capable "
+"« d'inspirer » les autres unités en combat, améliorant leur combattivité."
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:672
+#, fuzzy
 msgid ""
 "Mrrrmm! Gurgle! Splorch! Glargle! Shholpoupl! Shhlop! Shhlorp! Shhlorp-Gup!"
 msgstr ""
+"Mmmmm! Gloups! Splorch! Glarps! Shholpoupl! Shhlop! Shhlorp! Shhlorp-Glup!"
 
 #. [message]: role=elf1
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:679
+#, fuzzy
 msgid "What, in the name of Eloh, is that?"
-msgstr ""
+msgstr "Au nom d'Eloh, qu'est-ce que c'est que ça ?"
 
 #. [message]: role=elf2
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:686
+#, fuzzy
 msgid "Lumps of animated mud? Whatever they are, strike them down!"
 msgstr ""
+"Des morceaux informes de boue animée ? Quoi qu'ils soient, détruisez-les !"
 
 #. [message]: role=elf1
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:712
+#, fuzzy
 msgid "Scorpions! Does any desert not have them?"
-msgstr ""
+msgstr "Des scorpions ! Existe-t-il un seul désert n'en ayant pas ?"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:748
+#, fuzzy
 msgid "Grog says mudpies gone. Let's go."
-msgstr ""
+msgstr "Grog dit boules de boues parties. Allons-y."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:754
+#, fuzzy
 msgid "Phew, They are finally exterminated."
-msgstr ""
+msgstr "Pfiou, on les a enfin exterminés."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:759
+#, fuzzy
 msgid "Let's go."
-msgstr ""
+msgstr "Allons-y."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:780
+#, fuzzy
 msgid "Grog says mudpie dropped ring. Someone want ring?"
-msgstr ""
+msgstr "Grog dit boules de boue fait tomber anneau. Quelqu'un veut anneau ?"
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:786
+#, fuzzy
 msgid ""
 "Ahh, what's this? It looks like a ring. Must be whatever that creature last "
 "had for dinner was wearing it. Someone might want to check it out."
 msgstr ""
+"Tiens, qu'est-ce que c'est ? Ça ressemble à un anneau. Ce doit être ce que "
+"portait l'infortuné qui a servi de dernier repas à cette créature. Quelqu'un "
+"veut voir de quoi il s'agit exactement ?"
 
 #. [message]: speaker=human
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:893
+#, fuzzy
 msgid ""
 "Get out of here you brigands! We told you we'd stick it to you if you ever "
 "came back."
 msgstr ""
+"Dégagez, bande de brigands ! on vous avez prévenu que si vous reveniez, on "
+"s'occuperait de vous."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:904
+#, fuzzy
 msgid "Grog and little Elves no brigands, Grog only passing here."
-msgstr ""
+msgstr "Grog et petits elfes pas brigands ; Grog seulement passer ici."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:910
+#, fuzzy
 msgid "We are no brigands, we are travelers and are just passing through."
 msgstr ""
+"Nous ne sommes pas des brigands, nous sommes de simples voyageurs passant "
+"par ce territoire."
 
 #. [message]: speaker=human
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:918
+#, fuzzy
 msgid ""
 "Pah... Elves! Just as bad as those brigands; pillage and burn! We'll see you "
 "off."
 msgstr ""
+"Pouah, Des elfes ! Créatures aussi mauvaises que ces brigands, tout juste "
+"bon à piller et brûler ! Nous saurons nous défendre."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:955
+#, fuzzy
 msgid "Grog smash stupid Humans."
-msgstr ""
+msgstr "Grog pulvériser humains stupides."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:961
+#, fuzzy
 msgid "Praise Eloh, I thought we were dead for sure."
-msgstr ""
+msgstr "Loué soi Eloh, je croyais que nous étions condamnés."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:966
+#, fuzzy
 msgid "We go now."
-msgstr ""
+msgstr "Nous aller maintenant."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1008
+#, fuzzy
 msgid "Grog find bottle. What in it?"
-msgstr ""
+msgstr "Grod trouvé bouteille. Quoi dedans ?"
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1014
+#, fuzzy
 msgid "What a strange bottle. I wonder what's inside?"
-msgstr ""
+msgstr "Quelle bouteille étrange. Je me demande ce qu'il y a à l'intérieur."
 
 #. [floating_text]
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1041
+#, fuzzy
 msgid "<span foreground='white'>*slop*</span>"
-msgstr ""
+msgstr "<span foreground='white'>*slop*</span>"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1053
+#, fuzzy
 msgid "Grog break it to see."
-msgstr ""
+msgstr "Grog la casse pour voir."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1061
+#, fuzzy
 msgid "Ooops... I dropped it..."
-msgstr ""
+msgstr "Ouuups... Je l'ai lâchée..."
 
 #. [unit]: type=Giant Mudcrawler TSoG, id=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1070
 #: The_Sojournings_of_Grog/scenarios/hack_start.cfg:117
+#, fuzzy
 msgid "Bubble"
-msgstr ""
+msgstr "Blups"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1090
+#, fuzzy
 msgid "Grog see mudpie. Hello mudpie."
-msgstr ""
+msgstr "Grog voit boule de boue... Bonjour Boule de boue."
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1095
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1111
+#, fuzzy
 msgid "Splorch!"
-msgstr ""
+msgstr "Splouch"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1100
+#, fuzzy
 msgid "Grog ask mudpie to be Grog's friend?"
-msgstr ""
+msgstr "Grog demande à boule de boue d'être l'ami de Grog ?"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1106
+#, fuzzy
 msgid "Oh... Ugh... A magical pile of sludge... lovely..."
-msgstr ""
+msgstr "Oh... Uh... Un tas de bourbe magique... Charmant..."
 
 #. [message]: speaker=Arcamenel
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1121
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1127
+#, fuzzy
 msgid "We should take it with us, the sun might dry it up!"
-msgstr ""
+msgstr "On devrait le prendre avec nous, le soleil le séchera peut-être !"
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1136
+#, fuzzy
 msgid "Mrrrmm! Gurgle!"
-msgstr ""
+msgstr "Mrrrr ! Gloups !"
 
 #. [message]: speaker=Grog
 #. [message]: speaker=ship
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1161
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1174
+#, fuzzy
 msgid "Temple look bad to Grog..."
-msgstr ""
+msgstr "Grog se méfier du temple, semble pas bon endroit..."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1181
+#, fuzzy
 msgid "That temple is cursed, they say evil things dwell inside..."
 msgstr ""
+"Ce temple est maudit, la rumeur veut que des choses démoniaques le hantent..."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1258
+#, fuzzy
 msgid "Ugh! Grog see rotting dead snakes."
-msgstr ""
+msgstr "Uh ! Grog voit serpents morts pourrissants."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1264
+#, fuzzy
 msgid "Ugh! They have spread to the outlying swamps; foul rotting Nagas!"
 msgstr ""
+"Uh ! Ils ont même investis les marais isolés ; répugnants Nagas "
+"pourrissants !"
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1286
+#, fuzzy
 msgid "This temple was looted by nagas long ago."
-msgstr ""
+msgstr "Ce temple a été pillé par les Nagas il y a fort longtemps."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1294
+#, fuzzy
 msgid ""
 "This temple was looted by nagas long ago. This hasn't stopped a colony of "
 "bats taking up residence here though."
 msgstr ""
+"Ce temple a été pillé par les Nagas il y a fort longtemps. Ça n'a cependant "
+"pas empêché une colonie de chauves-souris de s'y installer."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1333
+#, fuzzy
 msgid ""
 "Dumped in the freezing water Grog and the elves had no chance of survival. "
 "Their mission had failed."
 msgstr ""
+"Rejetés dans les eaux profondes et glacées, Grog et les elfes n'avaient "
+"aucune chance de survie. Leur mission avait failli."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1356
+#, fuzzy
 msgid "Grog smash stinky snake."
-msgstr ""
+msgstr "Grog crabouille serpent puant."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1368
+#, fuzzy
 msgid "That will teach you to challenge the might of the Mermen!"
-msgstr ""
+msgstr "Ça vous apprendra à défier la puissance des ondins !"
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1380
+#, fuzzy
 msgid "Taste cold steel you filthy sea snake!"
-msgstr ""
+msgstr "Goûte à ma froide lame, espèce de serpent de mer dégoûtant !"
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1410
+#, fuzzy
 msgid "Grog says we found gold that was in the temple."
-msgstr ""
+msgstr "Grog dit on a trouvé or dans temple."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1416
+#, fuzzy
 msgid "Looks like we found out what happened to the gold in the temple anyway."
 msgstr ""
+"Il semblerait de toute façon qu'on ait trouvé ce qui est advenu de l'or du "
+"temple."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1435
+#, fuzzy
 msgid "Grog home this way."
-msgstr ""
+msgstr "Maison de Grog par là."
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1440
+#, fuzzy
 msgid "This is where we part ways Grog. I hope we meet again soon. Good luck!"
 msgstr ""
+"C'est ici que nos chemins se séparent, Grog. J'espère que nous nous "
+"reverrons bientôt. Bonne chance !"
 
 #: The_Sojournings_of_Grog/scenarios/A0-Those_Sand_Strewn_Beaches.cfg:1491
+#, fuzzy
 msgid "Farewell Grog, I go to the sea god."
-msgstr ""
+msgstr "Adieu, Grog, je vais au dieu de la mer."
 
 #. [scenario]: id=A1
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:13
+#, fuzzy
 msgid "The Long Way Home"
-msgstr ""
+msgstr "Le Long Chemin de Retour"
 
 #. [part]
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:42
+#, fuzzy
 msgid ""
 "Grog led the Elves south across the harsh desert, they moved as hastily as "
 "possible between the sparse oases. Very few people ventured this far into "
@@ -778,23 +967,33 @@ msgid ""
 "next watering hole - they would have to fight their way to it. But their "
 "spirits rose as they knew they must now be nearing the edge of the desert."
 msgstr ""
+"Grog mena les elfes vers le sud à travers le désert inhospitalier, avançant "
+"aussi rapidement que possible entre les rares oasis. Très peu de gens "
+"s'aventuraient si loin dans le désert et ils ne virent que quelques "
+"créatures en six jours et six nuits. Droit devant les yeux perçants des "
+"elfes avaient repéré un campement khalifa gardant le prochain point d'eau - "
+"ils devraient se battre pour l'atteindre. Leur moral s'améliorait "
+"cependant : ils savaient qu'ils approchaient de la fin du désert."
 
 #. [side]: type=Rasikh # Highwayman, type=Mudafi # Bandit, id=al_basil #bill
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:73
+#, fuzzy
 msgid "Al'Basil"
-msgstr ""
+msgstr "Al'Basil"
 
 #. [side]: type=Rasikh # Highwayman, type=Mudafi # Bandit, id=al_basil #bill
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:90
+#, fuzzy
 msgid "Plunderers"
-msgstr ""
+msgstr "Pillards"
 
 #. [side]
 #. [unit_type]: id=Cactose, race=wose
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:171
 #: The_Sojournings_of_Grog/units/Cactose.cfg:5
+#, fuzzy
 msgid "Cactose"
-msgstr ""
+msgstr "Cactus"
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:200
@@ -802,114 +1001,161 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:707
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:931
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:957
+#, fuzzy
 msgid "Grog must reach the signpost at the bottom of the pass"
-msgstr ""
+msgstr "Grog doit atteindre le panneau indicateur en bas de la passe"
 
 #. [set_menu_item]: id=summon
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:223
+#, fuzzy
 msgid "Summon Dust Devil"
-msgstr ""
+msgstr "Invoquer un Diable de Poussière"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:400
+#, fuzzy
 msgid "Grog see Human. That Human look like Grog's mage friend."
-msgstr ""
+msgstr "Grog voit humain. Cet humain ressemble mage ami de Grog."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:406
+#, fuzzy
 msgid "Hey! Who is that? She looks familiar... wait... is that you Elyssa?"
 msgstr ""
+"Hé ! Qui est-ce ? Il me semble la connaître... attendez... Est-ce vous, "
+"Elyssa ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:412
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1057
+#, fuzzy
 msgid ""
 "Indeed, I am. I have spent many days awaiting you after I heard of your "
 "arrival in the desert; I had hoped you were the friends I once traveled "
 "with. <i>A fierce Troll with Elvish escort,</i> they said. However, I am the "
 "bearer of terrible news..."
 msgstr ""
+"C'est bien moi, en effet. Je vous ai attendu durant de longues journées "
+"après avoir appris que vous arriviez par le désert ; j'avais espéré que vous "
+"étiez bien les amis avec qui j'avais voyagé par le passé. <i>Un troll féroce "
+"avec une escorte elfe</i>, qu'ils ont dit. Cependant, je suis porteuse de "
+"terribles nouvelles..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:416
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1061
+#, fuzzy
 msgid "Grog ask what wrong? Mage need Grog?"
-msgstr ""
+msgstr "Grog demande qu'est-ce que ne va pas ? Mage a besoin de Grog ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:420
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1065
+#, fuzzy
 msgid ""
 "Yes I do need you, and if you are traveling home then you shall need me "
 "also. As you know, I stayed with your people to learn the secrets of your "
 "magic and impart some of my own wisdom. For years we were untroubled by the "
 "Dwarves, alas..."
 msgstr ""
+"Oui j'ai besoin de vous et si vous êtes en train de retourner chez vous "
+"alors vous aurez certainement besoin de moi aussi. Ainsi que vous le savez, "
+"je suis restée avec votre peuple pour apprendre les secrets de votre magie "
+"et transmettre une partie de ma propre sagesse. Pendant des années nous ne "
+"furent pas dérangés par les nains ; hélas..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:424
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1069
+#, fuzzy
 msgid "Nasty Dwarves!"
-msgstr ""
+msgstr "Méchants nains !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:428
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1073
+#, fuzzy
 msgid ""
 "Quite... finally the Dwarves grew tired of the peace and their blood lust "
 "won out, they attacked without warning and stormed the village, burning and "
 "pillaging. They killed..."
 msgstr ""
+"Certes... Finalement les nains se sont fatigués de la paix et leur folie "
+"sanglante a pris le dessus ; ils nous ont attaqué sans avertissement et ont "
+"fondu sur les villages, les brûlant et les pillant tous. Ils ont tué..."
 
 #. [message]: speaker=boss1
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:491
+#, fuzzy
 msgid "This watering hole is not open to travelers, prepare to die!"
 msgstr ""
+"Ce point d'eau n'est pas ouvert aux voyageurs, préparez-vous à mourir !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:496
+#, fuzzy
 msgid ""
 "Perhaps I should open it then. Let us pass or I shall fry you, plunderer!"
 msgstr ""
+"Je devrais peut-être l'ouvrir, dans ce cas. Laissez-nous passer ou je vous "
+"carboniserai, pillards !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:501
+#, fuzzy
 msgid ""
 "Damn these desert plunderers, I shall finish my tale once they are dead."
 msgstr ""
+"damnés pillards du désert, je finirai mon récit une fois qu'ils seront morts."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:515
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>Luckily I managed to <u>borrow</u> some "
 "scrolls from them. I reckon I ought to use... this one...</span>"
 msgstr ""
+"<span size='small' style='italic'>Heureusement, j'ai réussi à leur "
+"<u>emprunter</u> quelques parchemins. Je pense que je devrais utiliser... "
+"Celui là...</span>"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:540
+#, fuzzy
 msgid "Such a wonderful conjuration, a pity it will only last a few days."
 msgstr ""
+"Quelle belle invocation, il est fort dommage que ça ne dure que quelques "
+"jours..."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:545
+#, fuzzy
 msgid ""
 "For the course of this campaign Elyssa can upgrade as Arch Mage or Silver "
 "Mage. If you choose to advance her as Arch Mage, she can upgrade to a Great "
 "Mage, if you choose to advance her as Silver Mage, she can upgrade to a Gold "
 "Mage."
 msgstr ""
+"Durant cette campagne Elyssa peut évoluer en Archimage ou en Mage d'Argent. "
+"Si vous choisissez l'Archimage, elle pourra ensuite évoluer en Grand Mage. "
+"Si vous choisissez le Mage d'Argent, elle pourra évoluer en Mage d'Or."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:550
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1120
+#, fuzzy
 msgid ""
 "Elyssa has also the ability to change the terrain where her enemies stood "
 "when killing them. To find out what happens, just try frying enemies with "
 "her fireballs."
 msgstr ""
+"Elyssa a aussi la capacité de changer le terrain sur lesquels les ennemis se "
+"trouvent lorsqu'elle les tue. Pour voir ce qui se passe, essayez de "
+"carboniser ses ennemis avec ses boules de feu."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:556
+#, fuzzy
 msgid ""
 "Finally, for this scenario only, Elyssa can summon Dust Devils, but only one "
 "per turn, on an empty hex near her, and only if there are less than three on "
@@ -917,12 +1163,19 @@ msgid ""
 "the Dust Devils will be available in next scenarios, so they're perfectly "
 "expendable."
 msgstr ""
+"Finalement, uniquement pour ce scénario, Elyssa peut invoquer des Diables de "
+"Poussière mais seulement un à chaque tour, sur un hexagone vide à côté "
+"d'elle, et seulement s'il y en a moins de trois sur le champ de bataille. "
+"Pour invoquer un Diable de Poussière, utilisez le menu à l'aide du click de "
+"droite. Aucun des Diables de Poussière ne seront disponibles pour les "
+"scénarios suivants, ils sont donc parfaitement sacrifiables."
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:563
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:703
+#, fuzzy
 msgid "Defeat the plunderers' leader and"
-msgstr ""
+msgstr "Vaincre le chef des pillards et"
 
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:575
@@ -959,31 +1212,40 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:101
 #: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:141
 #: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:181
+#, fuzzy
 msgid "Death of Elyssa"
-msgstr ""
+msgstr "Mort d'Elyssa"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:615
+#, fuzzy
 msgid "Mage said Dwarves killed. What they killed?"
-msgstr ""
+msgstr "Mage a dit nain ont tué. Qu'est ce qu'ils ont tué ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:619
+#, fuzzy
 msgid ""
 "The battles were terrible, great waves of Dwarves streamed into the tunnels "
 "and swarmed about us. The Trolls fought valiantly, taking out whole platoons "
 "of Dwarves with a single blow. But alas, there were too many."
 msgstr ""
+"Les batailles furent terribles, les nains ont envahi les tunnels par vagues "
+"immenses et nous ont submergés. Les trolls se sont battus avec vaillance, "
+"éliminant des escouades naines entières à chaque coup de massue. Hélas, ils "
+"étaient trop nombreux."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:623
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1085
+#, fuzzy
 msgid "Trolls... defeated?"
-msgstr ""
+msgstr "Les trolls... Vaincus ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:629
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1090
+#, fuzzy
 msgid ""
 "Many were slain, but so were hundred of Dwarves. The battle raged for days "
 "until finally we were barely holding the village and the Great Chief entered "
@@ -991,209 +1253,286 @@ msgid ""
 "lines, scattering them. But, alas, an elite platoon of Dragonguards stood "
 "their ground, it took many hundreds of shots but finally he fell..."
 msgstr ""
+"Beaucoup furent massacrés, tout comme des centaines de nains. La bataille "
+"fit rage pendant plusieurs jours, jusqu'à ce que nous ne puissions plus "
+"protéger nos villages qu'à grand peine, et le Grand Chef entra dans la "
+"bagarre. Il était terrifiant à voir et il plongea à travers les lignes "
+"naines, les dispersant à grands coups de masse. Mais hélas un escadron "
+"d'élite de gardes dragons maintint sa position ; il leur fallu plusieurs "
+"centaines de tirs mais finalement il s'écroula..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:633
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1094
+#, fuzzy
 msgid "Great Chief... dead?"
-msgstr ""
+msgstr "Grand Chef... Mort ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:637
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1098
+#, fuzzy
 msgid "I'm afraid it is so."
-msgstr ""
+msgstr "J'ai en bien peur, oui."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:642
+#, fuzzy
 msgid ""
 "Great Chief be avenged. This <b>Rrrobblnuth.</b> Grog squash all Dwarves."
 msgstr ""
+"Grand Chef sera vengé. Ce <b>Rrrobblnuth.</b> Grog crabouille tous les nains."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:646
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1106
+#, fuzzy
 msgid ""
 "I would gladly accompany you back, for vengeance. I can help you locate the "
 "survivors."
 msgstr ""
+"Je m'associerai avec joie à votre vengeance. Je peux vous aider à retrouver "
+"les survivants."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:668
+#, fuzzy
 msgid "Grog ask what spiky thing?"
-msgstr ""
+msgstr "Grog demande qu'est-ce que la chose piquante ?"
 
 #. [message]: speaker=Bedet
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:673
+#, fuzzy
 msgid ""
 "Those are Cactoses. They live in great colonies in the deepest parts of the "
 "desert, I have never seen one venture so far from their forests before; be "
 "careful."
 msgstr ""
+"Ce sont des cactus. Ils vivent en colonies nombreuses dans les endroits les "
+"plus reculés du désert. Je n'en avais jamais vu s'aventurer si loin de leurs "
+"forêts auparavant ; soyez prudents."
 
 #. [message]: speaker=Bedet
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:697
+#, fuzzy
 msgid "Plunderers ahead, we'll have to clear them out."
-msgstr ""
+msgstr "Pillards droit devant, nous allons devoir nous en débarasser."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:752
+#, fuzzy
 msgid "More humans!"
-msgstr ""
+msgstr "Encore plus d'humains !"
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:758
+#, fuzzy
 msgid "There are more of them to the south!"
-msgstr ""
+msgstr "Il y en a d'autres au sud !"
 
 #. [message]: speaker=al_basil # bill
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:794
+#, fuzzy
 msgid "Death... means nothing... Our cause lives on!"
-msgstr ""
+msgstr "La mort... n'est rien... Notre cause est éternelle !"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:823
+#, fuzzy
 msgid "Grog sees sword."
-msgstr ""
+msgstr "Grog voit épée."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:829
+#, fuzzy
 msgid "Look at his sword, it emanates power. Shall we take it?"
-msgstr ""
+msgstr "Regardez cette épée, elle irradie de pouvoir. Est-ce qu'on la prend ?"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:857
+#, fuzzy
 msgid "A powerful magical force repels everyone away."
-msgstr ""
+msgstr "Une force surnaturelle repousse tout le monde."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:864
+#, fuzzy
 msgid "A powerful magical force repels $second_unit.name away."
-msgstr ""
+msgstr "Une force surnaturelle repousse $second_unit.name."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:873
+#, fuzzy
 msgid "Perhaps my magical ability will be able to master it."
-msgstr ""
+msgstr "Mes pouvoirs magiques pourront peut-être la maitriser."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:881
+#, fuzzy
 msgid "Ohh, this is a powerful sword... I'm going to enjoy this!"
 msgstr ""
+"Ohh, c'est vraiment une épée puissante... Je crois que je vais bien "
+"m'amuser !"
 
 #. [animate_unit]
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:896
+#, fuzzy
 msgid " *swish*"
-msgstr ""
+msgstr "*swish*"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:997
+#, fuzzy
 msgid "Don't forget the humans."
-msgstr ""
+msgstr "N'oublie pas les humains."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1017
+#, fuzzy
 msgid ""
 "This is taking far too long... There are even more bandits coming; surely we "
 "are defeated."
 msgstr ""
+"Cela prend bien trop longtemps... D'autres bandits arrivent, nous sommes "
+"vaincus."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1022
+#, fuzzy
 msgid "Too many humans! Grog is defeated."
-msgstr ""
+msgstr "Trop d'humains ! Grog vaincu."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1048
+#, fuzzy
 msgid "I am glad to find you! I have spent many weeks searching."
 msgstr ""
+"Je suis ravie de vous trouver ! Je vous ai cherché durant de nombreuses "
+"semaines."
 
 #. [message]: role=what
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1053
+#, fuzzy
 msgid "Hey! Who is that? She looks familiar... wait... is that you Elyssa? "
 msgstr ""
+"Hé ! Qui est-ce ? Il me semble que je la connais... Attendez... est-ce vous, "
+"Elyssa ?"
 
 #. [message]: role=what
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1077
+#, fuzzy
 msgid "Who? Who did they kill?"
-msgstr ""
+msgstr "Qui ? Qui ont-ils tué ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1081
+#, fuzzy
 msgid ""
 "Slow down! I am coming to that. The battles were terrible, great waves of "
 "Dwarves streamed into the tunnels and swarmed about us. The Trolls fought "
 "valiantly, taking out whole platoons of Dwarves with a single blow. But "
 "alas, there were too many."
 msgstr ""
+"Une seconde, j'y arrive ! Les batailles furent terribles, les nains ont "
+"envahi les tunnels par vagues immenses et nous ont submergés. Les trolls se "
+"sont battus avec vaillance, éliminant des escouades naines entières à chaque "
+"coup de massue. Hélas, ils étaient trop nombreux."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1102
+#, fuzzy
 msgid "Great Chief be avenged. This Rrrobblnuth. Grog squash all Dwarves."
 msgstr ""
+"Grand Chef sera vengé. Ce <b>Rrrobblnuth.</b> Grog crabouille tous les nains."
 
 #. [message]: role=lucky
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1111
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1148
+#, fuzzy
 msgid ""
 "It was indeed a blessing from Eloh that we met you when we needed it most."
 msgstr ""
+"C'est une véritable bénédiction d'Eloh que nous nous soyons rencontrés au "
+"moment où nous en avions le plus besoin."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1115
+#, fuzzy
 msgid ""
 "For the course of this campaign Elyssa can upgrade as Arch Mage or Silver "
 "Mage. If you choose to advance her as Arch Mage, she can upgrade as Great "
 "Mage. If you choose to advance her as Silver Mage, she can upgrade as Gold "
 "Mage."
 msgstr ""
+"Durant cette campagne Elyssa peut évoluer en Archimage ou en Mage d'Argent. "
+"Si vous choisissez l'Archimage, elle pourra ensuite évoluer en Grand Mage. "
+"Si vous choisissez le Mage d'Argent, elle pourra évoluer en Mage d'Or."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1128
+#, fuzzy
 msgid "Mage, you there when Dwarves attack?"
-msgstr ""
+msgstr "Mage, toi là quand nains ont attaqué ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1132
+#, fuzzy
 msgid ""
 "Yes, I was there. I fought as best as I could but they were too many. I was "
 "captured and brought deep into their tunnels; I believe they wanted to "
 "experiment with my fire magic. But, of course, you don't keep a Mage locked "
 "up when she doesn't want to be!"
 msgstr ""
+"Oui, j'étais là. J'ai combattu du mieux que j'ai pu mais ils étaient trop "
+"nombreux. J'ai été capturée et emmenée loin dans leurs tunnels ; je suppose "
+"qu'ils souhaitaient faire des expériences avec ma magie du feu. Mais bien "
+"entendu, personne ne garde un mage prisonnier lorsqu'elle ne le veut pas !"
 
 #. [message]: role=lucky
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1136
+#, fuzzy
 msgid "You escaped?"
-msgstr ""
+msgstr "Toi enfuie ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1140
+#, fuzzy
 msgid ""
 "Oh yes, I fried a few Dwarves on my way out too! I then thought I would seek "
 "out the company of the Elves I had traveled with years before. Now, what of "
 "you Grog?"
 msgstr ""
+"Oh oui, j'ai même carbonisé quelques nains lors de ma fuite ! J'ai ensuite "
+"réalisé que la meilleure option serait d'essayer de retrouver les elfes avec "
+"qui j'avais voyagé des années auparavant. Et toi, Grog, raconte-moi ?"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A1-Long_Way_Home.cfg:1144
+#, fuzzy
 msgid ""
 "Grog go home. Grog know Trolls need help, then Mage say bad things. Grog go "
 "home and help."
 msgstr ""
+"Grog rentre maison. Grog sait que trolls besoin d'aide. Grog rentre maison "
+"et aide."
 
 #. [scenario]: id=A2-1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:44
+#, fuzzy
 msgid "The Homecoming"
-msgstr ""
+msgstr "Le Retour au Foyer"
 
 #. [part]
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:68
+#, fuzzy
 msgid ""
 "The party, now joined by Elyssa soon left the bandits behind them and began "
 "the long, slow climb up into the mountains that bordered Grog's home. Elyssa "
 "led them to a little used entrance to the caves high up in the mountains."
 msgstr ""
+"Le groupe, à présent rejoint par Elyssa, laissa rapidement les bandits "
+"derrière eux et débuta la lente et longue ascension des montagnes bordant la "
+"patrie de Grog. Elyssa les mena à une petite entrée peu usitée des cavernes."
 
 #. [side]
 #. [side]: type=Dwarvish Lord, id=dwarfboss
@@ -1209,281 +1548,376 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B1-South_Gate.cfg:174
 #: The_Sojournings_of_Grog/scenarios/B1-South_Gate.cfg:195
 #: The_Sojournings_of_Grog/scenarios/B2-North_Gate.cfg:234
+#, fuzzy
 msgid "Dwarves"
-msgstr ""
+msgstr "Nains"
 
 #. [side]: type=Dread Bat, id=batboss
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:156
+#, fuzzy
 msgid "Bats"
-msgstr ""
+msgstr "Chauves-Souris"
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:321
+#, fuzzy
 msgid "Find Grog's home."
-msgstr ""
+msgstr "Trouver le foyer de Grog."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:402
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>We must be quiet here; we don't want to "
 "alert the guards until we have to.</span>"
 msgstr ""
+"<span size='small' style='italic'>Soyons aussi discrets que possibles ; "
+"inutile d'alerter les gardes avant que nous n'y soyons obligés.</span>"
 
 #. [message]: speaker=guard1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:407
+#, fuzzy
 msgid ""
 "Hah! Ever since that ruddy mage escaped we've been on triple guard, in all "
 "weathers! Not a drop of ale to drink either - How can a Dwarf do his duty "
 "without ale?"
 msgstr ""
+"Hah ! Depuis que ce sacré mage s'est échappé on fait des triples gardes, et "
+"ce par tous les temps ! Pas une goutte de bière à boire par ailleurs - "
+"comment un nain peut-il faire son devoir sans bière ?"
 
 #. [message]: speaker=guard2
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:412
+#, fuzzy
 msgid ""
 "Aye! Say, how 'bout we go grab ourselves a quick flagon? The lads here can "
 "keep an eye on things."
 msgstr ""
+"Vrai ! Dis-donc, et si on allait s'récupérer une flasque ? Les gars ici sont "
+"bien assez nombreux pour surveiller les cailloux."
 
 #. [message]: speaker=guard1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:418
+#, fuzzy
 msgid ""
 "Aye, let the new lads guard us from the un-told horrors. Oi, you, keep a "
 "good eye on that... uh... dangerous looking tree. Hah!"
 msgstr ""
+"Ouep, laissons les bleus nous protéger des horreurs indicibles.... Hé, vous, "
+"gardez un oeil sur cet arbre... heu... d'aspect menaçant. Hah !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:434
+#, fuzzy
 msgid ""
 "Heh, excellent, you can always rely on a Dwarves' need for ale! Let's get "
 "inside before they return."
 msgstr ""
+"Héhé, excellent, on peut toujours compter sur les nains et satanée bière ! "
+"Entrons avant qu'ils ne reviennent !"
 
 #. [message]: speaker=guard1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:516
+#, fuzzy
 msgid "That was a nice cup o' ale."
 msgstr ""
+"Haaa rien d'tel qu'une bonne pinte de bière pour s'rafraichir l'gosier !"
 
 #. [message]: role=lad
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:521
+#, fuzzy
 msgid "Oh, sir, finally you're back. We were attacked. It was that mage again!"
 msgstr ""
+"Ah, monsieur, enfin vous êtes de retour. Nous avons été attaqué. C'était "
+"encore ce mage !"
 
 #. [message]: speaker=guard1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:527
+#, fuzzy
 msgid "Where? I'll get them. Sound the alarm... <i>Hic</i>."
-msgstr ""
+msgstr "Où ça ? Je les aurai ! Sonnez l'alarme... <i>Hic</i>."
 
 #. [message]: speaker=guard1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:538
+#, fuzzy
 msgid "Now I wonder where the lads got to."
-msgstr ""
+msgstr "Hé bien, où sont partis les bleus ?"
 
 #. [message]: speaker=guard2
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:543
+#, fuzzy
 msgid ""
 "Sure is strange. Not like there's anything around here to see anyway. Oh "
 "well, they'll turn up."
 msgstr ""
+"C'est étrange... M'enfin, c'est pas comme si il y avait des trucs à voir "
+"dans l'coin. Bah, ils finiront bien par revenir."
 
 #. [message]: speaker=guard1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:567
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:606
+#, fuzzy
 msgid "Hey, wait! Intruders! Sound the alarm... <i>Hic</i>."
-msgstr ""
+msgstr "Hé, attention ! Des intrus ! Sonnez l'alarme... <i>Hic</i>."
 
 #. [message]: speaker=dwarfboss1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:636
+#, fuzzy
 msgid "Intruders! Where are those guards gone? Sound the alarm!"
-msgstr ""
+msgstr "Des intrus ! Où sont les gardes ? Sonnez l'alarme !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:642
+#, fuzzy
 msgid "Sounds like we've been discovered."
-msgstr ""
+msgstr "Il semblerait qu'on ait été découverts."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:725
+#, fuzzy
 msgid ""
 "We must choose our route carefully here, we can't stay on the main road as "
 "it collapsed during the war; we can go north or south."
 msgstr ""
+"Nous devons choisir le chemin que nos allons prendre, nous ne pouvons en "
+"effet pas rester sur la route principale car elle s'est effrondrée durant la "
+"guerre. Nous pouvons aller au nord ou au sud."
 
 #. [message]: role=gosouth
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:733
+#, fuzzy
 msgid ""
 "It looks as if the Dwarves have built a guard-post to the north; the "
 "southern route looks mostly empty."
 msgstr ""
+"Il semblerait que les nains ont construit un avant-poste au nord ; au sud la "
+"route semble dégagée."
 
 #. [message]: role=killlads
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:753
+#, fuzzy
 msgid ""
 "We had better kill the remaining guards though, we don't want to leave any "
 "witnesses behind us."
 msgstr ""
+"Nous devrions cependant tuer les gardes restants, nous ne devons pas laisser "
+"de témoins derrière nous."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:761
+#, fuzzy
 msgid ""
 "Yes, the main Dwarfish settlement is up to the north, that's where they held "
 "me. I don't know if they're now holding other prisoners, though."
 msgstr ""
+"Oui, le campement principal des nains est au nord, c'est là qu'ils m'ont "
+"retenue prisonnière. Cela dit je ne sais pas s'ils retiennent d'autres "
+"prisonnieres actuellement."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:777
+#, fuzzy
 msgid ""
 "This garrison was under strength, I expected every entrance to be nigh "
 "impregnable; where are all the Dwarves? This makes me very uneasy."
 msgstr ""
+"Cette garnison était en sous-effectif, je m'attendais à ce que chaque entrée "
+"soit partiquement imprenable. Où sont les nains ? Cela me rend mal à "
+"l'aise..."
 
 #. [message]: speaker=patrol1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:891
+#, fuzzy
 msgid ""
 "Hrumph! You ask me why I'm so angry about patrolling the south tunnel all "
 "the time? I'll tell you why! Because it's dammed well empty all the time!"
 msgstr ""
+"Pff ! Tu me demandes pourquoi ça m'énerve tellement de tout le temps "
+"patrouiller dans le tunnel sud ? Je vais te dire pourquoi ! Parce qu'il est "
+"tout le temps vide !"
 
 #. [message]: speaker=patrol2
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:896
+#, fuzzy
 msgid "Captain... It doesn't look so empty this time."
-msgstr ""
+msgstr "Capitaine... Il ne semble pas si vide ce coup-ci..."
 
 #. [message]: speaker=patrol1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:901
+#, fuzzy
 msgid "What are you talking ab... Ohhh... Hey! You! Stop right there!"
-msgstr ""
+msgstr "Mais de quoi parles-t...  Ohhh... Hé, vous ! Pas un pas de plus !"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:906
+#, fuzzy
 msgid "Squash Dwarves. They tell friends, Grog squash all Dwarves."
-msgstr ""
+msgstr "Ecrabouiller nains. FIXME, Grog crabouille tous les nains."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:944
+#, fuzzy
 msgid "Sound the alarm!"
-msgstr ""
+msgstr "Sonnez l'alarme !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:953
+#, fuzzy
 msgid ""
 "Bother, they alerted the others. Oh well there's a bridge up ahead. We may "
 "be able to hold them there."
 msgstr ""
+"Mince, ils ont alerté les autres. Hé, il y a un pont juste devant ! On "
+"devrait pouvoir faire front là-bas."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:990
+#, fuzzy
 msgid "I wonder what war their leader was referring to..."
-msgstr ""
+msgstr "Je me demande de quelle guerre leur chef parlait..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1026
+#, fuzzy
 msgid "Grog see Dwarf magic stones. Dem dangerous."
-msgstr ""
+msgstr "Grog voit pierre naines magiques. Elles dangereuses."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1031
+#, fuzzy
 msgid ""
 "Dwarves use runes for many things, but these look like defensive ones - they "
 "will likely collapse the bridge if we stand on them."
 msgstr ""
+"Les nains utilisent les runes pour de nombreuses choses, mais celles-ci "
+"semblent défensives. Il semble probable qu'en se plaçant dessus, elles "
+"feront s'écrouler le pont."
 
 #. [message]: role=wait
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1038
+#, fuzzy
 msgid ""
 "Then we can cut off any potential pursuers; make sure we are all across "
 "first!"
 msgstr ""
+"Ce qui nous permettrait de couper court à toute poursuite ; faisons "
+"simplement en sorte de tous être passés d'abord !"
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1080
+#, fuzzy
 msgid "Blaaarb..."
-msgstr ""
+msgstr "Blaaaaah..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1092
+#, fuzzy
 msgid "Grog still see bridge. Bad Dwarf magic."
-msgstr ""
+msgstr "Grog voit toujours pont. Magie naine nulle."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1104
+#, fuzzy
 msgid "Hah! Trusty Dwarf magic..."
-msgstr ""
+msgstr "Ha ! Fidèle magie naine..."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1110
+#, fuzzy
 msgid "The runes appear to be broken."
-msgstr ""
+msgstr "Les runes semblent cassées."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1128
+#, fuzzy
 msgid "Runes not work normally. Dwarf magic bad."
-msgstr ""
+msgstr "Les runes marchent pas normalement. Magie naine nulle."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1136
+#, fuzzy
 msgid "Nevermind. I'll just have to do it myself."
-msgstr ""
+msgstr "Tant pis. Il semblerait que je vais devoir m'en occuper moi-même."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1187
+#, fuzzy
 msgid "Onwards!"
-msgstr ""
+msgstr "En avant !"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1215
+#, fuzzy
 msgid "It's a path stop..."
-msgstr ""
+msgstr "C'est un cul-de-sac..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1254
+#, fuzzy
 msgid "Grog thinks that this tunnel was blocked by dwarvish midgets."
-msgstr ""
+msgstr "Grog pense ce tunnel a été bloqué par pygmés nains."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1261
+#, fuzzy
 msgid "Ahh... The tunnel continues but the passage has been blocked..."
-msgstr ""
+msgstr "Ahh... Le tunnel continue mais le passage a été bloqué..."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1268
+#, fuzzy
 msgid "Stand back!"
-msgstr ""
+msgstr "Reculez-vous !"
 
 #. [event]
 #. [unit]: type=White Whelp, id=Krunk
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1353
 #: The_Sojournings_of_Grog/scenarios/hack_start.cfg:54
+#, fuzzy
 msgid "Krunk"
-msgstr ""
+msgstr "Krunk"
 
 #. [message]: speaker=Krunk
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1365
+#, fuzzy
 msgid "Krunk say thank you. Little cage too small for Krunk."
-msgstr ""
+msgstr "Krunk dit merci. Petite cage trop petite pour Krunk."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1370
+#, fuzzy
 msgid ""
 "Unbelievable! You are a White Troll? I have heard tales of your kind but I "
 "thought it was a myth, but now, here... in front of my own eyes..."
 msgstr ""
+"Incroyable ! Vous êtes un troll blanc ? J'ai entendu des histoires sur votre "
+"peuple mais je pensais que c'était un mythe... Mais à présent, en voir de "
+"mes propres yeux..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1374
+#, fuzzy
 msgid ""
 "Grog not seen White Troll before. White Troll are secret, dey live away from "
 "other Trolls."
 msgstr ""
+"Grog jamais vu troll blanc avant. Troll blancs secrets, vivent loin des "
+"autres trolls."
 
 #. [message]: speaker=Krunk
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1378
+#, fuzzy
 msgid ""
 "White Trolls take long time to learn magic. White Troll go away then come "
 "back with power. Dwarves find me and into little cage. Dwarves need to die!"
 msgstr ""
+"Trolls blancs prennent longtemps pour apprendre magie. Troll blanc parti "
+"loin mais revient avec pouvoir. Nains me trouvent et ensuite petite cage. "
+"Nains doivent mourir !"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1384
+#, fuzzy
 msgid ""
 "White Trolls are extremely rare albino Trolls with a peculiar magic talent. "
 "They have an innate capability to create magic constructs of mud and soil "
@@ -1492,204 +1926,264 @@ msgid ""
 "have an AMLA system. Being so rare, this is your only White Troll for the "
 "whole campaign. Make good use of him!"
 msgstr ""
+"Les trolls blancs sont des trolls albinos particulièrement rares disposant "
+"d'un étrange pouvoir magique. Ils ont la capacité innée de créer des boules "
+"de terre et de boue et de les envoyer sur leurs ennemis. Cependant leurs "
+"pouvoirs ne sont pas aussi puissants que ceux de créatures plus "
+"intelligentes. Ils n'ont en outre pas un système de progression classique, "
+"mais utilisent un système AMLA à la place. Étant si rares, ce sera votre "
+"unique troll blanc pour l'ensemble de la campagne. Faites-en bon usage !"
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1425
+#, fuzzy
 msgid "Blurgle scurgle!"
-msgstr ""
+msgstr "Blurp Bloug !"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1437
+#, fuzzy
 msgid "Grog dun think this ground is safe."
-msgstr ""
+msgstr "Grog pense pas que cet endroit sûr."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1450
+#, fuzzy
 msgid "Ach! The ground here is very unstable."
-msgstr ""
+msgstr "Aïe ! Le terrain me semble assez instable ici."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1456
+#, fuzzy
 msgid "Oh Eloh! This doesn't seem very safe."
-msgstr ""
+msgstr "Oh Eloh ! Cela ne semble pas très sûr ici..."
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1475
+#, fuzzy
 msgid "Blaaarrt!"
-msgstr ""
+msgstr "Blaaaart !"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1487
+#, fuzzy
 msgid "Grog say go!"
-msgstr ""
+msgstr "Grog dit allons-y !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1500
+#, fuzzy
 msgid "Woah... Everyone get back!"
-msgstr ""
+msgstr "Ouah ! Tout le monde en arrière !"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1506
+#, fuzzy
 msgid "Oh Eloh... Back!"
-msgstr ""
+msgstr "Oh Eloh... En arrière, vite !"
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1542
+#, fuzzy
 msgid "Glorb! Phew!"
-msgstr ""
+msgstr "Glorb ! Ffff !"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1554
+#, fuzzy
 msgid "Grog safe now. That was close!"
-msgstr ""
+msgstr "Grog en sécurité maintenant. Ça a failli !"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1560
+#, fuzzy
 msgid "Phew that was close!"
-msgstr ""
+msgstr "Pfiouuu je l'ai échappé belle !"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1586
+#, fuzzy
 msgid ""
 "In this village you discover a small fortune. It appears that whoever used "
 "to live here wasn't too stuck for this worlds possessions."
 msgstr ""
+"Vous découvrez une petite fortune dans ce village. Il semblerait que "
+"l'ancien habitant n'était pas particulièrement attaché à ses possessions "
+"matérielles."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1630
+#, fuzzy
 msgid "Grog see ants!"
-msgstr ""
+msgstr "Grog voit fourmis !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1642
+#, fuzzy
 msgid "It looks like this tunnel is overrun with giant ants!"
-msgstr ""
+msgstr "Il semblerait que le tunnel est envahi de fourmis géantes !"
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1654
+#, fuzzy
 msgid "Blaart! Scrupple!"
-msgstr ""
+msgstr "Blaaaart ! Blurpps !"
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1660
+#, fuzzy
 msgid "Those ants are the size of scorpions!"
-msgstr ""
+msgstr "Ces fourmis sont aussi grosses que des scorpions !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1671
+#, fuzzy
 msgid ""
 "I suppose there is probably a good reason for so many ants to be here, "
 "though..."
 msgstr ""
+"Je suppose qu'il y a une bonne raison pour que tant de fourmis se trouvent "
+"là..."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1692
+#, fuzzy
 msgid "Ahh, yes... Spiders as big as my head; that will be why!"
-msgstr ""
+msgstr "Ahh oui... Des araignées aussi grosses que ma tête, ce doit être ça !"
 
 #. [message]: role=wherearethedwarves
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1721
+#, fuzzy
 msgid "Where <i>are</i> the Dwarves? These tunnels are deserted!"
-msgstr ""
+msgstr "Où <i>sont</i> les nains? Ces tunnels sont déserts !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1726
+#, fuzzy
 msgid ""
 "I don't think there are enough of them to populate the entire cave anymore, "
 "and if they are indeed in another war... Grog's home is close now though."
 msgstr ""
+"Je suppose qu'ils ne sont plus assez nombreux pour habiter l'ensemble des "
+"cavernes, et s'il y a une autre guerre en cours... Le foyer de Grog n'est "
+"plus très loin à présent."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1763
+#, fuzzy
 msgid "Grog think what in here?"
-msgstr ""
+msgstr "Grog demande qu'est-ce qu'il y a là ?"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1769
+#, fuzzy
 msgid "I suppose there was probably a good reason for blocking it up though..."
 msgstr ""
+"Je suppose qu'il y avait probablement une bonne raison pour bloquer le "
+"passage..."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1800
+#, fuzzy
 msgid "Grog, your home is just ahead."
-msgstr ""
+msgstr "Grog, nous sommes presque arrivés chez toi."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1833
+#, fuzzy
 msgid "Don't go that way. Grog's home is north from here."
-msgstr ""
+msgstr "Pas par là. Le foyer de Grog est au nord."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1881
+#, fuzzy
 msgid "Who goes there?"
-msgstr ""
+msgstr "Qui va là !"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1890
+#, fuzzy
 msgid "Intruders! Alert the others!"
-msgstr ""
+msgstr "Des intrus ! Alertez les autres !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1895
+#, fuzzy
 msgid "Well, it appears that this is your home, Grog."
-msgstr ""
+msgstr "Hé bien, il semblerait que tu es de nouveau chez toi, Grog."
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1901
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2031
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2395
+#, fuzzy
 msgid "Clear Grog's home of enemies by killing all the Dwarves and Bats."
 msgstr ""
+"Débarassez le foyer de Grog de ses ennemis en tuant tous les nains et les "
+"chauves-souris."
 
 #. [unit]: type=Troll, id=Og_the_Clever
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1953
+#, fuzzy
 msgid "Og the Clever"
-msgstr ""
+msgstr "Og le Futé"
 
 #. [message]: speaker=Og_the_Clever
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1964
+#, fuzzy
 msgid "Dun kill me."
-msgstr ""
+msgstr "Pas me tuer."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1969
+#, fuzzy
 msgid "Up Troll. Dun cower like Human!"
-msgstr ""
+msgstr "Debout, troll. Pas trembler comme humain !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1975
+#, fuzzy
 msgid "<u>Excuse me?</u>"
-msgstr ""
+msgstr "<u>Pardon ?</u>"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:1985
+#, fuzzy
 msgid "You can now recruit Trolls."
-msgstr ""
+msgstr "À présent vous pouvez recruter des trolls."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2009
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2378
+#, fuzzy
 msgid "Zurg! I thought you had surely perished during the attack."
-msgstr ""
+msgstr "Zurg ! Je pensais que tu avais péri pendant l'attaque."
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2014
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2383
+#, fuzzy
 msgid "Elyssa! You returned! Is that Grog? Returning after many years..."
 msgstr ""
+"Elyssa ! Tu es revenue ! Est-ce toi, Grog ? Tu reviens après tant d'années..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2019
+#, fuzzy
 msgid "Zurg! Mage! No talk now. Dwarves to smash!"
-msgstr ""
+msgstr "Zurg ! Mage ! Pas parler maintenant. Nains à crabouiller."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2024
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2388
+#, fuzzy
 msgid ""
 "For the course of this campaign <i>Troll Shamans</i> are capable of casting "
 "both fire and cold spells, and can upgrade to <b>Troll Warbanners</b>."
 msgstr ""
+"Durant cette campagne les <i>shamans trolls</i> sont capables de lancer des "
+"sortilèges de feu et de froid, et peuvent évoluer en <b>porteurs de bannière "
+"trolls</b>."
 
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2043
@@ -1724,415 +2218,552 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/B7-Dragonbane.cfg:177
 #: The_Sojournings_of_Grog/scenarios/C1-Shipwreck.cfg:91
 #: The_Sojournings_of_Grog/scenarios/C1-Shipwreck.cfg:271
+#, fuzzy
 msgid "Death of Zurg"
-msgstr ""
+msgstr "Mort de Zurg"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2060
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2072
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2203
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2213
+#, fuzzy
 msgid "Though careful search was made nothing but ashes remained in the ruins."
 msgstr ""
+"Bien qu'une fouille minutieuse ait été menée seules des cendres furent "
+"retrouvées dans ces ruines."
 
 #. [message]: speaker=whelp_1
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2106
+#, fuzzy
 msgid "Troll hide from stinking Dwarves. Now Trolls smash Dwarves."
-msgstr ""
+msgstr "Troll se cache des nains puants. Maintenant trolls puvérisent nains."
 
 #. [message]: speaker=village_dwarf
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2128
+#, fuzzy
 msgid ""
 "Can't a fellow sleep without being disturbed? Especially in this Troll "
 "ridden pit."
 msgstr ""
+"N'est-il pas possible de dormir sans être dérangé - surtout dans ce trou "
+"infesté de trolls ?"
 
 #. [message]: speaker=village_dwarf
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2133
+#, fuzzy
 msgid "Eek, you <b><i>are</i></b> Trolls. Help!"
-msgstr ""
+msgstr "Héééé, vous <b><i>êtes</i></b> des trolls. À l'aide !"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2144
+#, fuzzy
 msgid "You die. Dwarves kill Trolls. Trolls kill Dwarves."
-msgstr ""
+msgstr "Tu es mort. Nains tuent trolls. Trolls tuent nains."
 
 #. [message]: speaker=Elyssa
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2156
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2162
+#, fuzzy
 msgid "Prepare to meet your fate, Dwarf."
-msgstr ""
+msgstr "Prépare-toi à mourir, le nain."
 
 #. [unit]: type=Troll Rocklobber, id=Brub_the_Wise
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2177
+#, fuzzy
 msgid "Brub the Wise"
-msgstr ""
+msgstr "Brub le Sage"
 
 #. [message]: speaker=Brub_the_Wise
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2188
+#, fuzzy
 msgid "Brub join too."
-msgstr ""
+msgstr "Brub vient aussi."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2193
+#, fuzzy
 msgid ""
 "For the course of this campaign <i>Troll Rocklobbers</i> can upgrade to "
 "<b>Troll Boulderlobbers</b>."
 msgstr ""
+"Durant cette campagne les <i>troll lanceurs de pierres</i> peuvent évoluer "
+"en <b>troll lanceurs de rochers</b>."
 
 #. [message]: speaker=troll_shaman
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2235
+#, fuzzy
 msgid "Let's burn Dwarves."
-msgstr ""
+msgstr "Allons brûler des nains !"
 
 #. [message]: speaker=nasty_naga
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2279
+#, fuzzy
 msgid "Hssss. Diesss allsss of youssss."
-msgstr ""
+msgstr "Sssss. Puisssssiez-voussss toussss mourirsss."
 
 #. [message]: speaker=nasty_naga
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2297
+#, fuzzy
 msgid "Hsss..."
-msgstr ""
+msgstr "Sssss..."
 
 #. [message]: speaker=mudcrawler
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2307
+#, fuzzy
 msgid "Splarch? Blurble?"
-msgstr ""
+msgstr "Sploutch ? Bloubs ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2311
+#, fuzzy
 msgid "I think that the mudcrawler found something."
-msgstr ""
+msgstr "Je pense que le tas de boue a trouvé quelque chose."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2323
+#, fuzzy
 msgid "$second_unit.name found shiny gold."
-msgstr ""
+msgstr "$second_unit.name a trouvé or brillant."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2329
+#, fuzzy
 msgid ""
 "It looks like that Naga had some gold with him. Not much, but certainly he "
 "can't use it now that he's dead."
 msgstr ""
+"Il semblerait que ce naga avait de l'or sur lui. Pas beaucoup, cela dit il "
+"ne peut plus l'utiliser à présent qu'il est mort."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2341
+#, fuzzy
 msgid "You retrieve 10 gold pieces."
-msgstr ""
+msgstr "Vous récupérez 10 pièces d'or."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2449
+#, fuzzy
 msgid "Dwarves all dead. Grog home free!"
-msgstr ""
+msgstr "Nains tous morts. Maison de Grog libre !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2454
+#, fuzzy
 msgid "Yes indeed, but why were there so few Dwarves?"
-msgstr ""
+msgstr "En effet, mais pourquoi y avait-il si peu de nains ?"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2459
+#, fuzzy
 msgid "Dwarves gone to war, many Dwarves go south some days back."
 msgstr ""
+"Nains partis à la guerre, beaucoup de nains partis au sud il y a quelques "
+"jours."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2464
+#, fuzzy
 msgid "War? With who?"
-msgstr ""
+msgstr "À la guerre ? Contre qui ?"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2469
+#, fuzzy
 msgid "Dun ask Zurg. Dwarves tell prisoners nothing!"
-msgstr ""
+msgstr "Pas demander à Zurg. Nains disent rien aux prisonniers !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2474
+#, fuzzy
 msgid ""
 "Ok, well, what do we do now? Surely the Dwarves will return at some point."
 msgstr ""
+"Bon, très bien, que fait-on à présent ? Il parait évident que les nains "
+"reviendront un jour où l'autre."
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2479
+#, fuzzy
 msgid ""
 "We go stomp Dwarves. Many tunnels in south that Dwarf dun know. Other Trolls "
 "may hide there."
 msgstr ""
+"On va écraser les nains. Pleins de tunnels au sud que les nains ne "
+"connaissent pas. Trolls peut-être encore cachés là-bas."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2484
+#, fuzzy
 msgid "Grog, you are the leader, what do you think is best?"
-msgstr ""
+msgstr "Grog, tu es le chef, qu'en penses-tu ?"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-1-Homecoming.cfg:2489
+#, fuzzy
 msgid "Grog say we go south."
-msgstr ""
+msgstr "Grog dit on va au sud."
 
 #. [scenario]: id=A2-2
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:35
+#, fuzzy
 msgid "A Doubtful Alliance"
-msgstr ""
+msgstr "Une Alliance Douteuse"
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:203
+#, fuzzy
 msgid "Explore"
-msgstr ""
+msgstr "Explorer"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:255
+#, fuzzy
 msgid "Grog smells dwarves."
-msgstr ""
+msgstr "Grog sent nains."
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:260
+#, fuzzy
 msgid "I smell Dwarf stench but something also that is not Dwarf."
-msgstr ""
+msgstr "Je sens puanteur naine mais aussi autre chose pas nain."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:265
+#, fuzzy
 msgid ""
 "The Undead. Not a good turn of events, that's for sure. What they are doing "
 "here?"
 msgstr ""
+"Des morts-vivants. Ca tourne mal pour nous, je le crains. Que font-ils là ?"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:270
+#, fuzzy
 msgid ""
 "Skeletons make only war, Dwarves war with dem. Some people say der is Lich."
 msgstr ""
+"Squelettes font seulement guerre, nains en guerre contre eux. Certains "
+"disent il y a une liche."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:276
+#, fuzzy
 msgid ""
 "Ach! A Lich? I hope not. Very well... We are trapped. Going back will not "
 "avail us, onward it is then!"
 msgstr ""
+"Aïe ! Une liche ? Je n'espère pas. Très bien... Nous sommes piégés. Nous ne "
+"pouvons pas revenir en arrière ; devant ce sera !"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:281
+#, fuzzy
 msgid "Lich are dangerous. Trolls dun trust dem."
-msgstr ""
+msgstr "Liches sont dangereuses. Trolls pas leur faire confiance."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:286
+#, fuzzy
 msgid ""
 "We have no choice. If we are lucky they will assist us and we shall leave, "
 "if not, then we will be prepared to fight."
 msgstr ""
+"Nous n'avons d'autre choix. Si nous sommes chanceux ils nous aideront et "
+"nous pourrons partir, sinon... Hé bien, nous serons prêts à combattre !"
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:351
+#, fuzzy
 msgid "Who steps into my domain? Wait... Do not answer."
-msgstr ""
+msgstr "Qui ose s'aventurer dans mon domaine ? Attendez... Ne répondez pas."
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:356
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>Trolls and their friends... this could be "
 "beneficial and very interesting... A deception is in order.</span>"
 msgstr ""
+"<span size='small' style='italic'>Des trolls et leurs amis... Cela pourrait "
+"être tout à fait intéressant... Voyons comment je peux les entourlouper... </"
+"span>"
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:361
+#, fuzzy
 msgid "What can I assist the Trolls and Human with?"
-msgstr ""
+msgstr "Comment puis-je apporter mon aide aux trolls et aux humains ?"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:366
+#, fuzzy
 msgid "Trolls chase Dwarves. Wrecked Trolls home. Now Trolls seek new home."
 msgstr ""
+"Trolls poursuivent nains. Foyer des trolls détruit. Maintenant trolls "
+"cherchent nouveau foyer."
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:371
+#, fuzzy
 msgid ""
 "Ahh. Mutual goals. Assist me in driving these Dwarves from the tunnels and I "
 "will certainly lend a hand in your search."
 msgstr ""
+"Ah, il semblerait que nous ayons des objectifs communs. Aidez-moi à chasser "
+"les nains de ces tunnels et je vous apporterai mon assistance dans votre "
+"recherche."
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:376
+#, fuzzy
 msgid "We talk first."
-msgstr ""
+msgstr "Nous d'abord palabrer entre nous."
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:381
+#, fuzzy
 msgid "As you wish, don't take too long... thinking..."
-msgstr ""
+msgstr "À votre convenance ; ne « réfléchissez » pas trop longtemps... "
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:386
+#, fuzzy
 msgid "<span size='small' style='italic'>What now? Zurg smell a trap.</span>"
 msgstr ""
+"<span size='small' style='italic'>Que fait-on ? Zurg pressent piège.</span>"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:391
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>I know the Undead. They are vile, "
 "treacherous and cruel. They will use us and then kill us, or worse.</span>"
 msgstr ""
+"<span size='small' style='italic'>Je connais les morts-vivants. Ils sont "
+"vils, perfides et cruels. Ils nous utiliseront et nous tueront, voire pire.</"
+"span>"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:396
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>Mage think that Bones will betray us as "
 "soon as Trolls killed Dwarves?</span>"
 msgstr ""
+"<span size='small' style='italic'>Mage pense que sacs d'os vont trahir dès "
+"que trolls auront tué nains ?</span>"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:401
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>It's unlikely. He'll probably wants to "
 "take us to his leader first. The Undead are notoriously unimaginative.</span>"
 msgstr ""
+"<span size='small' style='italic'>C'est peu probable. Ils voudront "
+"certainement nous mener à leur chef d'abord. Les morts-vivants sont peu "
+"connus pour leur imagination...</span>"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:406
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>Zurg know. Trolls help dem, then, Trolls "
 "escape.</span>"
 msgstr ""
+"<span size='small' style='italic'>Zurg sait ! Trolls les aident, puis trolls "
+"s'enfuient.</span>"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:411
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>Grog say yes. Trolls say no, den, Bones "
 "kill Trolls.</span>"
 msgstr ""
+"<span size='small' style='italic'>Grog dit oui. Si trolls disent non, alors "
+"sacs d'os tuent trolls.</span>"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:416
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>Very well, but we must be on our guard.</"
 "span>"
 msgstr ""
+"<span size='small' style='italic'>Très bien, mais nous devons rester sur nos "
+"gardes.</span>"
 
 #. [message]: speaker=Zurg
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:421
+#, fuzzy
 msgid "Trolls help Bones kill Dwarves."
-msgstr ""
+msgstr "Trolls aident sacs d'os à tuer nains."
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:426
+#, fuzzy
 msgid "Excellent. Feel free to avail yourselves of the keep over there."
-msgstr ""
+msgstr "Parfait. N'hésitez pas à utiliser le donjon juste là."
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:454
+#, fuzzy
 msgid "Kill the dwarvish leader"
-msgstr ""
+msgstr "Tuer le chef nain"
 
 #. [objective]: condition=lose
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:470
+#, fuzzy
 msgid "Death of the undead leader"
-msgstr ""
+msgstr "Mort du chef mort-vivant"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:497
+#, fuzzy
 msgid ""
 "This was once the entrance to the great Dwarvish kingdom that thrived here. "
 "After The Fall the few remaining Dwarves retreated deep into their tunnels. "
 "Over many centuries the wind has blown the desert far into the caves."
 msgstr ""
+"Cet endroit fut autrefois l'entrée du grand royaume nain qui prospérait dans "
+"ces contrées. Après la Chute, les quelques nains restants s'enfoncèrent "
+"profondément dans leurs tunnels. Pendant les siècles suivants le vent poussa "
+"le désert loin dans les cavernes."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:517
+#, fuzzy
 msgid ""
 "This was once the grand welcoming hall of the Dwarvish kingdom. Now it is "
 "little more than a guard post."
 msgstr ""
+"Cet endroit fut autrefois le grand hall du royaume nain. Ce n'est plus à "
+"présent qu'un simple poste de garde."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:542
+#, fuzzy
 msgid ""
 "This pile of rubble used to be a great stone pillar reaching to the roof of "
 "this vast chamber."
 msgstr ""
+"Cet amas de gravats a jadis été un grand pilier de pierre atteignant le "
+"plafond de cette vaste salle."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:562
+#, fuzzy
 msgid ""
 "That Skeleton looks like that bandit chap I fried a few days ago. I wonder "
 "if he recognizes me?"
 msgstr ""
+"Ce squelette ressemble à ce bandit que j'ai carbonisé il y a quelques jours. "
+"Je me demande s'il me reconnait !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:568
+#, fuzzy
 msgid "Hey, you there! How do you find the un-life?"
-msgstr ""
+msgstr "Hé, toi ! Comment trouves-tu la non-vie ?"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:573
+#, fuzzy
 msgid "You're lucky I can't reach you, or I'd skewer you with an arrow!"
 msgstr ""
+"Vous avez de la chance que je ne puisse vous atteindre, sinon je vous "
+"embrocherais d'une flèche !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:581
+#, fuzzy
 msgid "Looks like he's enjoying himself!"
-msgstr ""
+msgstr "Il semble qu'il s'amuse bien !"
 
 #. [message]: speaker=dwarfboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:617
+#, fuzzy
 msgid ""
 "Aye, this be a lost cause, I can not hold them. You, go and warn the rest of "
 "the clan."
 msgstr ""
+"Arf, c'est foutu, je ne peux plus les contenir. Toi, va et prévient le reste "
+"du clan."
 
 #. [message]: speaker=messenger
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:631
+#, fuzzy
 msgid "As yer command, Mi Lord."
-msgstr ""
+msgstr "À vos ordres, Monseigneur."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:661
+#, fuzzy
 msgid "How can this be? This is impossible!"
-msgstr ""
+msgstr "Comment est-ce possible ? Ce n'est pas vrai !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:666
+#, fuzzy
 msgid "It is as I feared, they were too many."
-msgstr ""
+msgstr "C'est ce que je craignais. Ils sont trop nombreux..."
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:687
+#, fuzzy
 msgid "Aha! Success!"
-msgstr ""
+msgstr "Ah ah ! Victoire !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:692
+#, fuzzy
 msgid ""
 "<span size='small' style='italic'>Zurg, lead everyone back to the village: "
 "you will have a chance to defend against counter attack there. We will "
 "return when we can.</span>"
 msgstr ""
+"<span size='small' style='italic'>Zurg, ramène tout le monde au village : "
+"vous aurez une chance de vous prémunir d'une contre-attaque là-bas. Nous "
+"reviendrons quand nous pourrons.</span>"
 
 #. [message]: speaker=undeadboss
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:701
+#, fuzzy
 msgid ""
 "Yes, you will now come to my master to make arrangements about a new home, "
 "yes? These fine young skeletons will be your, ah, bodyguards..."
 msgstr ""
+"Bien, vous allez à présent rencontrer mon maître pour discuter de votre "
+"nouveau foyer, n'est-ce pas ? Ces jeunes squelettes sympathiques seront vos, "
+"heu, gardes du corps durant le trajet."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:706
+#, fuzzy
 msgid "<span size='small' style='italic'>Prison guards more likely.</span>"
 msgstr ""
+"<span size='small' style='italic'>Plus probablement nos geôliers.</span>"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A2-2-A_Doubtful_Alliance.cfg:723
 #: The_Sojournings_of_Grog/scenarios/B3-Rearguard.cfg:848
+#, fuzzy
 msgid "This is taking too long."
-msgstr ""
+msgstr "Cela prend trop de temps."
 
 #. [scenario]: id=A3
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:23
+#, fuzzy
 msgid "First Contact"
-msgstr ""
+msgstr "Premier Contact"
 
 #. [part]
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:38
+#, fuzzy
 msgid ""
 "They were brought down to meet the Undead master; Elyssa hoped that he would "
 "be a mere necromancer. She had met the Undead before, unlike the trolls and "
@@ -2142,274 +2773,360 @@ msgid ""
 "they entered the Undead realm Elyssa wondered if she could create enough "
 "fire."
 msgstr ""
+"Ils furent emmenés dans les profondeurs de la terre pour rencontrer le "
+"maître des morts-vivants ; Elyssa espérait que ce ne serait qu'un simple "
+"nécromancien. Elle avait déjà eu maille à partir avec les morts-vivants "
+"auparavant, au contraire des trolls, et n'avait aucune illusion sur ce "
+"qu'ils leur réservaient. Depuis leur victoire sur les nains ils étaient "
+"<i>de facto</i> prisonniers. Grog ordonna aux trolls de se préparer à une "
+"éventuelle attaque mais Elyssa n'était pas certaine que ce serait suffisant. "
+"Quand ils entrèrent dans le royaume mort-vivant Elyssa se demanda si elle "
+"pourrait créer suffisamment de feu."
 
 #. [side]: type=Ancient Lich, id=U
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:79
+#, fuzzy
 msgid "Undead Forces"
-msgstr ""
+msgstr "Morts-vivants"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:171
+#, fuzzy
 msgid "Mal-Apophis quaffs an healing potion!"
-msgstr ""
+msgstr "Mal-Apophis avale une potion de soin !"
 
 #. [side]: type=Armageddon Drake, id=S
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:194
+#, fuzzy
 msgid "Drake's Forces"
-msgstr ""
+msgstr "Drakes"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:238
+#, fuzzy
 msgid "The Drake Ambassador quaffs an healing potion!"
-msgstr ""
+msgstr "L'ambassadeur drake avale une potion de soin !"
 
 #. [side]: type=Death Baron, type=Death Knight, id=L
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:259
+#, fuzzy
 msgid "Lotin"
-msgstr ""
+msgstr "Lotin"
 
 #. [side]: type=Death Baron, type=Death Knight, id=L
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:272
+#, fuzzy
 msgid "Gate Guard"
-msgstr ""
+msgstr "Gardien de la porte"
 
 #. [objective]: condition=win
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:337
+#, fuzzy
 msgid "Escape the Lich"
-msgstr ""
+msgstr "Échapper à la liche"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:464
+#, fuzzy
 msgid ""
 "A Lich! I still remember when Garak turned to the dark magics. We are in "
 "trouble."
 msgstr ""
+"Une liche ! Cela me rappelle le jour funeste où Garak fut corrompu par la "
+"magie noire. Ce n'est pas bon du tout..."
 
 #. [message]: speaker=U
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:475
+#, fuzzy
 msgid ""
 "A Lich? Do you think I am some kind of rotting corpse? <b>I am Mal-Apophis! "
 "The lich... The ancient Lich!</b> I have defied the kingdoms of life and "
 "death since the former years and you dare call me <i>a mere Lich?</i>"
 msgstr ""
+"Une liche ? Me prenez-vous pour une sorte de cadavre pourrissant ? <b>Je "
+"suis Mal-Apophis! La liche... L'ancienne liche !</b> J'ai défié les royaumes "
+"de la vie et de la mort depuis l'aube des temps et vous osez m'appeler une "
+"<i>simple liche</i> ?"
 
 #. [message]: speaker=U
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:480
+#, fuzzy
 msgid ""
 "Your ignorance is pardonable. It is inconceivable that you could imagine "
 "such a being as <b>me!</b>"
 msgstr ""
+"Votre ignorance est excusable. Il est inconcevable que vous puissiez "
+"imaginer un être tel que <b>moi</b> !"
 
 #. [message]: speaker=U
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:485
+#, fuzzy
 msgid "Let me present the ambassador of my newest ally."
 msgstr ""
+"Permettez-moi de vous présenter l'ambassadeur de mon plus récent allié."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:490
+#, fuzzy
 msgid "A Drake! I have greatly wished to see one..."
-msgstr ""
+msgstr "Un drake ! J'ai toujours rêvé d'en voir un..."
 
 #. [message]: speaker=S
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:495
+#, fuzzy
 msgid "BREAAAKFAAAST!"
-msgstr ""
+msgstr "MANGEEERRRRR !"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:501
+#, fuzzy
 msgid "Perhaps not this close!"
-msgstr ""
+msgstr "Peut-être pas d'aussi prêt !"
 
 #. [message]: speaker=U
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:506
+#, fuzzy
 msgid ""
 "As thanks for your endeavors in my service, I will resurrect you as my "
 "principal servants!"
 msgstr ""
+"En guise de remerciements pour vos efforts, je ferai de vous mes principaux "
+"serviteurs une fois ressuscités."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:511
+#, fuzzy
 msgid "Grog dun like hissing thing. Grog want smash it."
-msgstr ""
+msgstr "Grog aime pas chose chuintante. Grog veut crabouiller."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:517
+#, fuzzy
 msgid "Slaves! Not before I fry your delusional un-brain!"
-msgstr ""
+msgstr "Esclaves ? Pas avant que je carbonise votre non-cerveau délirant !"
 
 #. [message]: speaker=U
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:582
+#, fuzzy
 msgid "AAAAAHHHHH! Guards! Kill them all."
-msgstr ""
+msgstr "AAAAAHHHHH ! gardes ! Tuez-les tous !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:587
+#, fuzzy
 msgid "I don't think so. Melt in the hot suns Lich!"
 msgstr ""
+"Je ne crois pas, non. Que les soleils brûlants vaporise vos os démoniaques, "
+"Liche !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:647
+#, fuzzy
 msgid "Well, that was the best I could manage. Your move, Grog."
-msgstr ""
+msgstr "Je ne peux pas faire mieux. A ton tour, Grog."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:652
+#, fuzzy
 msgid "Grog say run!"
-msgstr ""
+msgstr "Grog dit courrez !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:658
+#, fuzzy
 msgid ""
 "This cave is full of side tunnels. Let's try to stay on the main road, for "
 "we don't know how much the other tunnels will slow us down."
 msgstr ""
+"Cette caverne est pleine de tunnels secondaires. Restons sur la route "
+"principale ; nous risquons d'être ralentis en prenant les autres tunnels."
 
 #. [message]: speaker=S
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:663
+#, fuzzy
 msgid "RRRRRRAAAAAAAUUUUUURRRGGHHHHH!"
-msgstr ""
+msgstr "RRRRRRAAAAAAAUUUUUURRRGGHHHHH!"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:725
+#, fuzzy
 msgid ""
 "Dwarven runes! Have a look and see what they do. I need to save my magic for "
 "the Lich; hes going to be hard to... err... un-kill."
 msgstr ""
+"Des runes naines ! Je vous laisse jeter un oeil et voir ce qu'elles font ; "
+"je dois conserver toute ma puissance magique pour la liche. Elle va être "
+"difficile à... heu... « dé-tuer »."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:737
+#, fuzzy
 msgid "Runes broken?"
-msgstr ""
+msgstr "Runes cassées ?"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:743
+#, fuzzy
 msgid "How broken are these runes then?"
-msgstr ""
+msgstr "À quel point ces runes sont-elle cassées ?"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:750
+#, fuzzy
 msgid ""
 "Step on them and find out. I need to save my magic; that Lich will be hard "
 "to... err... un-kill."
 msgstr ""
+"Allez dessus, on verra bien. Je dois conserver toute ma puissance magique "
+"pour la liche. Elle va être difficile à... heu... « dé-tuer ». "
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:798
+#, fuzzy
 msgid "We can't destroy the bridge if one of us is still on it!"
 msgstr ""
+"Nous ne pouvons pas détruire le pont si l'un de nous s'il trouve encore !"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:810
+#, fuzzy
 msgid "Rune not work again."
-msgstr ""
+msgstr "Rune ne marche plus."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:816
+#, fuzzy
 msgid "Nothing happened. Typical."
-msgstr ""
+msgstr "Rien ne s'est produit. Classique."
 
 #. [message]: speaker=U
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:919
+#, fuzzy
 msgid "You can't kill me!"
-msgstr ""
+msgstr "Vous ne pouvez pas me tuer !"
 
 #. [message]: speaker=S
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:932
+#, fuzzy
 msgid "Grrrgghhh."
-msgstr ""
+msgstr "Grrrgghhh."
 
 #. [message]: speaker=L
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:944
+#, fuzzy
 msgid "Master, I have failed..."
-msgstr ""
+msgstr "Maître, j'ai failli..."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:961
+#, fuzzy
 msgid "$second_unit.name see gate."
-msgstr ""
+msgstr "$second_unit.name voit porte."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:967
+#, fuzzy
 msgid "Look, a gateway! Maybe we can get out and close it!"
-msgstr ""
+msgstr "Regardez, une porte ! Peut-être pouvons-nous sortir et la fermer !"
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:974
+#, fuzzy
 msgid ""
 "Excellent, a way out of this nightmare. Grog, see if you can close it behind "
 "us; I don't hold out hope though, my opinion of Dwarvish construction is "
 "waning rapidly."
 msgstr ""
+"Génial, un échappatoire à ce cauchemar. Grog, regarde si tu peux la fermer "
+"derrière nous. Je ne suis cependant pas particulièrement confiante, MON "
+"OPINION SUR LES CONSTRUCTIONS NAINES DIMINUE RAPIDEMENT."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:979
+#, fuzzy
 msgid "It <i>should</i> close from the outside; if not..."
 msgstr ""
+"Elle <i>devrait</i> se fermer de l'extérieur ; si ce n'est pas le cas..."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:984
+#, fuzzy
 msgid "Hit with hammer."
-msgstr ""
+msgstr "Taper avec marteau."
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1069
+#, fuzzy
 msgid "Cogs turn and iron grinds as a heavy gate descends behind them."
 msgstr ""
+"Les rouages tournent et le fer grince tandis que la lourde porte descend "
+"derrière eux."
 
 #. [message]: speaker=Elyssa
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1095
+#, fuzzy
 msgid "It closed itself. How convenient."
-msgstr ""
+msgstr "Elle s'est fermée toute seule. Comme c'est pratique !"
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1101
+#, fuzzy
 msgid "Thank Griknagh for help Trolls."
-msgstr ""
+msgstr "Merci Griknagh pour aider trolls."
 
 #. [message]: role=shame
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1148
+#, fuzzy
 msgid "Shame we could not release all the prisoners."
-msgstr ""
+msgstr "Dommage que nous n'ayons pu relâcher tous les prisonniers"
 
 #. [message]: role=advice
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1157
+#, fuzzy
 msgid "Gate not last long. Bones go to Troll home now."
-msgstr ""
+msgstr "Porte pas tenir longtemps. Sac d'os aller chez les troll maintenant."
 
 #. [message]: speaker=Grog
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1162
+#, fuzzy
 msgid "Grog need go to Troll village."
-msgstr ""
+msgstr "Grog doit aller au village troll."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1206
+#, fuzzy
 msgid "Got you!"
-msgstr ""
+msgstr "Je vous tiens !"
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1217
+#, fuzzy
 msgid " $unit.name says this one stinks."
-msgstr ""
+msgstr " $unit.name dit celui-là pue."
 
 #. [message]: speaker=unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1224
+#, fuzzy
 msgid "Aaahh! Help me!"
-msgstr ""
+msgstr "Aaahh! Aidez-moi !"
 
 #. [message]: speaker=narrator
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1231
+#, fuzzy
 msgid "To rescue this unit kill its captor."
-msgstr ""
+msgstr "Pour délivrer cette unité, tuez son ravisseur."
 
 #. [message]: speaker=second_unit
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1252
+#, fuzzy
 msgid "And you as well!"
-msgstr ""
+msgstr "et vous aussi !"
 
 #. [floating_text]
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1280
+#, fuzzy
 msgid "<span foreground='red'>unit captured</span>"
-msgstr ""
+msgstr "<span foreground='red'>unité capturée</span>"
 
 #. [unstore_unit]
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1378
@@ -2417,8 +3134,9 @@ msgstr ""
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1470
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1516
 #: The_Sojournings_of_Grog/scenarios/A3-First_Contact.cfg:1562
+#, fuzzy
 msgid "unit released"
-msgstr ""
+msgstr "unité relâchée"
 
 #. [part]
 #: The_Sojournings_of_Grog/scenarios/A4-Siege_Perilous.cfg:57
