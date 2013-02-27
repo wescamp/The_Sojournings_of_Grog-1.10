@@ -1,3 +1,6 @@
+From version 3.0.2 to 3.0.3:
+* C1-Zurg: fixed a bug that counted the sailors as prisoners.
+
 From version 3.0.1 to 3.0.2:
 * Gave special ellipsis to Grog, Elyssa and Zurg
 * Removed Kaleh's secondary sword attack, and added Stun special to the main sword attack.
